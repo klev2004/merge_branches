@@ -1,0 +1,171 @@
+// ------------------------------------------------------------------
+// Transitive dependencies of this project determined from the
+// maven pom organized by organization.
+// ------------------------------------------------------------------
+
+WSO2 Carbon - Spark Commons Feature
+
+
+From: 'an unknown organization'
+  - MinLog (http://code.google.com/p/minlog/) com.esotericsoftware.minlog:minlog:jar:1.2
+    License: New BSD License  (http://www.opensource.org/licenses/bsd-license.php)
+  - FindBugs-jsr305 (http://findbugs.sourceforge.net/) com.google.code.findbugs:jsr305:jar:2.0.1
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Guava: Google Core Libraries for Java (https://github.com/google/guava/guava) com.google.guava:guava:bundle:19.0
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Compress-LZF (http://github.com/ning/compress) com.ning:compress-lzf:bundle:1.0.3
+    License: Apache License 2.0  (http://www.apache.org/licenses/LICENSE-2.0.html)
+  - ParaNamer Core (http://paranamer.codehaus.org/paranamer) com.thoughtworks.paranamer:paranamer:jar:2.6
+    License: BSD  (LICENSE.txt)
+  - commons.configuration.wso2 (http://wso2.org) commons-configuration.wso2:commons-configuration:bundle:1.6.0.wso2v1
+
+  - Metrics Core (http://metrics.codahale.com/metrics-core/) io.dropwizard.metrics:metrics-core:bundle:3.1.2
+    License: Apache License 2.0  (http://www.apache.org/licenses/LICENSE-2.0.html)
+  - Graphite Integration for Metrics (http://metrics.codahale.com/metrics-graphite/) io.dropwizard.metrics:metrics-graphite:bundle:3.1.2
+    License: Apache License 2.0  (http://www.apache.org/licenses/LICENSE-2.0.html)
+  - Jackson Integration for Metrics (http://metrics.codahale.com/metrics-json/) io.dropwizard.metrics:metrics-json:bundle:3.1.2
+    License: Apache License 2.0  (http://www.apache.org/licenses/LICENSE-2.0.html)
+  - JVM Integration for Metrics (http://metrics.codahale.com/metrics-jvm/) io.dropwizard.metrics:metrics-jvm:bundle:3.1.2
+    License: Apache License 2.0  (http://www.apache.org/licenses/LICENSE-2.0.html)
+  - LZ4 and xxHash (https://github.com/jpountz/lz4-java) net.jpountz.lz4:lz4:jar:1.3.0
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Commons Compiler (http://docs.codehaus.org/display/JANINO/Home/commons-compiler) org.codehaus.janino:commons-compiler:jar:2.7.8
+    License: New BSD License  (http://dist.codehaus.org/janino/new_bsd_license.txt)
+  - leveldb-api (http://github.com/dain/leveldb/leveldb-api) org.iq80.leveldb:leveldb-api:jar:0.6
+    License: Apache License 2.0  (http://www.apache.org/licenses/LICENSE-2.0.html)
+  - Uncommons Maths (http://maths.uncommons.org/) org.uncommons.maths:uncommons-maths:jar:1.2.2a
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.html)
+  - WSO2 Carbon Orbit - Json4s Jackson (http://wso2.org) org.wso2.json4s:json4s-jackson_2.10:bundle:3.2.10.wso2v1
+
+  - WSO2 Carbon Orbit - Stream Lib (http://wso2.org) org.wso2.orbit.com.clearspring.analytics:stream:bundle:2.9.5.wso2v1
+
+  - kryo.wso2  org.wso2.orbit.com.esotericsoftware.kryo:kryo:bundle:2.24.0.wso2v1
+
+  - WSO2 Carbon Orbit - MinLog  org.wso2.orbit.com.esotericsoftware.minlog:minlog:bundle:1.2.wso2v1
+
+  - WSO2 Carbon Orbit - jackson-module-scala (http://wso2.org) org.wso2.orbit.com.fasterxml.jackson.module:jackson-module-scala_2.10:bundle:2.4.4.wso2v1
+
+  - WSO2 Carbon Orbit - Thoughtworks Paranamer (http://wso2.org) org.wso2.orbit.com.thoughtworks.paranamer:paranamer:bundle:2.6.wso2v1
+
+  - WSO2 Carbon Orbit - Netty (all) (http://wso2.org) org.wso2.orbit.io.netty:netty-all:bundle:4.0.29.wso2v1
+
+  - WSO2 Carbon Orbit - Avro tools (http://wso2.org) org.wso2.orbit.org.apache.avro:avro-tools:bundle:1.7.7.wos2v1
+
+  - WSO2 Carbon Orbit - Apache Hadoop Client Bundle (http://wso2.org) org.wso2.orbit.org.apache.hadoop:hadoop-client:bundle:2.7.2.wso2v1
+
+  - WSO2 Carbon Orbit - HTrace Bundle (http://wso2.org) org.wso2.orbit.org.apache.htrace:htrace-core-apache:bundle:3.1.0-incubating.wso2v1
+
+  - WSO2 Carbon Orbit - Apache Mesos (http://wso2.org) org.wso2.orbit.org.apache.mesos:mesos:bundle:0.21.1.wso2v1
+
+  - WSO2 Carbon Orbit - Parquet-hadoop (http://wso2.org) org.wso2.orbit.org.apache.parquet:parquet-hadoop:bundle:1.7.0.wso2v1
+
+  - WSO2 Carbon Orbit - Apache Spark Core (http://wso2.org) org.wso2.orbit.org.apache.spark:spark-core_2.10:bundle:1.6.2.wso2v1
+
+  - WSO2 Carbon Orbit - Apache Spark SQL (http://wso2.org) org.wso2.orbit.org.apache.spark:spark-sql_2.10:bundle:1.6.2.wso2v1
+
+  - WSO2 Carbon Orbit - Apache Spark Streaming  org.wso2.orbit.org.apache.spark:spark-streaming_2.10:bundle:1.6.2.wso2v1
+
+  - WSO2 Carbon Orbit - commons-compiler (http://wso2.org) org.wso2.orbit.org.codehaus.janino:commons-compiler:bundle:2.7.8.wso2v1
+
+  - WSO2 Carbon Orbit - Janino (http://wso2.org) org.wso2.orbit.org.codehaus.janino:janino:bundle:2.7.8.wso2v1
+
+  - WSO2 Carbon Orbit - leveldb-api (http://wso2.org) org.wso2.orbit.org.iq80.leveldb:leveldb-api:bundle:0.6.0.wso2v1
+
+  - WSO2 Carbon Orbit - Objenesis  org.wso2.orbit.org.objenesis:objenesis:bundle:2.1.wso2v1
+
+  - WSO2 Carbon Orbit - tachyon-client (http://wso2.org) org.wso2.orbit.org.tachyonproject:tachyon-client:bundle:0.8.2.wso2v1
+
+  - WSO2 Carbon Orbit - oro (http://wso2.org) org.wso2.orbit.oro:oro:bundle:2.0.8.wso2v1
+
+  - WSO2 Carbon Orbit - Twitter Chill (http://wso2.org) org.wso2.twitter:chill_2.10:bundle:0.5.0.wso2v1
+
+  - WSO2 Carbon Orbit - Uncommons Math (http://wso2.org) org.wso2.uncommons.maths:uncommons-maths:bundle:1.2.2.wso2v1
+
+  - slf4j.wso2 (http://wso2.org) slf4j.wso2:slf4j:bundle:1.5.10.wso2v1
+
+
+From: 'com.fasterxml.jackson.module'
+  - jackson-module-scala (http://wiki.fasterxml.com/JacksonModuleScala) com.fasterxml.jackson.module:jackson-module-scala_2.10:bundle:2.4.4
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: 'com.typesafe'
+  - config (https://github.com/typesafehub/config) com.typesafe:config:bundle:1.2.1
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)
+
+From: 'FasterXML' (http://fasterxml.com/)
+  - Jackson-annotations (http://github.com/FasterXML/jackson) com.fasterxml.jackson.core:jackson-annotations:bundle:2.4.4
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Jackson-core (https://github.com/FasterXML/jackson) com.fasterxml.jackson.core:jackson-core:bundle:2.4.4
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - jackson-databind (http://github.com/FasterXML/jackson) com.fasterxml.jackson.core:jackson-databind:bundle:2.4.4
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: 'FuseSource, Corp.' (http://fusesource.com/)
+  - HawtJNI Runtime (http://hawtjni.fusesource.org/hawtjni-runtime) org.fusesource.hawtjni:hawtjni-runtime:jar:1.9
+    License: Eclipse Public License - v 1.0  (http://www.eclipse.org/legal/epl-v10.html)    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - leveldbjni (http://leveldbjni.fusesource.org/leveldbjni) org.fusesource.leveldbjni:leveldbjni:jar:1.8
+    License: The BSD 3-Clause License  (http://www.opensource.org/licenses/BSD-3-Clause)
+
+From: 'GlassFish Community' (http://glassfish.org)
+  - JavaServer Pages(TM) API (http://jsp.java.net) javax.servlet.jsp:javax.servlet.jsp-api:jar:2.2.1
+    License: CDDL + GPLv2 with classpath exception  (https://glassfish.dev.java.net/nonav/public/CDDL+GPL.html)
+
+From: 'Google' (http://www.google.com/)
+  - Protocol Buffer Java API (http://code.google.com/p/protobuf) com.google.protobuf:protobuf-java:bundle:2.5.0
+    License: New BSD license  (http://www.opensource.org/licenses/bsd-license.php)
+  - Protocol Buffer Java API (http://code.google.com/p/protobuf) org.spark-project.protobuf:protobuf-java:bundle:2.5.0-spark
+    License: New BSD license  (http://www.opensource.org/licenses/bsd-license.php)
+
+From: 'Joe Walnes, Henri Tremblay, Leonardo Mesquita'
+  - Objenesis (http://objenesis.org) org.objenesis:objenesis:jar:2.1
+    License: Apache 2  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: 'LAMP/EPFL' (http://lamp.epfl.ch/)
+  - Scala Library (http://www.scala-lang.org/) org.scala-lang:scala-library:jar:2.10.5
+    License: BSD-like  (http://www.scala-lang.org/downloads/license.html)
+  - Scala Compiler (http://www.scala-lang.org/) org.scala-lang:scala-reflect:jar:2.10.5
+    License: BSD-like  (http://www.scala-lang.org/downloads/license.html)
+
+From: 'ObjectWeb' (http://www.objectweb.org/)
+  - ASM Core (http://asm.objectweb.org/asm/) asm:asm:jar:3.1
+
+
+From: 'Oracle Corporation' (http://www.oracle.com/)
+  - jersey-core (https://jersey.java.net/jersey-core/) com.sun.jersey:jersey-core:bundle:1.9
+    License: CDDL 1.1  (http://glassfish.java.net/public/CDDL+GPL_1_1.html)    License: GPL2 w/ CPE  (http://glassfish.java.net/public/CDDL+GPL_1_1.html)
+  - jersey-server (https://jersey.java.net/jersey-server/) com.sun.jersey:jersey-server:bundle:1.9
+    License: CDDL 1.1  (http://glassfish.java.net/public/CDDL+GPL_1_1.html)    License: GPL2 w/ CPE  (http://glassfish.java.net/public/CDDL+GPL_1_1.html)
+
+From: 'QOS.ch' (http://www.qos.ch)
+  - SLF4J API Module (http://www.slf4j.org) org.slf4j:slf4j-api:jar:1.7.13
+    License: MIT License  (http://www.opensource.org/licenses/mit-license.php)
+
+From: 'The Apache Software Foundation' (http://www.apache.org)
+  - Apache XBean :: ASM 5 shaded (repackaged) (http://geronimo.apache.org/maven/xbean/4.4/xbean-asm5-shaded) org.apache.xbean:xbean-asm5-shaded:bundle:4.4
+    License: $license.name  (http://asm.ow2.org/license.html)    License: $license.name  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: 'The Apache Software Foundation' (http://www.apache.org/)
+  - Apache Commons Lang (http://commons.apache.org/proper/commons-lang/) org.apache.commons:commons-lang3:jar:3.3.2
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Commons Math (http://commons.apache.org/proper/commons-math/) org.apache.commons:commons-math3:jar:3.2
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: 'The Netty Project' (http://netty.io/)
+  - The Netty Project (http://netty.io/) io.netty:netty:bundle:3.9.0.Final
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)
+
+From: 'Typesafe Inc.' (http://www.typesafe.com)
+  - akka-actor (http://akka.io/) com.typesafe.akka:akka-actor_2.10:jar:2.3.11
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)
+  - akka-remote (http://akka.io/) com.typesafe.akka:akka-remote_2.10:jar:2.3.11
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)
+  - akka-slf4j (http://akka.io/) com.typesafe.akka:akka-slf4j_2.10:jar:2.3.11
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)
+
+From: 'xerial.org'
+  - snappy-java (https://github.com/xerial/snappy-java) org.xerial.snappy:snappy-java:bundle:1.1.2.1
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+
+
+

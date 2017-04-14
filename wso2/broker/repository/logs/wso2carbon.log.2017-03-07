@@ -1,0 +1,335 @@
+TID: [-1] [] [2017-03-07 00:10:34,743]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-07 00:25:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-07 00:40:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-07 00:55:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-07 01:10:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-07 01:25:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-07 01:40:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-07 01:55:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-07 02:10:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-07 02:25:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-07 02:40:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-07 02:55:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-07 03:10:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-07 03:25:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-07 03:40:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-07 03:55:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-07 04:10:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-07 04:25:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-07 04:40:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-07 04:55:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-07 05:10:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-07 05:25:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-07 05:40:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-07 05:55:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-07 06:10:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-07 06:25:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-07 06:40:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-07 06:55:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-07 07:10:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-07 07:25:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-07 07:40:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-07 07:55:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-07 08:10:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-07 08:25:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1234] [] [2017-03-07 08:39:27,783]  WARN {org.wso2.carbon.core.services.util.CarbonAuthenticationUtil} -  Failed Administrator login attempt 'admin[-1234]' at [2017-03-07 08:39:27,783+0200] 
+TID: [-1] [] [2017-03-07 08:40:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-07 08:55:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-07 09:10:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-07 09:25:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-07 09:40:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-07 09:47:58,512]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  SASL Mechanism selected: PLAIN 
+TID: [-1] [] [2017-03-07 09:47:58,513]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Locale selected: en_US 
+TID: [-1234] [] [2017-03-07 09:47:58,518]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Connected as: jndi_user 
+TID: [-1234] [] [2017-03-07 09:47:58,518]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Framesize set to 65535 
+TID: [-1] [] [2017-03-07 09:55:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-07 10:10:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1234] [] [2017-03-07 10:12:56,942]  INFO {org.wso2.carbon.core.services.util.CarbonAuthenticationUtil} -  'admin@carbon.super [-1234]' logged in at [2017-03-07 10:12:56,942+0200] 
+TID: [-1] [] [2017-03-07 10:25:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-07 10:40:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-07 10:55:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-07 11:10:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-07 11:25:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-07 11:40:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-07 11:55:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-07 12:10:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-07 12:25:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-07 12:40:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-07 12:55:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1234] [] [2017-03-07 13:10:18,110]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  SASL Mechanism selected: PLAIN 
+TID: [-1234] [] [2017-03-07 13:10:18,111]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Locale selected: en_US 
+TID: [-1234] [] [2017-03-07 13:10:18,116]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Connected as: jndi_user 
+TID: [-1234] [] [2017-03-07 13:10:18,117]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Framesize set to 65535 
+TID: [-1234] [] [2017-03-07 13:10:18,139]  INFO {org.wso2.andes.server.handler.ConnectionCloseMethodHandler} -  ConnectionClose received with reply code/reply text 200/JMS client is closing the connection. for /10.49.40.202:53098(jndi_user) 
+TID: [-1234] [] [2017-03-07 13:10:18,179]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  SASL Mechanism selected: PLAIN 
+TID: [-1234] [] [2017-03-07 13:10:18,180]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Locale selected: en_US 
+TID: [-1234] [] [2017-03-07 13:10:18,182]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Connected as: jndi_user 
+TID: [-1234] [] [2017-03-07 13:10:18,183]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Framesize set to 65535 
+TID: [-1234] [] [2017-03-07 13:10:18,271]  INFO {org.wso2.andes.server.handler.ChannelOpenHandler} -  Connecting to: carbon 
+TID: [-1234] [] [2017-03-07 13:10:18,276]  INFO {org.wso2.andes.kernel.AndesChannel} -  Channel created (ID: 10.49.40.202:53100) 
+TID: [-1234] [] [2017-03-07 13:10:18,399]  INFO {org.wso2.andes.server.handler.QueueDeclareHandler} -  Queue pl_city_DataService bound to default exchange(<<default>>) 
+TID: [-1234] [] [2017-03-07 13:10:18,400]  INFO {org.wso2.andes.server.handler.QueueDeclareHandler} -  Queue pl_city_DataService declared successfully 
+TID: [-1234] [] [2017-03-07 13:10:18,413]  INFO {org.wso2.andes.server.handler.QueueBindHandler} -  Binding queue pl_city_DataService to exchange DirectExchange[amq.direct] with routing key pl_city_DataService 
+TID: [-1] [] [2017-03-07 13:10:18,423]  INFO {org.wso2.andes.subscription.SubscriptionEngine} -  Local subscription ADDED [pl_city_DataService]ID=1@NODEEII-M-A/10.49.40.202/T=1488885018421/D=true/X=false/O=null/E=amq.direct/ET=org.wso2.andes.server.exchange.DirectExchange$1@5b2bae2/EUD=0/S=true 
+TID: [-1] [] [2017-03-07 13:10:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-07 13:14:04,785]  INFO {org.wso2.andes.subscription.SubscriptionEngine} -  Local Subscription DELETED [pl_city_DataService]ID=1@NODEEII-M-A/10.49.40.202/T=1488885018421/D=true/X=false/O=null/E=amq.direct/ET=org.wso2.andes.server.exchange.DirectExchange$1@5b2bae2/EUD=0/S=false 
+TID: [-1234] [] [2017-03-07 13:14:04,808]  INFO {org.wso2.andes.server.handler.ChannelCloseHandler} -  Received channel close for id 1 citing class 0 and method 0 
+TID: [-1234] [] [2017-03-07 13:14:04,809]  INFO {org.wso2.andes.server.AMQChannel} -  No consumers to unsubscribe on channel [/10.49.40.202:53100(jndi_user):1] 
+TID: [-1234] [] [2017-03-07 13:14:04,810]  INFO {org.wso2.andes.kernel.FlowControlManager} -  Channel removed (ID: 10.49.40.202:53100) 
+TID: [-1] [] [2017-03-07 13:14:04,825]  INFO {org.wso2.andes.kernel.slot.SlotDeliveryWorker} -  SlotDeliveryWorker stopped. Thread name SlotDeliveryWorkerExecutor-1 with Thread Id : 779 
+TID: [-1234] [] [2017-03-07 13:14:05,728]  INFO {org.wso2.andes.server.handler.ConnectionCloseMethodHandler} -  ConnectionClose received with reply code/reply text 200/JMS client is closing the connection. for /10.49.40.202:53100(jndi_user) 
+TID: [-1234] [] [2017-03-07 13:14:05,775]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  SASL Mechanism selected: PLAIN 
+TID: [-1234] [] [2017-03-07 13:14:05,777]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Locale selected: en_US 
+TID: [-1234] [] [2017-03-07 13:14:05,782]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Connected as: jndi_user 
+TID: [-1234] [] [2017-03-07 13:14:05,783]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Framesize set to 65535 
+TID: [-1234] [] [2017-03-07 13:14:05,813]  INFO {org.wso2.andes.server.handler.ConnectionCloseMethodHandler} -  ConnectionClose received with reply code/reply text 200/JMS client is closing the connection. for /10.49.40.202:53144(jndi_user) 
+TID: [-1234] [] [2017-03-07 13:14:05,843]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  SASL Mechanism selected: PLAIN 
+TID: [-1234] [] [2017-03-07 13:14:05,844]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Locale selected: en_US 
+TID: [-1234] [] [2017-03-07 13:14:05,848]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Connected as: jndi_user 
+TID: [-1234] [] [2017-03-07 13:14:05,849]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Framesize set to 65535 
+TID: [-1234] [] [2017-03-07 13:14:05,883]  INFO {org.wso2.andes.server.handler.ChannelOpenHandler} -  Connecting to: carbon 
+TID: [-1234] [] [2017-03-07 13:14:05,886]  INFO {org.wso2.andes.kernel.AndesChannel} -  Channel created (ID: 10.49.40.202:53146) 
+TID: [-1234] [] [2017-03-07 13:14:05,907]  INFO {org.wso2.andes.server.handler.QueueDeclareHandler} -  Queue pl_city_DataService declared successfully 
+TID: [-1234] [] [2017-03-07 13:14:05,910]  INFO {org.wso2.andes.server.handler.QueueBindHandler} -  Binding queue pl_city_DataService to exchange DirectExchange[amq.direct] with routing key pl_city_DataService 
+TID: [-1] [] [2017-03-07 13:14:05,919]  INFO {org.wso2.andes.subscription.SubscriptionEngine} -  Local subscription ADDED [pl_city_DataService]ID=2@NODEEII-M-A/10.49.40.202/T=1488885245916/D=true/X=false/O=null/E=amq.direct/ET=org.wso2.andes.server.exchange.DirectExchange$1@5b2bae2/EUD=0/S=true 
+TID: [-1] [] [2017-03-07 13:14:37,451]  INFO {org.wso2.andes.subscription.SubscriptionEngine} -  Local Subscription DELETED [pl_city_DataService]ID=2@NODEEII-M-A/10.49.40.202/T=1488885245916/D=true/X=false/O=null/E=amq.direct/ET=org.wso2.andes.server.exchange.DirectExchange$1@5b2bae2/EUD=0/S=false 
+TID: [-1234] [] [2017-03-07 13:14:37,460]  INFO {org.wso2.andes.server.handler.ChannelCloseHandler} -  Received channel close for id 1 citing class 0 and method 0 
+TID: [-1234] [] [2017-03-07 13:14:37,462]  INFO {org.wso2.andes.server.AMQChannel} -  No consumers to unsubscribe on channel [/10.49.40.202:53146(jndi_user):1] 
+TID: [-1234] [] [2017-03-07 13:14:37,462]  INFO {org.wso2.andes.kernel.FlowControlManager} -  Channel removed (ID: 10.49.40.202:53146) 
+TID: [-1] [] [2017-03-07 13:14:37,547]  INFO {org.wso2.andes.kernel.slot.SlotDeliveryWorker} -  SlotDeliveryWorker stopped. Thread name SlotDeliveryWorkerExecutor-2 with Thread Id : 786 
+TID: [-1234] [] [2017-03-07 13:14:37,832]  INFO {org.wso2.andes.server.handler.ConnectionCloseMethodHandler} -  ConnectionClose received with reply code/reply text 200/JMS client is closing the connection. for /10.49.40.202:53146(jndi_user) 
+TID: [-1234] [] [2017-03-07 13:14:37,875]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  SASL Mechanism selected: PLAIN 
+TID: [-1234] [] [2017-03-07 13:14:37,876]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Locale selected: en_US 
+TID: [-1234] [] [2017-03-07 13:14:37,879]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Connected as: jndi_user 
+TID: [-1234] [] [2017-03-07 13:14:37,879]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Framesize set to 65535 
+TID: [-1234] [] [2017-03-07 13:14:37,901]  INFO {org.wso2.andes.server.handler.ConnectionCloseMethodHandler} -  ConnectionClose received with reply code/reply text 200/JMS client is closing the connection. for /10.49.40.202:53148(jndi_user) 
+TID: [-1234] [] [2017-03-07 13:14:37,933]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  SASL Mechanism selected: PLAIN 
+TID: [-1234] [] [2017-03-07 13:14:37,933]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Locale selected: en_US 
+TID: [-1234] [] [2017-03-07 13:14:37,936]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Connected as: jndi_user 
+TID: [-1234] [] [2017-03-07 13:14:37,937]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Framesize set to 65535 
+TID: [-1234] [] [2017-03-07 13:14:37,957]  INFO {org.wso2.andes.server.handler.ChannelOpenHandler} -  Connecting to: carbon 
+TID: [-1234] [] [2017-03-07 13:14:37,959]  INFO {org.wso2.andes.kernel.AndesChannel} -  Channel created (ID: 10.49.40.202:53150) 
+TID: [-1234] [] [2017-03-07 13:14:37,983]  INFO {org.wso2.andes.server.handler.QueueDeclareHandler} -  Queue pl_city_DataService declared successfully 
+TID: [-1234] [] [2017-03-07 13:14:37,985]  INFO {org.wso2.andes.server.handler.QueueBindHandler} -  Binding queue pl_city_DataService to exchange DirectExchange[amq.direct] with routing key pl_city_DataService 
+TID: [-1] [] [2017-03-07 13:14:38,006]  INFO {org.wso2.andes.subscription.SubscriptionEngine} -  Local subscription ADDED [pl_city_DataService]ID=3@NODEEII-M-A/10.49.40.202/T=1488885278001/D=true/X=false/O=null/E=amq.direct/ET=org.wso2.andes.server.exchange.DirectExchange$1@5b2bae2/EUD=0/S=true 
+TID: [-1] [] [2017-03-07 13:15:24,489]  INFO {org.wso2.andes.subscription.SubscriptionEngine} -  Local Subscription DELETED [pl_city_DataService]ID=3@NODEEII-M-A/10.49.40.202/T=1488885278001/D=true/X=false/O=null/E=amq.direct/ET=org.wso2.andes.server.exchange.DirectExchange$1@5b2bae2/EUD=0/S=false 
+TID: [-1234] [] [2017-03-07 13:15:24,502]  INFO {org.wso2.andes.server.handler.ChannelCloseHandler} -  Received channel close for id 1 citing class 0 and method 0 
+TID: [-1234] [] [2017-03-07 13:15:24,502]  INFO {org.wso2.andes.server.AMQChannel} -  No consumers to unsubscribe on channel [/10.49.40.202:53150(jndi_user):1] 
+TID: [-1234] [] [2017-03-07 13:15:24,503]  INFO {org.wso2.andes.kernel.FlowControlManager} -  Channel removed (ID: 10.49.40.202:53150) 
+TID: [-1] [] [2017-03-07 13:15:24,530]  INFO {org.wso2.andes.kernel.slot.SlotDeliveryWorker} -  SlotDeliveryWorker stopped. Thread name SlotDeliveryWorkerExecutor-3 with Thread Id : 790 
+TID: [-1234] [] [2017-03-07 13:15:24,923]  INFO {org.wso2.andes.server.handler.ConnectionCloseMethodHandler} -  ConnectionClose received with reply code/reply text 200/JMS client is closing the connection. for /10.49.40.202:53150(jndi_user) 
+TID: [-1234] [] [2017-03-07 13:15:24,956]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  SASL Mechanism selected: PLAIN 
+TID: [-1234] [] [2017-03-07 13:15:24,957]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Locale selected: en_US 
+TID: [-1234] [] [2017-03-07 13:15:24,960]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Connected as: jndi_user 
+TID: [-1234] [] [2017-03-07 13:15:24,960]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Framesize set to 65535 
+TID: [-1234] [] [2017-03-07 13:15:24,980]  INFO {org.wso2.andes.server.handler.ConnectionCloseMethodHandler} -  ConnectionClose received with reply code/reply text 200/JMS client is closing the connection. for /10.49.40.202:53166(jndi_user) 
+TID: [-1234] [] [2017-03-07 13:15:25,004]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  SASL Mechanism selected: PLAIN 
+TID: [-1234] [] [2017-03-07 13:15:25,004]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Locale selected: en_US 
+TID: [-1234] [] [2017-03-07 13:15:25,007]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Connected as: jndi_user 
+TID: [-1234] [] [2017-03-07 13:15:25,007]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Framesize set to 65535 
+TID: [-1234] [] [2017-03-07 13:15:25,032]  INFO {org.wso2.andes.server.handler.ChannelOpenHandler} -  Connecting to: carbon 
+TID: [-1234] [] [2017-03-07 13:15:25,034]  INFO {org.wso2.andes.kernel.AndesChannel} -  Channel created (ID: 10.49.40.202:53168) 
+TID: [-1234] [] [2017-03-07 13:15:25,047]  INFO {org.wso2.andes.server.handler.QueueDeclareHandler} -  Queue pl_city_DataService declared successfully 
+TID: [-1234] [] [2017-03-07 13:15:25,048]  INFO {org.wso2.andes.server.handler.QueueBindHandler} -  Binding queue pl_city_DataService to exchange DirectExchange[amq.direct] with routing key pl_city_DataService 
+TID: [-1] [] [2017-03-07 13:15:25,056]  INFO {org.wso2.andes.subscription.SubscriptionEngine} -  Local subscription ADDED [pl_city_DataService]ID=4@NODEEII-M-A/10.49.40.202/T=1488885325055/D=true/X=false/O=null/E=amq.direct/ET=org.wso2.andes.server.exchange.DirectExchange$1@5b2bae2/EUD=0/S=true 
+TID: [-1] [] [2017-03-07 13:25:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1234] [] [2017-03-07 13:31:11,379]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  SASL Mechanism selected: PLAIN 
+TID: [-1234] [] [2017-03-07 13:31:11,379]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Locale selected: en_US 
+TID: [-1234] [] [2017-03-07 13:31:11,382]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Connected as: jndi_user 
+TID: [-1234] [] [2017-03-07 13:31:11,383]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Framesize set to 65535 
+TID: [-1234] [] [2017-03-07 13:31:11,414]  INFO {org.wso2.andes.server.handler.ConnectionCloseMethodHandler} -  ConnectionClose received with reply code/reply text 200/JMS client is closing the connection. for /10.49.40.202:53278(jndi_user) 
+TID: [-1234] [] [2017-03-07 13:31:11,442]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  SASL Mechanism selected: PLAIN 
+TID: [-1234] [] [2017-03-07 13:31:11,442]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Locale selected: en_US 
+TID: [-1234] [] [2017-03-07 13:31:11,445]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Connected as: jndi_user 
+TID: [-1234] [] [2017-03-07 13:31:11,446]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Framesize set to 65535 
+TID: [-1234] [] [2017-03-07 13:31:11,456]  INFO {org.wso2.andes.server.handler.ChannelOpenHandler} -  Connecting to: carbon 
+TID: [-1234] [] [2017-03-07 13:31:11,458]  INFO {org.wso2.andes.kernel.AndesChannel} -  Channel created (ID: 10.49.40.202:53280) 
+TID: [-1234] [] [2017-03-07 13:31:11,531]  INFO {org.wso2.andes.server.handler.QueueDeclareHandler} -  Queue DBMereza_pl_city bound to default exchange(<<default>>) 
+TID: [-1234] [] [2017-03-07 13:31:11,532]  INFO {org.wso2.andes.server.handler.QueueDeclareHandler} -  Queue DBMereza_pl_city declared successfully 
+TID: [-1234] [] [2017-03-07 13:31:11,536]  INFO {org.wso2.andes.server.handler.QueueBindHandler} -  Binding queue DBMereza_pl_city to exchange DirectExchange[amq.direct] with routing key DBMereza_pl_city 
+TID: [-1] [] [2017-03-07 13:31:11,543]  INFO {org.wso2.andes.subscription.SubscriptionEngine} -  Local subscription ADDED [DBMereza_pl_city]ID=5@NODEEII-M-A/10.49.40.202/T=1488886271542/D=true/X=false/O=null/E=amq.direct/ET=org.wso2.andes.server.exchange.DirectExchange$1@5b2bae2/EUD=0/S=true 
+TID: [-1] [] [2017-03-07 13:33:42,505]  INFO {org.wso2.andes.subscription.SubscriptionEngine} -  Local Subscription DELETED [pl_city_DataService]ID=4@NODEEII-M-A/10.49.40.202/T=1488885325055/D=true/X=false/O=null/E=amq.direct/ET=org.wso2.andes.server.exchange.DirectExchange$1@5b2bae2/EUD=0/S=false 
+TID: [-1234] [] [2017-03-07 13:33:42,515]  INFO {org.wso2.andes.server.handler.ChannelCloseHandler} -  Received channel close for id 1 citing class 0 and method 0 
+TID: [-1234] [] [2017-03-07 13:33:42,515]  INFO {org.wso2.andes.server.AMQChannel} -  No consumers to unsubscribe on channel [/10.49.40.202:53168(jndi_user):1] 
+TID: [-1234] [] [2017-03-07 13:33:42,516]  INFO {org.wso2.andes.kernel.FlowControlManager} -  Channel removed (ID: 10.49.40.202:53168) 
+TID: [-1] [] [2017-03-07 13:33:42,578]  INFO {org.wso2.andes.kernel.slot.SlotDeliveryWorker} -  SlotDeliveryWorker stopped. Thread name SlotDeliveryWorkerExecutor-4 with Thread Id : 793 
+TID: [-1234] [] [2017-03-07 13:33:43,458]  INFO {org.wso2.andes.server.handler.ConnectionCloseMethodHandler} -  ConnectionClose received with reply code/reply text 200/JMS client is closing the connection. for /10.49.40.202:53168(jndi_user) 
+TID: [-1] [] [2017-03-07 13:35:28,648]  INFO {org.wso2.andes.subscription.SubscriptionEngine} -  Local Subscription DELETED [DBMereza_pl_city]ID=5@NODEEII-M-A/10.49.40.202/T=1488886271542/D=true/X=false/O=null/E=amq.direct/ET=org.wso2.andes.server.exchange.DirectExchange$1@5b2bae2/EUD=0/S=false 
+TID: [-1234] [] [2017-03-07 13:35:28,656]  INFO {org.wso2.andes.server.handler.ChannelCloseHandler} -  Received channel close for id 1 citing class 0 and method 0 
+TID: [-1234] [] [2017-03-07 13:35:28,657]  INFO {org.wso2.andes.server.AMQChannel} -  No consumers to unsubscribe on channel [/10.49.40.202:53280(jndi_user):1] 
+TID: [-1234] [] [2017-03-07 13:35:28,657]  INFO {org.wso2.andes.kernel.FlowControlManager} -  Channel removed (ID: 10.49.40.202:53280) 
+TID: [-1] [] [2017-03-07 13:35:28,727]  INFO {org.wso2.andes.kernel.slot.SlotDeliveryWorker} -  SlotDeliveryWorker stopped. Thread name SlotDeliveryWorkerExecutor-0 with Thread Id : 352 
+TID: [-1234] [] [2017-03-07 13:35:29,492]  INFO {org.wso2.andes.server.handler.ConnectionCloseMethodHandler} -  ConnectionClose received with reply code/reply text 200/JMS client is closing the connection. for /10.49.40.202:53280(jndi_user) 
+TID: [-1234] [] [2017-03-07 13:35:29,537]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  SASL Mechanism selected: PLAIN 
+TID: [-1234] [] [2017-03-07 13:35:29,538]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Locale selected: en_US 
+TID: [-1234] [] [2017-03-07 13:35:29,541]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Connected as: jndi_user 
+TID: [-1234] [] [2017-03-07 13:35:29,542]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Framesize set to 65535 
+TID: [-1234] [] [2017-03-07 13:35:29,553]  INFO {org.wso2.andes.server.handler.ConnectionCloseMethodHandler} -  ConnectionClose received with reply code/reply text 200/JMS client is closing the connection. for /10.49.40.202:53314(jndi_user) 
+TID: [-1234] [] [2017-03-07 13:35:29,582]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  SASL Mechanism selected: PLAIN 
+TID: [-1234] [] [2017-03-07 13:35:29,583]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Locale selected: en_US 
+TID: [-1234] [] [2017-03-07 13:35:29,586]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Connected as: jndi_user 
+TID: [-1234] [] [2017-03-07 13:35:29,586]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Framesize set to 65535 
+TID: [-1234] [] [2017-03-07 13:35:29,595]  INFO {org.wso2.andes.server.handler.ChannelOpenHandler} -  Connecting to: carbon 
+TID: [-1234] [] [2017-03-07 13:35:29,597]  INFO {org.wso2.andes.kernel.AndesChannel} -  Channel created (ID: 10.49.40.202:53316) 
+TID: [-1234] [] [2017-03-07 13:35:29,603]  INFO {org.wso2.andes.server.handler.QueueDeclareHandler} -  Queue DBMereza_pl_city declared successfully 
+TID: [-1234] [] [2017-03-07 13:35:29,607]  INFO {org.wso2.andes.server.handler.QueueBindHandler} -  Binding queue DBMereza_pl_city to exchange DirectExchange[amq.direct] with routing key DBMereza_pl_city 
+TID: [-1] [] [2017-03-07 13:35:29,616]  INFO {org.wso2.andes.subscription.SubscriptionEngine} -  Local subscription ADDED [DBMereza_pl_city]ID=6@NODEEII-M-A/10.49.40.202/T=1488886529615/D=true/X=false/O=null/E=amq.direct/ET=org.wso2.andes.server.exchange.DirectExchange$1@5b2bae2/EUD=0/S=true 
+TID: [-1] [] [2017-03-07 13:35:55,720]  INFO {org.wso2.andes.server.AMQChannel} -  Unsubscribing all consumers on channel [/10.49.40.202:53316(jndi_user):1] 
+TID: [-1] [] [2017-03-07 13:35:55,721]  INFO {org.wso2.andes.server.AMQChannel} -  Unsubscribing consumer '1' on channel [/10.49.40.202:53316(jndi_user):1] 
+TID: [-1] [] [2017-03-07 13:35:55,727]  INFO {org.wso2.andes.subscription.SubscriptionEngine} -  Local Subscription DELETED [DBMereza_pl_city]ID=6@NODEEII-M-A/10.49.40.202/T=1488886529615/D=true/X=false/O=null/E=amq.direct/ET=org.wso2.andes.server.exchange.DirectExchange$1@5b2bae2/EUD=0/S=false 
+TID: [-1] [] [2017-03-07 13:35:55,729]  INFO {org.wso2.andes.kernel.FlowControlManager} -  Channel removed (ID: 10.49.40.202:53316) 
+TID: [-1] [] [2017-03-07 13:35:55,765]  INFO {org.wso2.andes.kernel.slot.SlotDeliveryWorker} -  SlotDeliveryWorker stopped. Thread name SlotDeliveryWorkerExecutor-1 with Thread Id : 779 
+TID: [-1234] [] [2017-03-07 13:37:16,335]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  SASL Mechanism selected: PLAIN 
+TID: [-1234] [] [2017-03-07 13:37:16,335]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Locale selected: en_US 
+TID: [-1234] [] [2017-03-07 13:37:16,338]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Connected as: jndi_user 
+TID: [-1234] [] [2017-03-07 13:37:16,338]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Framesize set to 65535 
+TID: [-1234] [] [2017-03-07 13:37:16,355]  INFO {org.wso2.andes.server.handler.ConnectionCloseMethodHandler} -  ConnectionClose received with reply code/reply text 200/JMS client is closing the connection. for /10.49.40.202:53426(jndi_user) 
+TID: [-1234] [] [2017-03-07 13:37:16,399]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  SASL Mechanism selected: PLAIN 
+TID: [-1234] [] [2017-03-07 13:37:16,400]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Locale selected: en_US 
+TID: [-1234] [] [2017-03-07 13:37:16,402]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Connected as: jndi_user 
+TID: [-1234] [] [2017-03-07 13:37:16,403]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Framesize set to 65535 
+TID: [-1234] [] [2017-03-07 13:37:16,462]  INFO {org.wso2.andes.server.handler.ChannelOpenHandler} -  Connecting to: carbon 
+TID: [-1234] [] [2017-03-07 13:37:16,464]  INFO {org.wso2.andes.kernel.AndesChannel} -  Channel created (ID: 10.49.40.202:53428) 
+TID: [-1234] [] [2017-03-07 13:37:16,481]  INFO {org.wso2.andes.server.handler.QueueDeclareHandler} -  Queue DBMereza_pl_city declared successfully 
+TID: [-1234] [] [2017-03-07 13:37:16,485]  INFO {org.wso2.andes.server.handler.QueueBindHandler} -  Binding queue DBMereza_pl_city to exchange DirectExchange[amq.direct] with routing key DBMereza_pl_city 
+TID: [-1] [] [2017-03-07 13:37:16,542]  INFO {org.wso2.andes.subscription.SubscriptionEngine} -  Local subscription ADDED [DBMereza_pl_city]ID=7@NODEEII-M-A/10.49.40.202/T=1488886636498/D=true/X=false/O=null/E=amq.direct/ET=org.wso2.andes.server.exchange.DirectExchange$1@5b2bae2/EUD=0/S=true 
+TID: [-1234] [] [2017-03-07 13:37:33,122]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  SASL Mechanism selected: PLAIN 
+TID: [-1234] [] [2017-03-07 13:37:33,123]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Locale selected: en_US 
+TID: [-1234] [] [2017-03-07 13:37:33,125]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Connected as: jndi_user 
+TID: [-1234] [] [2017-03-07 13:37:33,126]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Framesize set to 65535 
+TID: [-1] [] [2017-03-07 13:40:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1234] [] [2017-03-07 13:46:03,821]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  SASL Mechanism selected: PLAIN 
+TID: [-1234] [] [2017-03-07 13:46:03,821]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Locale selected: en_US 
+TID: [-1234] [] [2017-03-07 13:46:03,824]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Connected as: jndi_user 
+TID: [-1234] [] [2017-03-07 13:46:03,824]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Framesize set to 65535 
+TID: [-1234] [] [2017-03-07 13:46:03,836]  INFO {org.wso2.andes.server.handler.ConnectionCloseMethodHandler} -  ConnectionClose received with reply code/reply text 200/JMS client is closing the connection. for /10.49.40.202:53506(jndi_user) 
+TID: [-1234] [] [2017-03-07 13:46:03,889]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  SASL Mechanism selected: PLAIN 
+TID: [-1234] [] [2017-03-07 13:46:03,890]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Locale selected: en_US 
+TID: [-1234] [] [2017-03-07 13:46:03,892]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Connected as: jndi_user 
+TID: [-1234] [] [2017-03-07 13:46:03,892]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Framesize set to 65535 
+TID: [-1234] [] [2017-03-07 13:46:03,900]  INFO {org.wso2.andes.server.handler.ChannelOpenHandler} -  Connecting to: carbon 
+TID: [-1234] [] [2017-03-07 13:46:03,901]  INFO {org.wso2.andes.kernel.AndesChannel} -  Channel created (ID: 10.49.40.202:53508) 
+TID: [-1234] [] [2017-03-07 13:46:03,970]  INFO {org.wso2.andes.server.handler.QueueDeclareHandler} -  Queue A_Version_DataService bound to default exchange(<<default>>) 
+TID: [-1234] [] [2017-03-07 13:46:03,971]  INFO {org.wso2.andes.server.handler.QueueDeclareHandler} -  Queue A_Version_DataService declared successfully 
+TID: [-1234] [] [2017-03-07 13:46:03,975]  INFO {org.wso2.andes.server.handler.QueueBindHandler} -  Binding queue A_Version_DataService to exchange DirectExchange[amq.direct] with routing key A_Version_DataService 
+TID: [-1] [] [2017-03-07 13:46:03,986]  INFO {org.wso2.andes.subscription.SubscriptionEngine} -  Local subscription ADDED [A_Version_DataService]ID=8@NODEEII-M-A/10.49.40.202/T=1488887163983/D=true/X=false/O=null/E=amq.direct/ET=org.wso2.andes.server.exchange.DirectExchange$1@5b2bae2/EUD=0/S=true 
+TID: [-1] [] [2017-03-07 13:47:04,039]  INFO {org.wso2.andes.server.AMQChannel} -  Unsubscribing all consumers on channel [/10.49.40.202:53428(jndi_user):1] 
+TID: [-1] [] [2017-03-07 13:47:04,039]  INFO {org.wso2.andes.server.AMQChannel} -  Unsubscribing consumer '1' on channel [/10.49.40.202:53428(jndi_user):1] 
+TID: [-1] [] [2017-03-07 13:47:04,040]  INFO {org.wso2.andes.server.AMQChannel} -  Unsubscribing all consumers on channel [/10.49.40.202:53508(jndi_user):1] 
+TID: [-1] [] [2017-03-07 13:47:04,041]  INFO {org.wso2.andes.server.AMQChannel} -  Unsubscribing consumer '1' on channel [/10.49.40.202:53508(jndi_user):1] 
+TID: [-1] [] [2017-03-07 13:47:04,062]  INFO {org.wso2.andes.subscription.SubscriptionEngine} -  Local Subscription DELETED [DBMereza_pl_city]ID=7@NODEEII-M-A/10.49.40.202/T=1488886636498/D=true/X=false/O=null/E=amq.direct/ET=org.wso2.andes.server.exchange.DirectExchange$1@5b2bae2/EUD=0/S=false 
+TID: [-1] [] [2017-03-07 13:47:04,072]  INFO {org.wso2.andes.subscription.SubscriptionEngine} -  Local Subscription DELETED [A_Version_DataService]ID=8@NODEEII-M-A/10.49.40.202/T=1488887163983/D=true/X=false/O=null/E=amq.direct/ET=org.wso2.andes.server.exchange.DirectExchange$1@5b2bae2/EUD=0/S=false 
+TID: [-1] [] [2017-03-07 13:47:04,075]  INFO {org.wso2.andes.kernel.FlowControlManager} -  Channel removed (ID: 10.49.40.202:53428) 
+TID: [-1] [] [2017-03-07 13:47:04,076]  INFO {org.wso2.andes.kernel.FlowControlManager} -  Channel removed (ID: 10.49.40.202:53508) 
+TID: [-1] [] [2017-03-07 13:47:04,113]  INFO {org.wso2.andes.kernel.slot.SlotDeliveryWorker} -  SlotDeliveryWorker stopped. Thread name SlotDeliveryWorkerExecutor-3 with Thread Id : 790 
+TID: [-1] [] [2017-03-07 13:47:04,154]  INFO {org.wso2.andes.kernel.slot.SlotDeliveryWorker} -  SlotDeliveryWorker stopped. Thread name SlotDeliveryWorkerExecutor-2 with Thread Id : 786 
+TID: [-1234] [] [2017-03-07 13:48:28,890]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  SASL Mechanism selected: PLAIN 
+TID: [-1234] [] [2017-03-07 13:48:28,891]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Locale selected: en_US 
+TID: [-1234] [] [2017-03-07 13:48:28,896]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Connected as: jndi_user 
+TID: [-1234] [] [2017-03-07 13:48:28,897]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Framesize set to 65535 
+TID: [-1234] [] [2017-03-07 13:48:28,920]  INFO {org.wso2.andes.server.handler.ConnectionCloseMethodHandler} -  ConnectionClose received with reply code/reply text 200/JMS client is closing the connection. for /10.49.40.202:53624(jndi_user) 
+TID: [-1234] [] [2017-03-07 13:48:28,964]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  SASL Mechanism selected: PLAIN 
+TID: [-1234] [] [2017-03-07 13:48:28,964]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Locale selected: en_US 
+TID: [-1234] [] [2017-03-07 13:48:28,967]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Connected as: jndi_user 
+TID: [-1234] [] [2017-03-07 13:48:28,967]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Framesize set to 65535 
+TID: [-1234] [] [2017-03-07 13:48:29,022]  INFO {org.wso2.andes.server.handler.ChannelOpenHandler} -  Connecting to: carbon 
+TID: [-1234] [] [2017-03-07 13:48:29,023]  INFO {org.wso2.andes.kernel.AndesChannel} -  Channel created (ID: 10.49.40.202:53626) 
+TID: [-1234] [] [2017-03-07 13:48:29,041]  INFO {org.wso2.andes.server.handler.QueueDeclareHandler} -  Queue DBMereza_pl_city declared successfully 
+TID: [-1234] [] [2017-03-07 13:48:29,044]  INFO {org.wso2.andes.server.handler.QueueBindHandler} -  Binding queue DBMereza_pl_city to exchange DirectExchange[amq.direct] with routing key DBMereza_pl_city 
+TID: [-1] [] [2017-03-07 13:48:29,098]  INFO {org.wso2.andes.subscription.SubscriptionEngine} -  Local subscription ADDED [DBMereza_pl_city]ID=9@NODEEII-M-A/10.49.40.202/T=1488887309053/D=true/X=false/O=null/E=amq.direct/ET=org.wso2.andes.server.exchange.DirectExchange$1@5b2bae2/EUD=0/S=true 
+TID: [-1234] [] [2017-03-07 13:48:29,952]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  SASL Mechanism selected: PLAIN 
+TID: [-1234] [] [2017-03-07 13:48:29,953]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Locale selected: en_US 
+TID: [-1234] [] [2017-03-07 13:48:29,955]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Connected as: jndi_user 
+TID: [-1234] [] [2017-03-07 13:48:29,956]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Framesize set to 65535 
+TID: [-1234] [] [2017-03-07 13:48:29,971]  INFO {org.wso2.andes.server.handler.ConnectionCloseMethodHandler} -  ConnectionClose received with reply code/reply text 200/JMS client is closing the connection. for /10.49.40.202:53628(jndi_user) 
+TID: [-1234] [] [2017-03-07 13:48:29,990]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  SASL Mechanism selected: PLAIN 
+TID: [-1234] [] [2017-03-07 13:48:29,991]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Locale selected: en_US 
+TID: [-1234] [] [2017-03-07 13:48:29,992]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Connected as: jndi_user 
+TID: [-1234] [] [2017-03-07 13:48:29,993]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Framesize set to 65535 
+TID: [-1234] [] [2017-03-07 13:48:30,001]  INFO {org.wso2.andes.server.handler.ChannelOpenHandler} -  Connecting to: carbon 
+TID: [-1234] [] [2017-03-07 13:48:30,002]  INFO {org.wso2.andes.kernel.AndesChannel} -  Channel created (ID: 10.49.40.202:53630) 
+TID: [-1234] [] [2017-03-07 13:48:30,009]  INFO {org.wso2.andes.server.handler.QueueDeclareHandler} -  Queue A_Version_DataService declared successfully 
+TID: [-1234] [] [2017-03-07 13:48:30,013]  INFO {org.wso2.andes.server.handler.QueueBindHandler} -  Binding queue A_Version_DataService to exchange DirectExchange[amq.direct] with routing key A_Version_DataService 
+TID: [-1] [] [2017-03-07 13:48:30,020]  INFO {org.wso2.andes.subscription.SubscriptionEngine} -  Local subscription ADDED [A_Version_DataService]ID=10@NODEEII-M-A/10.49.40.202/T=1488887310019/D=true/X=false/O=null/E=amq.direct/ET=org.wso2.andes.server.exchange.DirectExchange$1@5b2bae2/EUD=0/S=true 
+TID: [-1234] [] [2017-03-07 13:48:39,139]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  SASL Mechanism selected: PLAIN 
+TID: [-1234] [] [2017-03-07 13:48:39,140]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Locale selected: en_US 
+TID: [-1234] [] [2017-03-07 13:48:39,142]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Connected as: jndi_user 
+TID: [-1234] [] [2017-03-07 13:48:39,142]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Framesize set to 65535 
+TID: [-1] [] [2017-03-07 13:50:10,615]  INFO {org.wso2.andes.subscription.SubscriptionEngine} -  Local Subscription DELETED [A_Version_DataService]ID=10@NODEEII-M-A/10.49.40.202/T=1488887310019/D=true/X=false/O=null/E=amq.direct/ET=org.wso2.andes.server.exchange.DirectExchange$1@5b2bae2/EUD=0/S=false 
+TID: [-1234] [] [2017-03-07 13:50:10,627]  INFO {org.wso2.andes.server.handler.ChannelCloseHandler} -  Received channel close for id 1 citing class 0 and method 0 
+TID: [-1234] [] [2017-03-07 13:50:10,627]  INFO {org.wso2.andes.server.AMQChannel} -  No consumers to unsubscribe on channel [/10.49.40.202:53630(jndi_user):1] 
+TID: [-1234] [] [2017-03-07 13:50:10,628]  INFO {org.wso2.andes.kernel.FlowControlManager} -  Channel removed (ID: 10.49.40.202:53630) 
+TID: [-1] [] [2017-03-07 13:50:10,635]  INFO {org.wso2.andes.kernel.slot.SlotDeliveryWorker} -  SlotDeliveryWorker stopped. Thread name SlotDeliveryWorkerExecutor-0 with Thread Id : 352 
+TID: [-1234] [] [2017-03-07 13:50:10,701]  INFO {org.wso2.andes.server.handler.ConnectionCloseMethodHandler} -  ConnectionClose received with reply code/reply text 200/JMS client is closing the connection. for /10.49.40.202:53630(jndi_user) 
+TID: [-1] [] [2017-03-07 13:51:41,654]  INFO {org.wso2.andes.subscription.SubscriptionEngine} -  Local Subscription DELETED [DBMereza_pl_city]ID=9@NODEEII-M-A/10.49.40.202/T=1488887309053/D=true/X=false/O=null/E=amq.direct/ET=org.wso2.andes.server.exchange.DirectExchange$1@5b2bae2/EUD=0/S=false 
+TID: [-1234] [] [2017-03-07 13:51:41,665]  INFO {org.wso2.andes.server.handler.ChannelCloseHandler} -  Received channel close for id 1 citing class 0 and method 0 
+TID: [-1234] [] [2017-03-07 13:51:41,666]  INFO {org.wso2.andes.server.AMQChannel} -  No consumers to unsubscribe on channel [/10.49.40.202:53626(jndi_user):1] 
+TID: [-1234] [] [2017-03-07 13:51:41,666]  INFO {org.wso2.andes.kernel.FlowControlManager} -  Channel removed (ID: 10.49.40.202:53626) 
+TID: [-1] [] [2017-03-07 13:51:41,741]  INFO {org.wso2.andes.kernel.slot.SlotDeliveryWorker} -  SlotDeliveryWorker stopped. Thread name SlotDeliveryWorkerExecutor-4 with Thread Id : 793 
+TID: [-1234] [] [2017-03-07 13:51:41,745]  INFO {org.wso2.andes.server.handler.ConnectionCloseMethodHandler} -  ConnectionClose received with reply code/reply text 200/JMS client is closing the connection. for /10.49.40.202:53626(jndi_user) 
+TID: [-1234] [] [2017-03-07 13:52:26,812]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  SASL Mechanism selected: PLAIN 
+TID: [-1234] [] [2017-03-07 13:52:26,813]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Locale selected: en_US 
+TID: [-1234] [] [2017-03-07 13:52:26,816]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Connected as: jndi_user 
+TID: [-1234] [] [2017-03-07 13:52:26,816]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Framesize set to 65535 
+TID: [-1234] [] [2017-03-07 13:52:26,825]  INFO {org.wso2.andes.server.handler.ConnectionCloseMethodHandler} -  ConnectionClose received with reply code/reply text 200/JMS client is closing the connection. for /10.49.40.202:53670(jndi_user) 
+TID: [-1234] [] [2017-03-07 13:52:26,853]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  SASL Mechanism selected: PLAIN 
+TID: [-1234] [] [2017-03-07 13:52:26,854]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Locale selected: en_US 
+TID: [-1234] [] [2017-03-07 13:52:26,856]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Connected as: jndi_user 
+TID: [-1234] [] [2017-03-07 13:52:26,857]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Framesize set to 65535 
+TID: [-1234] [] [2017-03-07 13:52:26,866]  INFO {org.wso2.andes.server.handler.ChannelOpenHandler} -  Connecting to: carbon 
+TID: [-1234] [] [2017-03-07 13:52:26,867]  INFO {org.wso2.andes.kernel.AndesChannel} -  Channel created (ID: 10.49.40.202:53672) 
+TID: [-1234] [] [2017-03-07 13:52:26,877]  INFO {org.wso2.andes.server.handler.QueueDeclareHandler} -  Queue A_Version_DataService declared successfully 
+TID: [-1234] [] [2017-03-07 13:52:26,880]  INFO {org.wso2.andes.server.handler.QueueBindHandler} -  Binding queue A_Version_DataService to exchange DirectExchange[amq.direct] with routing key A_Version_DataService 
+TID: [-1] [] [2017-03-07 13:52:26,891]  INFO {org.wso2.andes.subscription.SubscriptionEngine} -  Local subscription ADDED [A_Version_DataService]ID=11@NODEEII-M-A/10.49.40.202/T=1488887546890/D=true/X=false/O=null/E=amq.direct/ET=org.wso2.andes.server.exchange.DirectExchange$1@5b2bae2/EUD=0/S=true 
+TID: [-1] [] [2017-03-07 13:55:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-07 14:10:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-07 14:15:14,347]  INFO {org.wso2.andes.subscription.SubscriptionEngine} -  Local Subscription DELETED [A_Version_DataService]ID=11@NODEEII-M-A/10.49.40.202/T=1488887546890/D=true/X=false/O=null/E=amq.direct/ET=org.wso2.andes.server.exchange.DirectExchange$1@5b2bae2/EUD=0/S=false 
+TID: [-1234] [] [2017-03-07 14:15:14,354]  INFO {org.wso2.andes.server.handler.ChannelCloseHandler} -  Received channel close for id 1 citing class 0 and method 0 
+TID: [-1234] [] [2017-03-07 14:15:14,355]  INFO {org.wso2.andes.server.AMQChannel} -  No consumers to unsubscribe on channel [/10.49.40.202:53672(jndi_user):1] 
+TID: [-1234] [] [2017-03-07 14:15:14,355]  INFO {org.wso2.andes.kernel.FlowControlManager} -  Channel removed (ID: 10.49.40.202:53672) 
+TID: [-1] [] [2017-03-07 14:15:14,374]  INFO {org.wso2.andes.kernel.slot.SlotDeliveryWorker} -  SlotDeliveryWorker stopped. Thread name SlotDeliveryWorkerExecutor-1 with Thread Id : 779 
+TID: [-1234] [] [2017-03-07 14:15:14,419]  INFO {org.wso2.andes.server.handler.ConnectionCloseMethodHandler} -  ConnectionClose received with reply code/reply text 200/JMS client is closing the connection. for /10.49.40.202:53672(jndi_user) 
+TID: [-1] [] [2017-03-07 14:25:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-07 14:40:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-07 14:55:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-07 15:10:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-07 15:25:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-07 15:40:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1234] [] [2017-03-07 15:54:48,102]  INFO {org.wso2.andes.server.handler.ConnectionCloseMethodHandler} -  ConnectionClose received with reply code/reply text 200/JMS client is closing the connection. for /10.49.40.202:53634(jndi_user) 
+TID: [-1234] [] [2017-03-07 15:54:51,613]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  SASL Mechanism selected: PLAIN 
+TID: [-1234] [] [2017-03-07 15:54:51,614]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Locale selected: en_US 
+TID: [-1234] [] [2017-03-07 15:54:51,618]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Connected as: jndi_user 
+TID: [-1234] [] [2017-03-07 15:54:51,619]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Framesize set to 65535 
+TID: [-1] [] [2017-03-07 15:55:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-07 16:10:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-07 16:25:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-07 16:40:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-07 16:55:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-07 17:10:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-07 17:25:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-07 17:40:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-07 17:55:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-07 18:10:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-07 18:25:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-07 18:40:34,806]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-07 18:55:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-07 19:10:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-07 19:25:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-07 19:40:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-07 19:55:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-07 20:10:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-07 20:25:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-07 20:40:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-07 20:55:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-07 21:10:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-07 21:25:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-07 21:40:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-07 21:55:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-07 22:10:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-07 22:25:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-07 22:40:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-07 22:55:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-07 23:10:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-07 23:25:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-07 23:40:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-07 23:55:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 

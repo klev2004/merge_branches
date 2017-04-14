@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<feature id="org.wso2.carbon.analytics.webservice.server" label="WSO2 Carbon - Analytics Web Service Server Feature" provider-name="%providerName" version="1.3.5">
+  <description>This feature contains the analytics web service server feature</description>
+  <copyright>%copyright</copyright>
+  <license url="%licenseURL">%license</license>
+  <plugin id="org.wso2.carbon.analytics.io.commons" unpack="false" version="1.3.5"/>
+  <plugin id="org.wso2.carbon.analytics.webservice" unpack="false" version="1.3.5"/>
+  <require>
+    <import feature="org.wso2.carbon.analytics.api.server" match="equivalent" version="1.3.5"/>
+    <import feature="org.wso2.carbon.event.stream.server" match="equivalent" version="5.1.3"/>
+    <import feature="org.wso2.carbon.core" match="equivalent" version="4.4.9"/>
+  </require>
+</feature>

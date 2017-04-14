@@ -1,0 +1,2 @@
+[2017-03-07 08:39:27,787]  WARN {AUDIT_LOG}-  Failed Administrator login attempt 'admin[-1234]' at [2017-03-07 08:39:27,783+0200] 
+[2017-03-07 10:12:56,944]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-03-07 10:12:56,942+0200] 

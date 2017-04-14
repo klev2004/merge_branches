@@ -1,0 +1,169 @@
+<data enableBatchRequests="true" name="InformixMerezhaDS" transports="http https local">
+   <description/>
+   <config enableOData="false" id="InformixMerezha">
+      <property name="driverClassName">com.informix.jdbc.IfxDriver</property>
+      <property name="url">jdbc:informix-sqli://10.242.201.21:1526/asrktest2:INFORMIXSERVER=ol_informix1170_1</property>
+      <property name="username">infmereg</property>
+      <property name="password">inf2001</property>
+   </config>
+   <config enableOData="false" id="InformixMerezhaPROD">
+      <property name="driverClassName">com.informix.jdbc.IfxDriver</property>
+      <property name="url">jdbc:informix-sqli://10.242.201.21:1526/asrkstat:INFORMIXSERVER=ol_informix1170_1</property>
+      <property name="username">infmereg</property>
+      <property name="password">inf2001</property>
+   </config>
+   <query id="insert_pl_city_query" useConfig="InformixMerezhaPROD">
+      <sql>INSERT INTO informix.pl_city(cityid,regionid,cityname,districtid,citystatus,cityname_en) VALUES(?,?,?,?,?,?)</sql>
+      <param name="cityid" ordinal="1" sqlType="DOUBLE"/>
+      <param name="regionid" ordinal="2" sqlType="DOUBLE"/>
+      <param name="cityname" ordinal="3" sqlType="STRING"/>
+      <param name="districtid" ordinal="4" sqlType="DOUBLE"/>
+      <param name="citystatus" ordinal="5" sqlType="INTEGER"/>
+      <param name="cityname_en" ordinal="6" sqlType="STRING"/>
+   </query>
+   <query id="delete_pl_city_query" returnUpdatedRowCount="true" useConfig="InformixMerezhaPROD">
+      <sql>TRUNCATE TABLE pl_city</sql>
+      <result element="UpdatedRowCount" rowName="" useColumnNumbers="true">
+         <element column="1" name="Value" xsdType="integer"/>
+      </result>
+   </query>
+   <query id="insert_pl_indexes_query" useConfig="InformixMerezha">
+      <sql>INSERT INTO informix.indexes(id, indexvalue, cityid) VALUES(?,?,?)</sql>
+      <param name="id" ordinal="1" sqlType="INTEGER"/>
+      <param name="indexvalue" ordinal="2" sqlType="STRING"/>
+      <param name="cityid" ordinal="3" sqlType="DOUBLE"/>
+   </query>
+   <query id="delete_pl_indexes_query" returnUpdatedRowCount="true" useConfig="InformixMerezha">
+      <sql>DELETE indexes</sql>
+      <result element="UpdatedRowCount" rowName="" useColumnNumbers="true">
+         <element column="1" name="Value" xsdType="integer"/>
+      </result>
+   </query>
+   <query id="insert_pl_region_opz_indexes_query" useConfig="InformixMerezha">
+      <sql>INSERT INTO informix.region_opz_indexes(id, index_opz, regionid, region) VALUES(?,?,?,?)</sql>
+      <param name="id" ordinal="1" sqlType="DOUBLE"/>
+      <param name="index_opz" ordinal="2" sqlType="STRING"/>
+      <param name="regionid" ordinal="3" sqlType="DOUBLE"/>
+      <param name="region" ordinal="4" sqlType="STRING"/>
+   </query>
+   <query id="delete_pl_region_opz_indexes_query" returnUpdatedRowCount="true" useConfig="InformixMerezha">
+      <sql>DELETE region_opz_indexes</sql>
+      <result element="UpdatedRowCount" rowName="" useColumnNumbers="true">
+         <element column="1" name="Value" xsdType="integer"/>
+      </result>
+   </query>
+   <query id="insert_pn_address_vz_query" useConfig="InformixMerezha">
+      <sql>INSERT INTO informix.address_vz(id, index, tech_index, address_ua, address_en, phone_vz) VALUES(?,?,?,?,?,?)</sql>
+      <param name="id" ordinal="1" sqlType="DOUBLE"/>
+      <param name="index" ordinal="2" sqlType="STRING"/>
+      <param name="tech_index" ordinal="3" sqlType="STRING"/>
+      <param name="address_ua" ordinal="4" sqlType="STRING"/>
+      <param name="address_en" ordinal="5" sqlType="STRING"/>
+      <param name="phone_vz" ordinal="6" sqlType="STRING"/>
+   </query>
+   <query id="delete_pn_address_vz_query" returnUpdatedRowCount="true" useConfig="InformixMerezha">
+      <sql>DELETE address_vz</sql>
+      <result element="UpdatedRowCount" rowName="" useColumnNumbers="true">
+         <element column="1" name="Value" xsdType="integer"/>
+      </result>
+   </query>
+   <query id="insert_postoffice_query" useConfig="InformixMerezha">
+      <sql>INSERT INTO informix.postoffice(objectindex, name_ua, name_ru, name_en) values(?,?,?,?)</sql>
+      <param name="objectindex" ordinal="1" sqlType="STRING"/>
+      <param name="name_ua" ordinal="2" sqlType="STRING"/>
+      <param name="name_ru" ordinal="3" sqlType="STRING"/>
+      <param name="name_en" ordinal="4" sqlType="STRING"/>
+   </query>
+   <query id="delete_postoffice_query" returnUpdatedRowCount="true" useConfig="InformixMerezha">
+      <sql>DELETE postoffice</sql>
+      <result element="UpdatedRowCount" rowName="" useColumnNumbers="true">
+         <element column="1" name="Value" xsdType="integer"/>
+      </result>
+   </query>
+   <query id="insert_unit_query" useConfig="InformixMerezha">
+      <sql>INSERT INTO informix.workplace(unitindex, officeindex, name_ua, name_en, phonevpz, has_posoft) values(?,?,?,?,?,?)</sql>
+      <param name="unitindex" ordinal="1" sqlType="STRING"/>
+      <param name="officeindex" ordinal="2" sqlType="STRING"/>
+      <param name="name_ua" ordinal="3" sqlType="STRING"/>
+      <param name="name_en" ordinal="4" sqlType="STRING"/>
+      <param name="phonevpz" ordinal="5" sqlType="STRING"/>
+      <param name="has_posoft" ordinal="6" sqlType="INTEGER"/>
+   </query>
+   <query id="delete_unit_query" returnUpdatedRowCount="true" useConfig="InformixMerezha">
+      <sql>DELETE workplace</sql>
+      <result element="UpdatedRowCount" rowName="" useColumnNumbers="true">
+         <element column="1" name="Value" xsdType="integer"/>
+      </result>
+   </query>
+   <operation name="insert_pl_city_operation">
+      <call-query href="insert_pl_city_query">
+         <with-param name="cityname_en" query-param="cityname_en"/>
+         <with-param name="districtid" query-param="districtid"/>
+         <with-param name="regionid" query-param="regionid"/>
+         <with-param name="cityname" query-param="cityname"/>
+         <with-param name="cityid" query-param="cityid"/>
+         <with-param name="citystatus" query-param="citystatus"/>
+      </call-query>
+   </operation>
+   <operation name="delete_pl_city_operation">
+      <call-query href="delete_pl_city_query"/>
+   </operation>
+   <operation name="insert_pl_indexes_operation">
+      <call-query href="insert_pl_indexes_query">
+         <with-param name="id" query-param="id"/>
+         <with-param name="indexvalue" query-param="indexvalue"/>
+         <with-param name="cityid" query-param="cityid"/>
+      </call-query>
+   </operation>
+   <operation name="delete_pl_indexes_operation">
+      <call-query href="delete_pl_indexes_query"/>
+   </operation>
+   <operation name="insert_pl_region_opz_indexes_operation">
+      <call-query href="insert_pl_region_opz_indexes_query">
+         <with-param name="id" query-param="id"/>
+         <with-param name="index_opz" query-param="indexopz"/>
+         <with-param name="regionid" query-param="regionid"/>
+         <with-param name="region" query-param="region"/>
+      </call-query>
+   </operation>
+   <operation name="delete_pl_region_opz_indexes_operation">
+      <call-query href="delete_pl_region_opz_indexes_query"/>
+   </operation>
+   <operation name="insert_pn_address_vz_operation">
+      <call-query href="insert_pn_address_vz_query">
+         <with-param name="id" query-param="id"/>
+         <with-param name="index" query-param="index"/>
+         <with-param name="tech_index" query-param="tech_index"/>
+         <with-param name="address_ua" query-param="address_ua"/>
+         <with-param name="address_en" query-param="address_en"/>
+         <with-param name="phone_vz" query-param="phone_vz"/>
+      </call-query>
+   </operation>
+   <operation name="delete_pn_address_vz_operation">
+      <call-query href="delete_pn_address_vz_query"/>
+   </operation>
+   <operation name="insert_postoffice_operation">
+      <call-query href="insert_postoffice_query">
+         <with-param name="objectindex" query-param="objectindex"/>
+         <with-param name="name_ua" query-param="name_ua"/>
+         <with-param name="name_ru" query-param="name_ru"/>
+         <with-param name="name_en" query-param="name_en"/>
+      </call-query>
+   </operation>
+   <operation name="delete_postoffice_operation">
+      <call-query href="delete_postoffice_query"/>
+   </operation>
+   <operation name="insert_unit_operation">
+      <call-query href="insert_unit_query">
+         <with-param name="unitindex" query-param="unitindex"/>
+         <with-param name="officeindex" query-param="officeindex"/>
+         <with-param name="name_ua" query-param="name_ru"/>
+         <with-param name="name_en" query-param="name_en"/>
+         <with-param name="phonevpz" query-param="phonevpz"/>
+         <with-param name="has_posoft" query-param="has_posoft"/>
+      </call-query>
+   </operation>
+   <operation name="delete_unit_operation">
+      <call-query href="delete_unit_query"/>
+   </operation>
+</data>

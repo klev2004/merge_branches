@@ -1,0 +1,25 @@
+[2017-03-03 10:39:25,492]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-03-03 10:39:25,489+0200] 
+[2017-03-03 10:44:04,877]  WARN {AUDIT_LOG}-  Failed Administrator login attempt 'admin[-1234]' at [2017-03-03 10:44:04,873+0200] 
+[2017-03-03 10:44:11,559]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-03-03 10:44:11,556+0200] 
+[2017-03-03 10:47:01,055]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-03-03 10:47:01,052+0200] 
+[2017-03-03 10:47:13,049]  WARN {AUDIT_LOG}-  Failed Administrator login attempt 'admin[-1234]' at [2017-03-03 10:47:13,048+0200] 
+[2017-03-03 11:18:53,985]  WARN {AUDIT_LOG}-  Failed Administrator login attempt 'admin[-1234]' at [2017-03-03 11:18:53,983+0200] 
+[2017-03-03 11:19:01,843]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-03-03 11:19:01,840+0200] 
+[2017-03-03 11:49:37,528]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-03-03 11:49:37,512+0200] 
+[2017-03-03 11:50:21,757]  INFO {AUDIT_LOG}-  Initiator : admin@carbon.super | Action : Add User | Target : jndi_user | Data : { Roles : } | Result : Success  
+[2017-03-03 11:51:11,453]  INFO {AUDIT_LOG}-  Initiator : admin@carbon.super | Action : Change Password by Administrator | Target : jndi_user | Data : {  } | Result : Success  
+[2017-03-03 11:55:49,601]  WARN {AUDIT_LOG}-  Failed Administrator login attempt 'jndi_user[-1234]' at [2017-03-03 11:55:49,597+0200] 
+[2017-03-03 11:58:32,746]  WARN {AUDIT_LOG}-  Failed Administrator login attempt 'jndi_user[-1234]' at [2017-03-03 11:58:32,743+0200] 
+[2017-03-03 11:58:40,924]  INFO {AUDIT_LOG}-  'jndi_user@carbon.super [-1234]' logged in at [2017-03-03 11:58:40,920+0200] 
+[2017-03-03 12:05:19,195]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-03-03 12:05:19,192+0200] 
+[2017-03-03 12:05:26,227]  INFO {AUDIT_LOG}-  Initiator : admin@carbon.super | Action : Update Roles of User | Target : jndi_user | Data : { Roles : [admin] } | Result : Success  
+[2017-03-03 12:05:36,437]  INFO {AUDIT_LOG}-  Initiator : admin@carbon.super | Action : Update Roles of User | Target : jndi_user | Data : { Roles : [] } | Result : Success  
+[2017-03-03 12:10:14,662]  INFO {AUDIT_LOG}-  'jndi_user@carbon.super [-1234]' logged out at [2017-03-03 12:10:14,0661] 
+[2017-03-03 13:41:42,121]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-03-03 13:41:42,118+0200] 
+[2017-03-03 13:44:40,684]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-03-03 13:44:40,682+0200] 
+[2017-03-03 13:45:43,639]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-03-03 13:45:43,637+0200] 
+[2017-03-03 14:18:26,629]  WARN {AUDIT_LOG}-  Failed Administrator login attempt 'фвьшт[-1234]' at [2017-03-03 14:18:26,627+0200] 
+[2017-03-03 14:18:32,090]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-03-03 14:18:32,089+0200] 
+[2017-03-03 14:18:43,019]  INFO {AUDIT_LOG}-  Initiator : admin@carbon.super | Action : Change Password by Administrator | Target : jndi_user | Data : {  } | Result : Success  
+[2017-03-03 14:19:12,559]  INFO {AUDIT_LOG}-  Initiator : admin@carbon.super | Action : Update Users of Role | Target : admin | Data : { Users : [] } | Result : Success  
+[2017-03-03 14:19:15,281]  INFO {AUDIT_LOG}-  Initiator : admin@carbon.super | Action : Update Users of Role | Target : admin | Data : { Users : [] } | Result : Success  

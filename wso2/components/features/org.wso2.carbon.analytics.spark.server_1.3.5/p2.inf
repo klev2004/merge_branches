@@ -1,0 +1,21 @@
+instructions.configure = \
+org.eclipse.equinox.p2.touchpoint.natives.mkdir(path:${installFolder}/../../conf/analytics/spark);\
+org.eclipse.equinox.p2.touchpoint.natives.mkdir(path:${installFolder}/../../conf/etc/bundle-config/hadoop-client);\
+org.eclipse.equinox.p2.touchpoint.natives.mkdir(path:${installFolder}/../../conf/etc/bundle-config/config);\
+org.eclipse.equinox.p2.touchpoint.natives.copy(source:${installFolder}/../features/org.wso2.carbon.analytics.spark.server_1.3.5/spark-defaults.conf,target:${installFolder}/../../conf/analytics/spark/spark-defaults.conf,overwrite:true);\
+org.eclipse.equinox.p2.touchpoint.natives.copy(source:${installFolder}/../features/org.wso2.carbon.analytics.spark.server_1.3.5/spark-udf-config.xml,target:${installFolder}/../../conf/analytics/spark/spark-udf-config.xml,overwrite:true);\
+org.eclipse.equinox.p2.touchpoint.natives.copy(source:${installFolder}/../features/org.wso2.carbon.analytics.spark.server_1.3.5/spark-jdbc-config.xml,target:${installFolder}/../../conf/analytics/spark/spark-jdbc-config.xml,overwrite:true);\
+org.eclipse.equinox.p2.touchpoint.natives.copy(source:${installFolder}/../features/org.wso2.carbon.analytics.spark.server_1.3.5/external-spark-classpath.conf,target:${installFolder}/../../conf/analytics/spark/external-spark-classpath.conf,overwrite:true);\
+org.eclipse.equinox.p2.touchpoint.natives.copy(source:${installFolder}/../features/org.wso2.carbon.analytics.spark.server_1.3.5/carbon-spark-classpath.conf,target:${installFolder}/../../conf/analytics/spark/carbon-spark-classpath.conf,overwrite:true);\
+org.eclipse.equinox.p2.touchpoint.natives.copy(source:${installFolder}/../features/org.wso2.carbon.analytics.spark.server_1.3.5/fairscheduler.xml,target:${installFolder}/../../conf/analytics/spark/fairscheduler.xml,overwrite:true);\
+org.eclipse.equinox.p2.touchpoint.natives.copy(source:${installFolder}/../features/org.wso2.carbon.analytics.spark.server_1.3.5/log4j.properties.template,target:${installFolder}/../../conf/analytics/spark/log4j.properties.template,overwrite:true);\
+org.eclipse.equinox.p2.touchpoint.natives.copy(source:${installFolder}/../features/org.wso2.carbon.analytics.spark.server_1.3.5/yarn/core-site.xml,target:${installFolder}/../../conf/etc/bundle-config/hadoop-client/core-site.xml,overwrite:true);\
+org.eclipse.equinox.p2.touchpoint.natives.copy(source:${installFolder}/../features/org.wso2.carbon.analytics.spark.server_1.3.5/yarn/hdfs-site.xml,target:${installFolder}/../../conf/etc/bundle-config/hadoop-client/hdfs-site.xml,overwrite:true);\
+org.eclipse.equinox.p2.touchpoint.natives.copy(source:${installFolder}/../features/org.wso2.carbon.analytics.spark.server_1.3.5/yarn/mapred-site.xml,target:${installFolder}/../../conf/etc/bundle-config/hadoop-client/mapred-site.xml,overwrite:true);\
+org.eclipse.equinox.p2.touchpoint.natives.copy(source:${installFolder}/../features/org.wso2.carbon.analytics.spark.server_1.3.5/yarn/yarn-site.xml,target:${installFolder}/../../conf/etc/bundle-config/hadoop-client/yarn-site.xml,overwrite:true);\
+org.eclipse.equinox.p2.touchpoint.natives.copy(source:${installFolder}/../features/org.wso2.carbon.analytics.spark.server_1.3.5/typesafe-config/reference.conf,target:${installFolder}/../../conf/etc/bundle-config/com.typesafe.config/reference.conf,overwrite:true);\
+
+properties.0.name=org.wso2.carbon.p2.category.type
+properties.0.value=server
+properties.1.name=org.eclipse.equinox.p2.type.group
+properties.1.value=false

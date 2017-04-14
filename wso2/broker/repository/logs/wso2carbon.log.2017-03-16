@@ -1,0 +1,301 @@
+TID: [-1] [] [2017-03-16 00:10:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-16 00:25:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-16 00:40:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-16 00:55:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-16 01:10:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-16 01:25:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-16 01:40:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-16 01:55:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-16 02:10:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-16 02:25:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-16 02:40:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-16 02:55:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-16 03:10:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-16 03:25:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-16 03:40:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-16 03:55:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-16 04:10:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-16 04:25:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-16 04:40:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-16 04:55:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-16 05:10:34,742]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-16 05:25:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-16 05:40:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-16 05:55:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-16 06:10:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-16 06:25:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-16 06:40:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-16 06:55:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-16 07:10:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-16 07:25:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-16 07:40:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-16 07:55:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-16 08:10:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-16 08:25:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-16 08:40:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-16 08:55:34,745]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-16 09:10:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-16 09:25:34,743]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1234] [] [2017-03-16 09:36:50,819]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  SASL Mechanism selected: PLAIN 
+TID: [-1234] [] [2017-03-16 09:36:50,820]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Locale selected: en_US 
+TID: [-1234] [] [2017-03-16 09:36:50,825]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Connected as: jndi_user 
+TID: [-1234] [] [2017-03-16 09:36:50,825]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Framesize set to 65535 
+TID: [-1234] [] [2017-03-16 09:37:52,147]  INFO {org.wso2.andes.server.handler.ConnectionCloseMethodHandler} -  ConnectionClose received with reply code/reply text 200/JMS client is closing the connection. for /10.49.40.202:53778(jndi_user) 
+TID: [-1234] [] [2017-03-16 09:38:38,295]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  SASL Mechanism selected: PLAIN 
+TID: [-1234] [] [2017-03-16 09:38:38,296]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Locale selected: en_US 
+TID: [-1234] [] [2017-03-16 09:38:38,298]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Connected as: jndi_user 
+TID: [-1234] [] [2017-03-16 09:38:38,299]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Framesize set to 65535 
+TID: [-1] [] [2017-03-16 09:40:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1234] [] [2017-03-16 09:41:54,969]  INFO {org.wso2.andes.server.handler.ChannelOpenHandler} -  Connecting to: carbon 
+TID: [-1234] [] [2017-03-16 09:41:54,971]  INFO {org.wso2.andes.kernel.AndesChannel} -  Channel created (ID: 10.49.40.202:55806) 
+TID: [-1234] [] [2017-03-16 09:42:03,139]  WARN {org.wso2.andes.server.AMQChannel} -  MESSAGE DISCARDED: No routes for message - Message[(HC:1556331029 ID:0 Ref:0)]: 0; ref count: 0 
+TID: [-1] [] [2017-03-16 09:55:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-16 10:10:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1234] [] [2017-03-16 10:16:01,059]  INFO {org.wso2.andes.server.handler.ChannelCloseHandler} -  Received channel close for id 1 citing class 0 and method 0 
+TID: [-1234] [] [2017-03-16 10:16:01,060]  INFO {org.wso2.andes.server.AMQChannel} -  No consumers to unsubscribe on channel [/10.49.40.202:55806(jndi_user):1] 
+TID: [-1234] [] [2017-03-16 10:16:01,061]  INFO {org.wso2.andes.kernel.FlowControlManager} -  Channel removed (ID: 10.49.40.202:55806) 
+TID: [-1234] [] [2017-03-16 10:16:01,063]  INFO {org.wso2.andes.server.handler.ConnectionCloseMethodHandler} -  ConnectionClose received with reply code/reply text 200/JMS client is closing the connection. for /10.49.40.202:55806(jndi_user) 
+TID: [-1234] [] [2017-03-16 10:17:32,269]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  SASL Mechanism selected: PLAIN 
+TID: [-1234] [] [2017-03-16 10:17:32,269]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Locale selected: en_US 
+TID: [-1234] [] [2017-03-16 10:17:32,274]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Connected as: jndi_user 
+TID: [-1234] [] [2017-03-16 10:17:32,274]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Framesize set to 65535 
+TID: [-1] [] [2017-03-16 10:25:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1234] [] [2017-03-16 10:32:18,850]  INFO {org.wso2.andes.server.handler.ConnectionCloseMethodHandler} -  ConnectionClose received with reply code/reply text 200/JMS client is closing the connection. for /10.49.40.202:55912(jndi_user) 
+TID: [-1234] [] [2017-03-16 10:32:20,009]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  SASL Mechanism selected: PLAIN 
+TID: [-1234] [] [2017-03-16 10:32:20,009]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Locale selected: en_US 
+TID: [-1234] [] [2017-03-16 10:32:20,012]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Connected as: jndi_user 
+TID: [-1234] [] [2017-03-16 10:32:20,012]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Framesize set to 65535 
+TID: [-1234] [] [2017-03-16 10:33:54,951]  INFO {org.wso2.andes.server.handler.ChannelOpenHandler} -  Connecting to: carbon 
+TID: [-1234] [] [2017-03-16 10:33:54,953]  INFO {org.wso2.andes.kernel.AndesChannel} -  Channel created (ID: 10.49.40.202:55960) 
+TID: [-1234] [] [2017-03-16 10:33:57,391]  WARN {org.wso2.andes.server.AMQChannel} -  MESSAGE DISCARDED: No routes for message - Message[(HC:563494284 ID:0 Ref:0)]: 0; ref count: 0 
+TID: [-1234] [] [2017-03-16 10:38:36,870]  INFO {org.wso2.andes.server.handler.ChannelCloseHandler} -  Received channel close for id 1 citing class 0 and method 0 
+TID: [-1234] [] [2017-03-16 10:38:36,871]  INFO {org.wso2.andes.server.AMQChannel} -  No consumers to unsubscribe on channel [/10.49.40.202:55960(jndi_user):1] 
+TID: [-1234] [] [2017-03-16 10:38:36,871]  INFO {org.wso2.andes.kernel.FlowControlManager} -  Channel removed (ID: 10.49.40.202:55960) 
+TID: [-1234] [] [2017-03-16 10:38:36,875]  INFO {org.wso2.andes.server.handler.ConnectionCloseMethodHandler} -  ConnectionClose received with reply code/reply text 200/JMS client is closing the connection. for /10.49.40.202:55960(jndi_user) 
+TID: [-1234] [] [2017-03-16 10:38:38,003]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  SASL Mechanism selected: PLAIN 
+TID: [-1234] [] [2017-03-16 10:38:38,004]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Locale selected: en_US 
+TID: [-1234] [] [2017-03-16 10:38:38,006]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Connected as: jndi_user 
+TID: [-1234] [] [2017-03-16 10:38:38,007]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Framesize set to 65535 
+TID: [-1] [] [2017-03-16 10:40:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-16 10:55:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1234] [] [2017-03-16 10:55:39,541]  INFO {org.wso2.andes.server.handler.ConnectionCloseMethodHandler} -  ConnectionClose received with reply code/reply text 200/JMS client is closing the connection. for /10.49.40.202:55992(jndi_user) 
+TID: [-1234] [] [2017-03-16 10:55:40,686]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  SASL Mechanism selected: PLAIN 
+TID: [-1234] [] [2017-03-16 10:55:40,687]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Locale selected: en_US 
+TID: [-1234] [] [2017-03-16 10:55:40,689]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Connected as: jndi_user 
+TID: [-1234] [] [2017-03-16 10:55:40,690]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Framesize set to 65535 
+TID: [-1234] [] [2017-03-16 11:06:12,043]  INFO {org.wso2.andes.server.handler.ConnectionCloseMethodHandler} -  ConnectionClose received with reply code/reply text 200/JMS client is closing the connection. for /10.49.40.202:56036(jndi_user) 
+TID: [-1234] [] [2017-03-16 11:06:13,172]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  SASL Mechanism selected: PLAIN 
+TID: [-1234] [] [2017-03-16 11:06:13,173]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Locale selected: en_US 
+TID: [-1234] [] [2017-03-16 11:06:13,175]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Connected as: jndi_user 
+TID: [-1234] [] [2017-03-16 11:06:13,176]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Framesize set to 65535 
+TID: [-1234] [] [2017-03-16 11:10:22,812]  INFO {org.wso2.andes.server.handler.ChannelOpenHandler} -  Connecting to: carbon 
+TID: [-1234] [] [2017-03-16 11:10:22,813]  INFO {org.wso2.andes.kernel.AndesChannel} -  Channel created (ID: 10.49.40.202:56074) 
+TID: [-1234] [] [2017-03-16 11:10:22,828]  WARN {org.wso2.andes.server.AMQChannel} -  MESSAGE DISCARDED: No routes for message - Message[(HC:632698944 ID:0 Ref:0)]: 0; ref count: 0 
+TID: [-1] [] [2017-03-16 11:10:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-16 11:25:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1234] [] [2017-03-16 11:27:59,725]  INFO {org.wso2.andes.server.handler.ChannelCloseHandler} -  Received channel close for id 1 citing class 0 and method 0 
+TID: [-1234] [] [2017-03-16 11:27:59,726]  INFO {org.wso2.andes.server.AMQChannel} -  No consumers to unsubscribe on channel [/10.49.40.202:56074(jndi_user):1] 
+TID: [-1234] [] [2017-03-16 11:27:59,727]  INFO {org.wso2.andes.kernel.FlowControlManager} -  Channel removed (ID: 10.49.40.202:56074) 
+TID: [-1234] [] [2017-03-16 11:27:59,732]  INFO {org.wso2.andes.server.handler.ConnectionCloseMethodHandler} -  ConnectionClose received with reply code/reply text 200/JMS client is closing the connection. for /10.49.40.202:56074(jndi_user) 
+TID: [-1234] [] [2017-03-16 11:28:00,861]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  SASL Mechanism selected: PLAIN 
+TID: [-1234] [] [2017-03-16 11:28:00,862]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Locale selected: en_US 
+TID: [-1234] [] [2017-03-16 11:28:00,866]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Connected as: jndi_user 
+TID: [-1234] [] [2017-03-16 11:28:00,867]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Framesize set to 65535 
+TID: [-1234] [] [2017-03-16 11:31:32,166]  INFO {org.wso2.andes.server.handler.ConnectionCloseMethodHandler} -  ConnectionClose received with reply code/reply text 200/JMS client is closing the connection. for /10.49.40.202:56140(jndi_user) 
+TID: [-1234] [] [2017-03-16 11:31:33,285]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  SASL Mechanism selected: PLAIN 
+TID: [-1234] [] [2017-03-16 11:31:33,286]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Locale selected: en_US 
+TID: [-1234] [] [2017-03-16 11:31:33,288]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Connected as: jndi_user 
+TID: [-1234] [] [2017-03-16 11:31:33,288]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Framesize set to 65535 
+TID: [-1234] [] [2017-03-16 11:38:19,593]  INFO {org.wso2.andes.server.handler.ConnectionCloseMethodHandler} -  ConnectionClose received with reply code/reply text 200/JMS client is closing the connection. for /10.49.40.202:56164(jndi_user) 
+TID: [-1234] [] [2017-03-16 11:38:20,730]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  SASL Mechanism selected: PLAIN 
+TID: [-1234] [] [2017-03-16 11:38:20,731]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Locale selected: en_US 
+TID: [-1234] [] [2017-03-16 11:38:20,733]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Connected as: jndi_user 
+TID: [-1234] [] [2017-03-16 11:38:20,734]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Framesize set to 65535 
+TID: [-1] [] [2017-03-16 11:40:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-16 11:55:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-16 12:10:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-16 12:25:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-16 12:40:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-16 12:55:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-16 13:10:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-16 13:25:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1234] [] [2017-03-16 13:27:18,854]  INFO {org.wso2.andes.server.handler.ChannelOpenHandler} -  Connecting to: carbon 
+TID: [-1234] [] [2017-03-16 13:27:18,856]  INFO {org.wso2.andes.kernel.AndesChannel} -  Channel created (ID: 10.49.40.202:56188) 
+TID: [-1234] [] [2017-03-16 13:27:21,480]  WARN {org.wso2.andes.server.AMQChannel} -  MESSAGE DISCARDED: No routes for message - Message[(HC:1641021685 ID:0 Ref:0)]: 0; ref count: 0 
+TID: [-1234] [] [2017-03-16 13:35:39,778]  INFO {org.wso2.andes.server.handler.ConnectionCloseMethodHandler} -  ConnectionClose received with reply code/reply text 200/JMS client is closing the connection. for /10.49.40.202:53930(jndi_user) 
+TID: [-1234] [] [2017-03-16 13:35:44,135]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  SASL Mechanism selected: PLAIN 
+TID: [-1234] [] [2017-03-16 13:35:44,136]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Locale selected: en_US 
+TID: [-1234] [] [2017-03-16 13:35:44,138]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Connected as: jndi_user 
+TID: [-1234] [] [2017-03-16 13:35:44,139]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Framesize set to 65535 
+TID: [-1234] [] [2017-03-16 13:37:31,824]  INFO {org.wso2.andes.server.handler.ConnectionCloseMethodHandler} -  ConnectionClose received with reply code/reply text 200/JMS client is closing the connection. for /10.49.40.202:56462(jndi_user) 
+TID: [-1234] [] [2017-03-16 13:37:36,139]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  SASL Mechanism selected: PLAIN 
+TID: [-1234] [] [2017-03-16 13:37:36,140]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Locale selected: en_US 
+TID: [-1234] [] [2017-03-16 13:37:36,142]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Connected as: jndi_user 
+TID: [-1234] [] [2017-03-16 13:37:36,143]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Framesize set to 65535 
+TID: [-1] [] [2017-03-16 13:40:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-16 13:55:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-16 14:10:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-16 14:25:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-16 14:40:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1234] [] [2017-03-16 14:40:56,632]  INFO {org.wso2.andes.server.handler.ConnectionCloseMethodHandler} -  ConnectionClose received with reply code/reply text 200/JMS client is closing the connection. for /10.49.40.202:56486(jndi_user) 
+TID: [-1234] [] [2017-03-16 14:41:00,958]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  SASL Mechanism selected: PLAIN 
+TID: [-1234] [] [2017-03-16 14:41:00,959]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Locale selected: en_US 
+TID: [-1234] [] [2017-03-16 14:41:00,963]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Connected as: jndi_user 
+TID: [-1234] [] [2017-03-16 14:41:00,963]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Framesize set to 65535 
+TID: [-1234] [] [2017-03-16 14:51:03,756]  INFO {org.wso2.andes.server.handler.ConnectionCloseMethodHandler} -  ConnectionClose received with reply code/reply text 200/JMS client is closing the connection. for /10.49.40.202:56644(jndi_user) 
+TID: [-1234] [] [2017-03-16 14:51:08,050]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  SASL Mechanism selected: PLAIN 
+TID: [-1234] [] [2017-03-16 14:51:08,051]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Locale selected: en_US 
+TID: [-1234] [] [2017-03-16 14:51:08,053]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Connected as: jndi_user 
+TID: [-1234] [] [2017-03-16 14:51:08,054]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Framesize set to 65535 
+TID: [-1234] [] [2017-03-16 14:53:42,285]  WARN {org.wso2.andes.server.AMQChannel} -  MESSAGE DISCARDED: No routes for message - Message[(HC:1622503514 ID:0 Ref:0)]: 0; ref count: 0 
+TID: [-1] [] [2017-03-16 14:55:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1234] [] [2017-03-16 14:57:23,417]  WARN {org.wso2.andes.server.AMQChannel} -  MESSAGE DISCARDED: No routes for message - Message[(HC:1790517495 ID:0 Ref:0)]: 0; ref count: 0 
+TID: [-1234] [] [2017-03-16 14:58:10,712]  INFO {org.wso2.andes.server.handler.ConnectionCloseMethodHandler} -  ConnectionClose received with reply code/reply text 200/JMS client is closing the connection. for /10.49.40.202:56680(jndi_user) 
+TID: [-1234] [] [2017-03-16 14:58:16,604]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  SASL Mechanism selected: PLAIN 
+TID: [-1234] [] [2017-03-16 14:58:16,605]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Locale selected: en_US 
+TID: [-1234] [] [2017-03-16 14:58:16,607]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Connected as: jndi_user 
+TID: [-1234] [] [2017-03-16 14:58:16,607]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Framesize set to 65535 
+TID: [-1234] [] [2017-03-16 15:07:18,295]  INFO {org.wso2.andes.server.handler.ChannelCloseHandler} -  Received channel close for id 1 citing class 0 and method 0 
+TID: [-1234] [] [2017-03-16 15:07:18,296]  INFO {org.wso2.andes.server.AMQChannel} -  No consumers to unsubscribe on channel [/10.49.40.202:56188(jndi_user):1] 
+TID: [-1234] [] [2017-03-16 15:07:18,296]  INFO {org.wso2.andes.kernel.FlowControlManager} -  Channel removed (ID: 10.49.40.202:56188) 
+TID: [-1234] [] [2017-03-16 15:07:18,298]  INFO {org.wso2.andes.server.handler.ConnectionCloseMethodHandler} -  ConnectionClose received with reply code/reply text 200/JMS client is closing the connection. for /10.49.40.202:56188(jndi_user) 
+TID: [-1234] [] [2017-03-16 15:07:19,480]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  SASL Mechanism selected: PLAIN 
+TID: [-1234] [] [2017-03-16 15:07:19,480]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Locale selected: en_US 
+TID: [-1234] [] [2017-03-16 15:07:19,482]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Connected as: jndi_user 
+TID: [-1234] [] [2017-03-16 15:07:19,483]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Framesize set to 65535 
+TID: [-1] [] [2017-03-16 15:10:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1234] [] [2017-03-16 15:11:06,929]  INFO {org.wso2.andes.server.handler.ConnectionCloseMethodHandler} -  ConnectionClose received with reply code/reply text 200/JMS client is closing the connection. for /10.49.40.202:56724(jndi_user) 
+TID: [-1234] [] [2017-03-16 15:11:11,267]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  SASL Mechanism selected: PLAIN 
+TID: [-1234] [] [2017-03-16 15:11:11,268]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Locale selected: en_US 
+TID: [-1234] [] [2017-03-16 15:11:11,271]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Connected as: jndi_user 
+TID: [-1234] [] [2017-03-16 15:11:11,271]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Framesize set to 65535 
+TID: [-1] [] [2017-03-16 15:25:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-16 15:40:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-16 15:55:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1234] [] [2017-03-16 16:10:30,016]  INFO {org.wso2.andes.server.handler.ConnectionCloseMethodHandler} -  ConnectionClose received with reply code/reply text 200/JMS client is closing the connection. for /10.49.40.202:56778(jndi_user) 
+TID: [-1234] [] [2017-03-16 16:10:34,331]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  SASL Mechanism selected: PLAIN 
+TID: [-1234] [] [2017-03-16 16:10:34,331]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Locale selected: en_US 
+TID: [-1234] [] [2017-03-16 16:10:34,335]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Connected as: jndi_user 
+TID: [-1234] [] [2017-03-16 16:10:34,336]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Framesize set to 65535 
+TID: [-1] [] [2017-03-16 16:10:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1234] [] [2017-03-16 16:24:52,341]  INFO {org.wso2.andes.server.handler.ConnectionCloseMethodHandler} -  ConnectionClose received with reply code/reply text 200/JMS client is closing the connection. for /10.49.40.202:56932(jndi_user) 
+TID: [-1234] [] [2017-03-16 16:24:56,678]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  SASL Mechanism selected: PLAIN 
+TID: [-1234] [] [2017-03-16 16:24:56,679]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Locale selected: en_US 
+TID: [-1234] [] [2017-03-16 16:24:56,683]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Connected as: jndi_user 
+TID: [-1234] [] [2017-03-16 16:24:56,684]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Framesize set to 65535 
+TID: [-1] [] [2017-03-16 16:25:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1234] [] [2017-03-16 16:29:58,223]  INFO {org.wso2.andes.server.handler.ConnectionCloseMethodHandler} -  ConnectionClose received with reply code/reply text 200/JMS client is closing the connection. for /10.49.40.202:56758(jndi_user) 
+TID: [-1234] [] [2017-03-16 16:29:59,369]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  SASL Mechanism selected: PLAIN 
+TID: [-1234] [] [2017-03-16 16:29:59,370]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Locale selected: en_US 
+TID: [-1234] [] [2017-03-16 16:29:59,372]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Connected as: jndi_user 
+TID: [-1234] [] [2017-03-16 16:29:59,372]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Framesize set to 65535 
+TID: [-1234] [] [2017-03-16 16:31:18,320]  INFO {org.wso2.andes.server.handler.ConnectionCloseMethodHandler} -  ConnectionClose received with reply code/reply text 200/JMS client is closing the connection. for /10.49.40.202:56992(jndi_user) 
+TID: [-1234] [] [2017-03-16 16:31:22,619]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  SASL Mechanism selected: PLAIN 
+TID: [-1234] [] [2017-03-16 16:31:22,619]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Locale selected: en_US 
+TID: [-1234] [] [2017-03-16 16:31:22,622]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Connected as: jndi_user 
+TID: [-1234] [] [2017-03-16 16:31:22,622]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Framesize set to 65535 
+TID: [-1234] [] [2017-03-16 16:36:55,297]  INFO {org.wso2.andes.server.handler.ConnectionCloseMethodHandler} -  ConnectionClose received with reply code/reply text 200/JMS client is closing the connection. for /10.49.40.202:57036(jndi_user) 
+TID: [-1234] [] [2017-03-16 16:36:59,697]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  SASL Mechanism selected: PLAIN 
+TID: [-1234] [] [2017-03-16 16:36:59,698]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Locale selected: en_US 
+TID: [-1234] [] [2017-03-16 16:36:59,700]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Connected as: jndi_user 
+TID: [-1234] [] [2017-03-16 16:36:59,701]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Framesize set to 65535 
+TID: [-1] [] [2017-03-16 16:40:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1234] [] [2017-03-16 16:41:46,446]  INFO {org.wso2.andes.server.handler.ConnectionCloseMethodHandler} -  ConnectionClose received with reply code/reply text 200/JMS client is closing the connection. for /10.49.40.202:57020(jndi_user) 
+TID: [-1234] [] [2017-03-16 16:41:47,626]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  SASL Mechanism selected: PLAIN 
+TID: [-1234] [] [2017-03-16 16:41:47,626]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Locale selected: en_US 
+TID: [-1234] [] [2017-03-16 16:41:47,628]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Connected as: jndi_user 
+TID: [-1234] [] [2017-03-16 16:41:47,629]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Framesize set to 65535 
+TID: [-1234] [] [2017-03-16 16:47:18,986]  INFO {org.wso2.andes.server.handler.ConnectionCloseMethodHandler} -  ConnectionClose received with reply code/reply text 200/JMS client is closing the connection. for /10.49.40.202:57092(jndi_user) 
+TID: [-1234] [] [2017-03-16 16:47:20,120]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  SASL Mechanism selected: PLAIN 
+TID: [-1234] [] [2017-03-16 16:47:20,121]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Locale selected: en_US 
+TID: [-1234] [] [2017-03-16 16:47:20,123]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Connected as: jndi_user 
+TID: [-1234] [] [2017-03-16 16:47:20,123]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Framesize set to 65535 
+TID: [-1234] [] [2017-03-16 16:51:51,455]  INFO {org.wso2.andes.server.handler.ConnectionCloseMethodHandler} -  ConnectionClose received with reply code/reply text 200/JMS client is closing the connection. for /10.49.40.202:57118(jndi_user) 
+TID: [-1234] [] [2017-03-16 16:51:52,576]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  SASL Mechanism selected: PLAIN 
+TID: [-1234] [] [2017-03-16 16:51:52,577]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Locale selected: en_US 
+TID: [-1234] [] [2017-03-16 16:51:52,579]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Connected as: jndi_user 
+TID: [-1234] [] [2017-03-16 16:51:52,579]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Framesize set to 65535 
+TID: [-1] [] [2017-03-16 16:55:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1234] [] [2017-03-16 16:55:55,012]  INFO {org.wso2.andes.server.handler.ConnectionCloseMethodHandler} -  ConnectionClose received with reply code/reply text 200/JMS client is closing the connection. for /10.49.40.202:57062(jndi_user) 
+TID: [-1234] [] [2017-03-16 16:55:59,320]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  SASL Mechanism selected: PLAIN 
+TID: [-1234] [] [2017-03-16 16:55:59,320]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Locale selected: en_US 
+TID: [-1234] [] [2017-03-16 16:55:59,323]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Connected as: jndi_user 
+TID: [-1234] [] [2017-03-16 16:55:59,323]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Framesize set to 65535 
+TID: [-1234] [] [2017-03-16 17:00:48,376]  INFO {org.wso2.andes.server.handler.ConnectionCloseMethodHandler} -  ConnectionClose received with reply code/reply text 200/JMS client is closing the connection. for /10.49.40.202:57154(jndi_user) 
+TID: [-1234] [] [2017-03-16 17:00:53,974]  INFO {org.wso2.andes.server.handler.ConnectionCloseMethodHandler} -  ConnectionClose received with reply code/reply text 200/JMS client is closing the connection. for /10.49.40.202:57134(jndi_user) 
+TID: [-1234] [] [2017-03-16 17:00:55,398]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  SASL Mechanism selected: PLAIN 
+TID: [-1234] [] [2017-03-16 17:00:55,399]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Locale selected: en_US 
+TID: [-1234] [] [2017-03-16 17:00:55,402]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Connected as: jndi_user 
+TID: [-1234] [] [2017-03-16 17:00:55,402]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Framesize set to 65535 
+TID: [-1234] [] [2017-03-16 17:00:56,685]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  SASL Mechanism selected: PLAIN 
+TID: [-1234] [] [2017-03-16 17:00:56,686]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Locale selected: en_US 
+TID: [-1234] [] [2017-03-16 17:00:56,689]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Connected as: jndi_user 
+TID: [-1234] [] [2017-03-16 17:00:56,690]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Framesize set to 65535 
+TID: [-1234] [] [2017-03-16 17:06:59,666]  INFO {org.wso2.andes.server.handler.ConnectionCloseMethodHandler} -  ConnectionClose received with reply code/reply text 200/JMS client is closing the connection. for /10.49.40.202:57194(jndi_user) 
+TID: [-1234] [] [2017-03-16 17:07:04,419]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  SASL Mechanism selected: PLAIN 
+TID: [-1234] [] [2017-03-16 17:07:04,420]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Locale selected: en_US 
+TID: [-1234] [] [2017-03-16 17:07:04,431]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Connected as: jndi_user 
+TID: [-1234] [] [2017-03-16 17:07:04,433]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Framesize set to 65535 
+TID: [-1234] [] [2017-03-16 17:07:26,616]  INFO {org.wso2.andes.server.handler.ChannelOpenHandler} -  Connecting to: carbon 
+TID: [-1234] [] [2017-03-16 17:07:26,631]  INFO {org.wso2.andes.kernel.AndesChannel} -  Channel created (ID: 10.49.40.202:57234) 
+TID: [-1234] [] [2017-03-16 17:09:22,852]  INFO {org.wso2.andes.server.handler.ChannelCloseHandler} -  Received channel close for id 1 citing class 0 and method 0 
+TID: [-1234] [] [2017-03-16 17:09:22,853]  INFO {org.wso2.andes.server.AMQChannel} -  No consumers to unsubscribe on channel [/10.49.40.202:57234(jndi_user):1] 
+TID: [-1234] [] [2017-03-16 17:09:22,854]  INFO {org.wso2.andes.kernel.FlowControlManager} -  Channel removed (ID: 10.49.40.202:57234) 
+TID: [-1234] [] [2017-03-16 17:09:22,856]  INFO {org.wso2.andes.server.handler.ConnectionCloseMethodHandler} -  ConnectionClose received with reply code/reply text 200/JMS client is closing the connection. for /10.49.40.202:57234(jndi_user) 
+TID: [-1234] [] [2017-03-16 17:09:27,139]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  SASL Mechanism selected: PLAIN 
+TID: [-1234] [] [2017-03-16 17:09:27,140]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Locale selected: en_US 
+TID: [-1234] [] [2017-03-16 17:09:27,142]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Connected as: jndi_user 
+TID: [-1234] [] [2017-03-16 17:09:27,143]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Framesize set to 65535 
+TID: [-1234] [] [2017-03-16 17:10:10,082]  INFO {org.wso2.andes.server.handler.ChannelOpenHandler} -  Connecting to: carbon 
+TID: [-1234] [] [2017-03-16 17:10:10,084]  INFO {org.wso2.andes.kernel.AndesChannel} -  Channel created (ID: 10.49.40.202:57262) 
+TID: [-1] [] [2017-03-16 17:10:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1234] [] [2017-03-16 17:13:45,065]  INFO {org.wso2.andes.server.handler.ChannelCloseHandler} -  Received channel close for id 1 citing class 0 and method 0 
+TID: [-1234] [] [2017-03-16 17:13:45,065]  INFO {org.wso2.andes.server.AMQChannel} -  No consumers to unsubscribe on channel [/10.49.40.202:57262(jndi_user):1] 
+TID: [-1234] [] [2017-03-16 17:13:45,066]  INFO {org.wso2.andes.kernel.FlowControlManager} -  Channel removed (ID: 10.49.40.202:57262) 
+TID: [-1234] [] [2017-03-16 17:13:45,070]  INFO {org.wso2.andes.server.handler.ConnectionCloseMethodHandler} -  ConnectionClose received with reply code/reply text 200/JMS client is closing the connection. for /10.49.40.202:57262(jndi_user) 
+TID: [-1234] [] [2017-03-16 17:13:49,376]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  SASL Mechanism selected: PLAIN 
+TID: [-1234] [] [2017-03-16 17:13:49,377]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Locale selected: en_US 
+TID: [-1234] [] [2017-03-16 17:13:49,380]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Connected as: jndi_user 
+TID: [-1234] [] [2017-03-16 17:13:49,381]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Framesize set to 65535 
+TID: [-1234] [] [2017-03-16 17:23:08,385]  INFO {org.wso2.andes.server.handler.ConnectionCloseMethodHandler} -  ConnectionClose received with reply code/reply text 200/JMS client is closing the connection. for /10.49.40.202:57292(jndi_user) 
+TID: [-1234] [] [2017-03-16 17:23:13,220]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  SASL Mechanism selected: PLAIN 
+TID: [-1234] [] [2017-03-16 17:23:13,221]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Locale selected: en_US 
+TID: [-1234] [] [2017-03-16 17:23:13,223]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Connected as: jndi_user 
+TID: [-1234] [] [2017-03-16 17:23:13,224]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Framesize set to 65535 
+TID: [-1] [] [2017-03-16 17:25:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1234] [] [2017-03-16 17:28:00,500]  INFO {org.wso2.andes.server.handler.ConnectionCloseMethodHandler} -  ConnectionClose received with reply code/reply text 200/JMS client is closing the connection. for /10.49.40.202:57196(jndi_user) 
+TID: [-1234] [] [2017-03-16 17:28:01,726]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  SASL Mechanism selected: PLAIN 
+TID: [-1234] [] [2017-03-16 17:28:01,726]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Locale selected: en_US 
+TID: [-1234] [] [2017-03-16 17:28:01,729]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Connected as: jndi_user 
+TID: [-1234] [] [2017-03-16 17:28:01,729]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Framesize set to 65535 
+TID: [-1234] [] [2017-03-16 17:29:19,173]  INFO {org.wso2.andes.server.handler.ConnectionCloseMethodHandler} -  ConnectionClose received with reply code/reply text 200/JMS client is closing the connection. for /10.49.40.202:57334(jndi_user) 
+TID: [-1234] [] [2017-03-16 17:29:23,666]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  SASL Mechanism selected: PLAIN 
+TID: [-1234] [] [2017-03-16 17:29:23,666]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Locale selected: en_US 
+TID: [-1234] [] [2017-03-16 17:29:23,668]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Connected as: jndi_user 
+TID: [-1234] [] [2017-03-16 17:29:23,669]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Framesize set to 65535 
+TID: [-1] [] [2017-03-16 17:40:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-16 17:55:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-16 18:10:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-16 18:25:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-16 18:40:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-16 18:55:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-16 19:10:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-16 19:25:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-16 19:40:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-16 19:55:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-16 20:10:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-16 20:25:34,747]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-16 20:40:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-16 20:55:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-16 21:10:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-16 21:25:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-16 21:40:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-16 21:55:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-16 22:10:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-16 22:25:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-16 22:40:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-16 22:55:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-16 23:10:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-16 23:25:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-16 23:40:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-03-16 23:55:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 

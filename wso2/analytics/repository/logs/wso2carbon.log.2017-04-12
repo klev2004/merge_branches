@@ -1,0 +1,118 @@
+TID: [-1234] [] [2017-04-12 08:37:53,508]  INFO {org.wso2.carbon.databridge.core.DataBridge} -  user admin connected {org.wso2.carbon.databridge.core.DataBridge}
+TID: [-1234] [] [2017-04-12 08:54:42,733]  INFO {org.wso2.carbon.databridge.core.DataBridge} -  user admin disconnected {org.wso2.carbon.databridge.core.DataBridge}
+TID: [-1234] [] [2017-04-12 08:54:42,743] ERROR {org.apache.thrift.ProcessFunction} -  Internal error processing disconnect {org.apache.thrift.ProcessFunction}
+org.apache.thrift.TException
+	at org.wso2.carbon.databridge.receiver.thrift.service.ThriftSecureEventTransmissionServiceImpl.disconnect(ThriftSecureEventTransmissionServiceImpl.java:65)
+	at org.wso2.carbon.databridge.commons.thrift.service.secure.ThriftSecureEventTransmissionService$Processor$disconnect.getResult(ThriftSecureEventTransmissionService.java:613)
+	at org.wso2.carbon.databridge.commons.thrift.service.secure.ThriftSecureEventTransmissionService$Processor$disconnect.getResult(ThriftSecureEventTransmissionService.java:598)
+	at org.apache.thrift.ProcessFunction.process(ProcessFunction.java:39)
+	at org.apache.thrift.TBaseProcessor.process(TBaseProcessor.java:39)
+	at org.apache.thrift.server.TThreadPoolServer$WorkerProcess.run(TThreadPoolServer.java:285)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+TID: [-1234] [] [2017-04-12 08:56:04,300]  INFO {org.wso2.carbon.databridge.core.DataBridge} -  user admin connected {org.wso2.carbon.databridge.core.DataBridge}
+TID: [-1234] [] [2017-04-12 08:58:13,384]  INFO {org.wso2.carbon.databridge.core.DataBridge} -  user admin connected {org.wso2.carbon.databridge.core.DataBridge}
+TID: [-1234] [] [2017-04-12 09:03:41,364]  INFO {org.wso2.carbon.databridge.core.DataBridge} -  user admin disconnected {org.wso2.carbon.databridge.core.DataBridge}
+TID: [-1234] [] [2017-04-12 09:03:41,373]  INFO {org.wso2.carbon.databridge.core.DataBridge} -  user admin disconnected {org.wso2.carbon.databridge.core.DataBridge}
+TID: [-1234] [] [2017-04-12 09:05:14,873]  INFO {org.wso2.carbon.databridge.core.DataBridge} -  user admin connected {org.wso2.carbon.databridge.core.DataBridge}
+TID: [-1234] [] [2017-04-12 09:06:09,443]  INFO {org.wso2.carbon.databridge.core.DataBridge} -  user admin connected {org.wso2.carbon.databridge.core.DataBridge}
+TID: [-1234] [] [2017-04-12 09:10:36,326]  INFO {org.wso2.carbon.databridge.core.DataBridge} -  user admin disconnected {org.wso2.carbon.databridge.core.DataBridge}
+TID: [-1234] [] [2017-04-12 09:10:36,331]  INFO {org.wso2.carbon.databridge.core.DataBridge} -  user admin disconnected {org.wso2.carbon.databridge.core.DataBridge}
+TID: [-1234] [] [2017-04-12 09:12:04,905]  INFO {org.wso2.carbon.databridge.core.DataBridge} -  user admin connected {org.wso2.carbon.databridge.core.DataBridge}
+TID: [-1234] [] [2017-04-12 09:14:12,825]  INFO {org.wso2.carbon.databridge.core.DataBridge} -  user admin connected {org.wso2.carbon.databridge.core.DataBridge}
+TID: [-1234] [] [2017-04-12 09:40:30,375]  INFO {org.wso2.carbon.databridge.core.DataBridge} -  user admin disconnected {org.wso2.carbon.databridge.core.DataBridge}
+TID: [-1234] [] [2017-04-12 09:40:30,384]  INFO {org.wso2.carbon.databridge.core.DataBridge} -  user admin disconnected {org.wso2.carbon.databridge.core.DataBridge}
+TID: [-1234] [] [2017-04-12 09:41:59,220]  INFO {org.wso2.carbon.databridge.core.DataBridge} -  user admin connected {org.wso2.carbon.databridge.core.DataBridge}
+TID: [-1234] [] [2017-04-12 09:42:58,725]  INFO {org.wso2.carbon.databridge.core.DataBridge} -  user admin connected {org.wso2.carbon.databridge.core.DataBridge}
+TID: [-1234] [] [2017-04-12 10:02:28,823]  INFO {org.wso2.carbon.databridge.core.DataBridge} -  user admin disconnected {org.wso2.carbon.databridge.core.DataBridge}
+TID: [-1234] [] [2017-04-12 10:02:28,838]  INFO {org.wso2.carbon.databridge.core.DataBridge} -  user admin disconnected {org.wso2.carbon.databridge.core.DataBridge}
+TID: [-1234] [] [2017-04-12 10:03:58,422]  INFO {org.wso2.carbon.databridge.core.DataBridge} -  user admin connected {org.wso2.carbon.databridge.core.DataBridge}
+TID: [-1234] [] [2017-04-12 10:04:53,095]  INFO {org.wso2.carbon.databridge.core.DataBridge} -  user admin connected {org.wso2.carbon.databridge.core.DataBridge}
+TID: [-1234] [] [2017-04-12 11:02:54,530] ERROR {org.apache.thrift.ProcessFunction} -  Internal error processing disconnect {org.apache.thrift.ProcessFunction}
+org.apache.thrift.TException
+	at org.wso2.carbon.databridge.receiver.thrift.service.ThriftSecureEventTransmissionServiceImpl.disconnect(ThriftSecureEventTransmissionServiceImpl.java:65)
+	at org.wso2.carbon.databridge.commons.thrift.service.secure.ThriftSecureEventTransmissionService$Processor$disconnect.getResult(ThriftSecureEventTransmissionService.java:613)
+	at org.wso2.carbon.databridge.commons.thrift.service.secure.ThriftSecureEventTransmissionService$Processor$disconnect.getResult(ThriftSecureEventTransmissionService.java:598)
+	at org.apache.thrift.ProcessFunction.process(ProcessFunction.java:39)
+	at org.apache.thrift.TBaseProcessor.process(TBaseProcessor.java:39)
+	at org.apache.thrift.server.TThreadPoolServer$WorkerProcess.run(TThreadPoolServer.java:285)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+TID: [-1234] [] [2017-04-12 11:02:54,539] ERROR {org.apache.thrift.ProcessFunction} -  Internal error processing disconnect {org.apache.thrift.ProcessFunction}
+org.apache.thrift.TException
+	at org.wso2.carbon.databridge.receiver.thrift.service.ThriftSecureEventTransmissionServiceImpl.disconnect(ThriftSecureEventTransmissionServiceImpl.java:65)
+	at org.wso2.carbon.databridge.commons.thrift.service.secure.ThriftSecureEventTransmissionService$Processor$disconnect.getResult(ThriftSecureEventTransmissionService.java:613)
+	at org.wso2.carbon.databridge.commons.thrift.service.secure.ThriftSecureEventTransmissionService$Processor$disconnect.getResult(ThriftSecureEventTransmissionService.java:598)
+	at org.apache.thrift.ProcessFunction.process(ProcessFunction.java:39)
+	at org.apache.thrift.TBaseProcessor.process(TBaseProcessor.java:39)
+	at org.apache.thrift.server.TThreadPoolServer$WorkerProcess.run(TThreadPoolServer.java:285)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+TID: [-1234] [] [2017-04-12 11:04:24,981]  INFO {org.wso2.carbon.databridge.core.DataBridge} -  user admin connected {org.wso2.carbon.databridge.core.DataBridge}
+TID: [-1234] [] [2017-04-12 11:05:19,186]  INFO {org.wso2.carbon.databridge.core.DataBridge} -  user admin connected {org.wso2.carbon.databridge.core.DataBridge}
+TID: [-1234] [] [2017-04-12 11:37:05,005] ERROR {org.apache.thrift.ProcessFunction} -  Internal error processing disconnect {org.apache.thrift.ProcessFunction}
+org.apache.thrift.TException
+	at org.wso2.carbon.databridge.receiver.thrift.service.ThriftSecureEventTransmissionServiceImpl.disconnect(ThriftSecureEventTransmissionServiceImpl.java:65)
+	at org.wso2.carbon.databridge.commons.thrift.service.secure.ThriftSecureEventTransmissionService$Processor$disconnect.getResult(ThriftSecureEventTransmissionService.java:613)
+	at org.wso2.carbon.databridge.commons.thrift.service.secure.ThriftSecureEventTransmissionService$Processor$disconnect.getResult(ThriftSecureEventTransmissionService.java:598)
+	at org.apache.thrift.ProcessFunction.process(ProcessFunction.java:39)
+	at org.apache.thrift.TBaseProcessor.process(TBaseProcessor.java:39)
+	at org.apache.thrift.server.TThreadPoolServer$WorkerProcess.run(TThreadPoolServer.java:285)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+TID: [-1234] [] [2017-04-12 11:37:05,016] ERROR {org.apache.thrift.ProcessFunction} -  Internal error processing disconnect {org.apache.thrift.ProcessFunction}
+org.apache.thrift.TException
+	at org.wso2.carbon.databridge.receiver.thrift.service.ThriftSecureEventTransmissionServiceImpl.disconnect(ThriftSecureEventTransmissionServiceImpl.java:65)
+	at org.wso2.carbon.databridge.commons.thrift.service.secure.ThriftSecureEventTransmissionService$Processor$disconnect.getResult(ThriftSecureEventTransmissionService.java:613)
+	at org.wso2.carbon.databridge.commons.thrift.service.secure.ThriftSecureEventTransmissionService$Processor$disconnect.getResult(ThriftSecureEventTransmissionService.java:598)
+	at org.apache.thrift.ProcessFunction.process(ProcessFunction.java:39)
+	at org.apache.thrift.TBaseProcessor.process(TBaseProcessor.java:39)
+	at org.apache.thrift.server.TThreadPoolServer$WorkerProcess.run(TThreadPoolServer.java:285)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+TID: [-1234] [] [2017-04-12 11:38:46,438]  INFO {org.wso2.carbon.databridge.core.DataBridge} -  user admin connected {org.wso2.carbon.databridge.core.DataBridge}
+TID: [-1234] [] [2017-04-12 11:41:40,976]  INFO {org.wso2.carbon.databridge.core.DataBridge} -  user admin connected {org.wso2.carbon.databridge.core.DataBridge}
+TID: [-1234] [] [2017-04-12 11:42:46,262]  INFO {org.wso2.carbon.databridge.core.DataBridge} -  user admin disconnected {org.wso2.carbon.databridge.core.DataBridge}
+TID: [-1234] [] [2017-04-12 11:42:46,267]  INFO {org.wso2.carbon.databridge.core.DataBridge} -  user admin disconnected {org.wso2.carbon.databridge.core.DataBridge}
+TID: [-1234] [] [2017-04-12 11:44:18,882]  INFO {org.wso2.carbon.databridge.core.DataBridge} -  user admin connected {org.wso2.carbon.databridge.core.DataBridge}
+TID: [-1234] [] [2017-04-12 11:44:53,133]  INFO {org.wso2.carbon.databridge.core.DataBridge} -  user admin connected {org.wso2.carbon.databridge.core.DataBridge}
+TID: [-1234] [] [2017-04-12 11:46:46,394]  INFO {org.wso2.carbon.databridge.core.DataBridge} -  user admin disconnected {org.wso2.carbon.databridge.core.DataBridge}
+TID: [-1234] [] [2017-04-12 11:46:46,407]  INFO {org.wso2.carbon.databridge.core.DataBridge} -  user admin disconnected {org.wso2.carbon.databridge.core.DataBridge}
+TID: [-1234] [] [2017-04-12 11:48:40,424]  INFO {org.wso2.carbon.databridge.core.DataBridge} -  user admin connected {org.wso2.carbon.databridge.core.DataBridge}
+TID: [-1234] [] [2017-04-12 11:49:14,690]  INFO {org.wso2.carbon.databridge.core.DataBridge} -  user admin connected {org.wso2.carbon.databridge.core.DataBridge}
+TID: [-1234] [] [2017-04-12 11:51:44,246]  INFO {org.wso2.carbon.databridge.core.DataBridge} -  user admin disconnected {org.wso2.carbon.databridge.core.DataBridge}
+TID: [-1234] [] [2017-04-12 11:51:44,251]  INFO {org.wso2.carbon.databridge.core.DataBridge} -  user admin disconnected {org.wso2.carbon.databridge.core.DataBridge}
+TID: [-1234] [] [2017-04-12 11:53:19,398]  INFO {org.wso2.carbon.databridge.core.DataBridge} -  user admin connected {org.wso2.carbon.databridge.core.DataBridge}
+TID: [-1234] [] [2017-04-12 11:55:03,767]  INFO {org.wso2.carbon.databridge.core.DataBridge} -  user admin connected {org.wso2.carbon.databridge.core.DataBridge}
+TID: [-1234] [] [2017-04-12 11:59:43,452]  INFO {org.wso2.carbon.databridge.core.DataBridge} -  user admin disconnected {org.wso2.carbon.databridge.core.DataBridge}
+TID: [-1234] [] [2017-04-12 11:59:43,460]  INFO {org.wso2.carbon.databridge.core.DataBridge} -  user admin disconnected {org.wso2.carbon.databridge.core.DataBridge}
+TID: [-1234] [] [2017-04-12 12:01:27,877]  INFO {org.wso2.carbon.databridge.core.DataBridge} -  user admin connected {org.wso2.carbon.databridge.core.DataBridge}
+TID: [-1234] [] [2017-04-12 12:02:07,318]  INFO {org.wso2.carbon.databridge.core.DataBridge} -  user admin connected {org.wso2.carbon.databridge.core.DataBridge}
+TID: [-1234] [] [2017-04-12 12:06:27,036]  INFO {org.wso2.carbon.databridge.core.DataBridge} -  user admin disconnected {org.wso2.carbon.databridge.core.DataBridge}
+TID: [-1234] [] [2017-04-12 12:06:27,042]  INFO {org.wso2.carbon.databridge.core.DataBridge} -  user admin disconnected {org.wso2.carbon.databridge.core.DataBridge}
+TID: [-1234] [] [2017-04-12 12:07:52,179]  INFO {org.wso2.carbon.databridge.core.DataBridge} -  user admin connected {org.wso2.carbon.databridge.core.DataBridge}
+TID: [-1234] [] [2017-04-12 12:08:21,843]  INFO {org.wso2.carbon.databridge.core.DataBridge} -  user admin connected {org.wso2.carbon.databridge.core.DataBridge}
+TID: [-1234] [] [2017-04-12 12:12:01,229]  INFO {org.wso2.carbon.databridge.core.DataBridge} -  user admin disconnected {org.wso2.carbon.databridge.core.DataBridge}
+TID: [-1234] [] [2017-04-12 12:12:01,233]  INFO {org.wso2.carbon.databridge.core.DataBridge} -  user admin disconnected {org.wso2.carbon.databridge.core.DataBridge}
+TID: [-1234] [] [2017-04-12 12:13:31,505]  INFO {org.wso2.carbon.databridge.core.DataBridge} -  user admin connected {org.wso2.carbon.databridge.core.DataBridge}
+TID: [-1234] [] [2017-04-12 12:14:15,647]  INFO {org.wso2.carbon.databridge.core.DataBridge} -  user admin connected {org.wso2.carbon.databridge.core.DataBridge}
+TID: [-1234] [] [2017-04-12 12:49:31,000]  INFO {org.wso2.carbon.databridge.core.DataBridge} -  user admin connected {org.wso2.carbon.databridge.core.DataBridge}
+TID: [-1234] [] [2017-04-12 13:15:39,837]  INFO {org.wso2.carbon.databridge.core.DataBridge} -  user admin connected {org.wso2.carbon.databridge.core.DataBridge}
+TID: [-1234] [] [2017-04-12 13:21:26,331]  INFO {org.wso2.carbon.databridge.core.DataBridge} -  user admin connected {org.wso2.carbon.databridge.core.DataBridge}
+TID: [-1234] [] [2017-04-12 13:39:26,473]  INFO {org.wso2.carbon.databridge.core.DataBridge} -  user admin disconnected {org.wso2.carbon.databridge.core.DataBridge}
+TID: [-1234] [] [2017-04-12 13:39:26,479]  INFO {org.wso2.carbon.databridge.core.DataBridge} -  user admin disconnected {org.wso2.carbon.databridge.core.DataBridge}
+TID: [-1234] [] [2017-04-12 13:40:55,333]  INFO {org.wso2.carbon.databridge.core.DataBridge} -  user admin connected {org.wso2.carbon.databridge.core.DataBridge}
+TID: [-1234] [] [2017-04-12 13:42:09,716]  INFO {org.wso2.carbon.databridge.core.DataBridge} -  user admin connected {org.wso2.carbon.databridge.core.DataBridge}
+TID: [-1234] [] [2017-04-12 13:55:22,139]  INFO {org.wso2.carbon.databridge.core.DataBridge} -  user admin disconnected {org.wso2.carbon.databridge.core.DataBridge}
+TID: [-1234] [] [2017-04-12 13:55:22,146]  INFO {org.wso2.carbon.databridge.core.DataBridge} -  user admin disconnected {org.wso2.carbon.databridge.core.DataBridge}
+TID: [-1234] [] [2017-04-12 13:56:51,091]  INFO {org.wso2.carbon.databridge.core.DataBridge} -  user admin connected {org.wso2.carbon.databridge.core.DataBridge}
+TID: [-1234] [] [2017-04-12 13:58:21,261]  INFO {org.wso2.carbon.databridge.core.DataBridge} -  user admin disconnected {org.wso2.carbon.databridge.core.DataBridge}
+TID: [-1234] [] [2017-04-12 13:59:51,265]  INFO {org.wso2.carbon.databridge.core.DataBridge} -  user admin connected {org.wso2.carbon.databridge.core.DataBridge}
+TID: [-1234] [] [2017-04-12 14:00:25,794]  INFO {org.wso2.carbon.databridge.core.DataBridge} -  user admin connected {org.wso2.carbon.databridge.core.DataBridge}
+TID: [-1234] [] [2017-04-12 14:34:05,969]  INFO {org.wso2.carbon.databridge.core.DataBridge} -  user admin connected {org.wso2.carbon.databridge.core.DataBridge}
+TID: [-1234] [] [2017-04-12 15:05:01,158]  INFO {org.wso2.carbon.databridge.core.DataBridge} -  user admin connected {org.wso2.carbon.databridge.core.DataBridge}

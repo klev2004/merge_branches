@@ -1,0 +1,4 @@
+[2017-03-18 10:28:47,511]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-03-18 10:28:47,503+0200] 
+[2017-03-18 10:56:58,832]  WARN -  Failed Administrator login attempt 'фвьшт[-1234]' at [2017-03-18 10:56:58,831+0200] 
+[2017-03-18 10:57:06,694]  WARN -  Failed Administrator login attempt 'фвьшт[-1234]' at [2017-03-18 10:57:06,693+0200] 
+[2017-03-18 10:57:13,576]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-03-18 10:57:13,576+0200] 

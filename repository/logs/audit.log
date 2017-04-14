@@ -1,0 +1,13 @@
+[2017-04-14 08:40:13,386]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-04-14 08:40:13,384+0300] 
+[2017-04-14 08:40:13,433]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-04-14 08:40:13,432+0300] 
+[2017-04-14 08:40:13,520]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-04-14 08:40:13,520+0300] 
+[2017-04-14 08:40:13,708]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-04-14 08:40:13,707+0300] 
+[2017-04-14 08:40:13,743]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-04-14 08:40:13,742+0300] 
+[2017-04-14 08:40:13,754]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-04-14 08:40:13,754+0300] 
+[2017-04-14 09:44:04,661]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-04-14 09:44:04,660+0300] 
+[2017-04-14 09:48:05,567]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-04-14 09:48:05,566+0300] 
+[2017-04-14 10:32:12,790]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-04-14 10:32:12,788+0300] 
+[2017-04-14 10:38:13,772] ERROR -  Illegal access attempt at [2017-04-14 10:38:13,0762] from IP address null while trying to authenticate access to service ServerAdmin 
+[2017-04-14 10:39:11,025]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-04-14 10:39:11,023+0300] 
+[2017-04-14 10:41:19,865]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-04-14 10:41:19,859+0300] 
+[2017-04-14 10:56:18,371]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-04-14 10:56:18,368+0300] 

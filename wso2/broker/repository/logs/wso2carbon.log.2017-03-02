@@ -1,0 +1,150 @@
+TID: [-1] [] [2017-03-02 17:37:35,542]  WARN {org.apache.axiom.util.stax.dialect.StAXDialectDetector} -  Unable to determine dialect of the StAX implementation at bundleresource://12.fwk1836797772/ 
+TID: [-1] [] [2017-03-02 17:37:35,437]  INFO {org.wso2.andes.wso2.internal.QpidBundleActivator} -  Setting BundleContext in PluginManager 
+TID: [-1234] [] [2017-03-02 17:37:37,868]  INFO {org.wso2.carbon.core.internal.CarbonCoreActivator} -  Starting WSO2 Carbon... 
+TID: [-1234] [] [2017-03-02 17:37:37,869]  INFO {org.wso2.carbon.core.internal.CarbonCoreActivator} -  Operating System : Linux 3.10.0-514.6.1.el7.x86_64, amd64 
+TID: [-1234] [] [2017-03-02 17:37:37,869]  INFO {org.wso2.carbon.core.internal.CarbonCoreActivator} -  Java Home        : /usr/java/jdk1.8.0_121/jre 
+TID: [-1234] [] [2017-03-02 17:37:37,869]  INFO {org.wso2.carbon.core.internal.CarbonCoreActivator} -  Java Version     : 1.8.0_121 
+TID: [-1234] [] [2017-03-02 17:37:37,870]  INFO {org.wso2.carbon.core.internal.CarbonCoreActivator} -  Java VM          : Java HotSpot(TM) 64-Bit Server VM 25.121-b13,Oracle Corporation 
+TID: [-1234] [] [2017-03-02 17:37:37,870]  INFO {org.wso2.carbon.core.internal.CarbonCoreActivator} -  Carbon Home      : /opt/eii-m-a/wso2/broker 
+TID: [-1234] [] [2017-03-02 17:37:37,870]  INFO {org.wso2.carbon.core.internal.CarbonCoreActivator} -  Java Temp Dir    : /opt/eii-m-a/wso2/broker/tmp 
+TID: [-1234] [] [2017-03-02 17:37:37,870]  INFO {org.wso2.carbon.core.internal.CarbonCoreActivator} -  User             : eii-a, uk-UA, Europe/Kiev 
+TID: [-1234] [] [2017-03-02 17:37:38,461]  WARN {org.wso2.carbon.core.bootup.validator.util.ValidationResultPrinter} -  Swap Memory size (MB): 15 of the system is below the recommended minimum size :2047 
+TID: [-1234] [] [2017-03-02 17:37:38,463]  WARN {org.wso2.carbon.core.bootup.validator.util.ValidationResultPrinter} -  Carbon is configured to use the default keystore (wso2carbon.jks). To maximize security when deploying to a production environment, configure a new keystore with a unique password in the production server profile. 
+TID: [-1234] [] [2017-03-02 17:37:52,182]  INFO {org.wso2.carbon.registry.core.jdbc.EmbeddedRegistryService} -  Configured Registry in 1627ms 
+TID: [-1234] [] [2017-03-02 17:37:54,821]  INFO {org.wso2.carbon.registry.core.internal.RegistryCoreServiceComponent} -  Registry Mode    : READ-WRITE 
+TID: [-1234] [] [2017-03-02 17:37:55,523]  INFO {org.wso2.carbon.metrics.impl.util.JmxReporterBuilder} -  Creating JMX reporter for Metrics with domain 'org.wso2.carbon.metrics' 
+TID: [-1234] [] [2017-03-02 17:37:55,558]  INFO {org.wso2.carbon.metrics.impl.util.JDBCReporterBuilder} -  Creating JDBC reporter for Metrics with source 'ESI-M', data source 'jdbc/WSO2MetricsDB' and 60 seconds polling period 
+TID: [-1234] [] [2017-03-02 17:37:55,607]  INFO {org.wso2.carbon.metrics.impl.reporter.AbstractReporter} -  Started JMX reporter for Metrics 
+TID: [-1234] [] [2017-03-02 17:37:55,711]  INFO {org.wso2.carbon.metrics.impl.reporter.AbstractReporter} -  Started JDBC reporter for Metrics 
+TID: [-1234] [] [2017-03-02 17:38:10,046]  INFO {org.wso2.carbon.registry.indexing.solr.SolrClient} -  Default Embedded Solr Server Initialized 
+TID: [-1234] [] [2017-03-02 17:38:11,392]  INFO {org.wso2.carbon.user.core.internal.UserStoreMgtDSComponent} -  Carbon UserStoreMgtDSComponent activated successfully. 
+TID: [-1] [] [2017-03-02 17:49:46,028]  WARN {org.apache.axiom.util.stax.dialect.StAXDialectDetector} -  Unable to determine dialect of the StAX implementation at bundleresource://12.fwk1836797772/ 
+TID: [-1] [] [2017-03-02 17:49:45,801]  INFO {org.wso2.andes.wso2.internal.QpidBundleActivator} -  Setting BundleContext in PluginManager 
+TID: [-1234] [] [2017-03-02 17:49:52,346]  INFO {org.wso2.carbon.core.internal.CarbonCoreActivator} -  Starting WSO2 Carbon... 
+TID: [-1234] [] [2017-03-02 17:49:52,348]  INFO {org.wso2.carbon.core.internal.CarbonCoreActivator} -  Operating System : Linux 3.10.0-514.6.1.el7.x86_64, amd64 
+TID: [-1234] [] [2017-03-02 17:49:52,348]  INFO {org.wso2.carbon.core.internal.CarbonCoreActivator} -  Java Home        : /usr/java/jdk1.8.0_121/jre 
+TID: [-1234] [] [2017-03-02 17:49:52,349]  INFO {org.wso2.carbon.core.internal.CarbonCoreActivator} -  Java Version     : 1.8.0_121 
+TID: [-1234] [] [2017-03-02 17:49:52,349]  INFO {org.wso2.carbon.core.internal.CarbonCoreActivator} -  Java VM          : Java HotSpot(TM) 64-Bit Server VM 25.121-b13,Oracle Corporation 
+TID: [-1234] [] [2017-03-02 17:49:52,373]  INFO {org.wso2.carbon.core.internal.CarbonCoreActivator} -  Carbon Home      : /opt/eii-m-a/wso2/broker 
+TID: [-1234] [] [2017-03-02 17:49:52,374]  INFO {org.wso2.carbon.core.internal.CarbonCoreActivator} -  Java Temp Dir    : /opt/eii-m-a/wso2/broker/tmp 
+TID: [-1234] [] [2017-03-02 17:49:52,375]  INFO {org.wso2.carbon.core.internal.CarbonCoreActivator} -  User             : eii-a, uk-UA, Europe/Kiev 
+TID: [-1234] [] [2017-03-02 17:49:53,012]  WARN {org.wso2.carbon.core.bootup.validator.util.ValidationResultPrinter} -  Swap Memory size (MB): 15 of the system is below the recommended minimum size :2047 
+TID: [-1234] [] [2017-03-02 17:49:53,013]  WARN {org.wso2.carbon.core.bootup.validator.util.ValidationResultPrinter} -  Carbon is configured to use the default keystore (wso2carbon.jks). To maximize security when deploying to a production environment, configure a new keystore with a unique password in the production server profile. 
+TID: [-1234] [] [2017-03-02 17:50:07,992]  INFO {org.wso2.carbon.registry.core.jdbc.EmbeddedRegistryService} -  Configured Registry in 446ms 
+TID: [-1234] [] [2017-03-02 17:50:08,671]  INFO {org.wso2.carbon.registry.core.internal.RegistryCoreServiceComponent} -  Registry Mode    : READ-WRITE 
+TID: [-1234] [] [2017-03-02 17:50:09,296]  INFO {org.wso2.carbon.metrics.impl.util.JmxReporterBuilder} -  Creating JMX reporter for Metrics with domain 'org.wso2.carbon.metrics' 
+TID: [-1234] [] [2017-03-02 17:50:09,343]  INFO {org.wso2.carbon.metrics.impl.util.JDBCReporterBuilder} -  Creating JDBC reporter for Metrics with source 'ESI-M', data source 'jdbc/WSO2MetricsDB' and 60 seconds polling period 
+TID: [-1234] [] [2017-03-02 17:50:09,349]  INFO {org.wso2.carbon.metrics.impl.reporter.AbstractReporter} -  Started JMX reporter for Metrics 
+TID: [-1234] [] [2017-03-02 17:50:09,429]  INFO {org.wso2.carbon.metrics.impl.reporter.AbstractReporter} -  Started JDBC reporter for Metrics 
+TID: [-1234] [] [2017-03-02 17:50:24,377]  INFO {org.wso2.carbon.registry.indexing.solr.SolrClient} -  Default Embedded Solr Server Initialized 
+TID: [-1234] [] [2017-03-02 17:50:26,166]  INFO {org.wso2.carbon.user.core.internal.UserStoreMgtDSComponent} -  Carbon UserStoreMgtDSComponent activated successfully. 
+TID: [-1] [] [2017-03-02 17:54:01,663]  WARN {org.apache.axiom.util.stax.dialect.StAXDialectDetector} -  Unable to determine dialect of the StAX implementation at bundleresource://12.fwk1836797772/ 
+TID: [-1] [] [2017-03-02 17:54:01,276]  INFO {org.wso2.andes.wso2.internal.QpidBundleActivator} -  Setting BundleContext in PluginManager 
+TID: [-1234] [] [2017-03-02 17:54:06,925]  INFO {org.wso2.carbon.core.internal.CarbonCoreActivator} -  Starting WSO2 Carbon... 
+TID: [-1234] [] [2017-03-02 17:54:06,926]  INFO {org.wso2.carbon.core.internal.CarbonCoreActivator} -  Operating System : Linux 3.10.0-514.6.1.el7.x86_64, amd64 
+TID: [-1234] [] [2017-03-02 17:54:06,927]  INFO {org.wso2.carbon.core.internal.CarbonCoreActivator} -  Java Home        : /usr/java/jdk1.8.0_121/jre 
+TID: [-1234] [] [2017-03-02 17:54:06,927]  INFO {org.wso2.carbon.core.internal.CarbonCoreActivator} -  Java Version     : 1.8.0_121 
+TID: [-1234] [] [2017-03-02 17:54:06,927]  INFO {org.wso2.carbon.core.internal.CarbonCoreActivator} -  Java VM          : Java HotSpot(TM) 64-Bit Server VM 25.121-b13,Oracle Corporation 
+TID: [-1234] [] [2017-03-02 17:54:06,928]  INFO {org.wso2.carbon.core.internal.CarbonCoreActivator} -  Carbon Home      : /opt/eii-m-a/wso2/broker 
+TID: [-1234] [] [2017-03-02 17:54:06,928]  INFO {org.wso2.carbon.core.internal.CarbonCoreActivator} -  Java Temp Dir    : /opt/eii-m-a/wso2/broker/tmp 
+TID: [-1234] [] [2017-03-02 17:54:06,928]  INFO {org.wso2.carbon.core.internal.CarbonCoreActivator} -  User             : eii-a, uk-UA, Europe/Kiev 
+TID: [-1234] [] [2017-03-02 17:54:07,398]  WARN {org.wso2.carbon.core.bootup.validator.util.ValidationResultPrinter} -  Swap Memory size (MB): 15 of the system is below the recommended minimum size :2047 
+TID: [-1234] [] [2017-03-02 17:54:07,399]  WARN {org.wso2.carbon.core.bootup.validator.util.ValidationResultPrinter} -  Carbon is configured to use the default keystore (wso2carbon.jks). To maximize security when deploying to a production environment, configure a new keystore with a unique password in the production server profile. 
+TID: [-1234] [] [2017-03-02 17:54:16,260]  INFO {org.wso2.carbon.registry.core.jdbc.EmbeddedRegistryService} -  Configured Registry in 783ms 
+TID: [-1234] [] [2017-03-02 17:54:16,951]  INFO {org.wso2.carbon.registry.core.internal.RegistryCoreServiceComponent} -  Registry Mode    : READ-WRITE 
+TID: [-1234] [] [2017-03-02 17:54:17,599]  INFO {org.wso2.carbon.metrics.impl.util.JmxReporterBuilder} -  Creating JMX reporter for Metrics with domain 'org.wso2.carbon.metrics' 
+TID: [-1234] [] [2017-03-02 17:54:17,623]  INFO {org.wso2.carbon.metrics.impl.util.JDBCReporterBuilder} -  Creating JDBC reporter for Metrics with source 'ESI-M', data source 'jdbc/WSO2MetricsDB' and 60 seconds polling period 
+TID: [-1234] [] [2017-03-02 17:54:17,626]  INFO {org.wso2.carbon.metrics.impl.reporter.AbstractReporter} -  Started JMX reporter for Metrics 
+TID: [-1234] [] [2017-03-02 17:54:17,757]  INFO {org.wso2.carbon.metrics.impl.reporter.AbstractReporter} -  Started JDBC reporter for Metrics 
+TID: [-1234] [] [2017-03-02 17:54:23,624]  INFO {org.wso2.carbon.registry.indexing.solr.SolrClient} -  Default Embedded Solr Server Initialized 
+TID: [-1234] [] [2017-03-02 17:54:24,559]  INFO {org.wso2.carbon.user.core.internal.UserStoreMgtDSComponent} -  Carbon UserStoreMgtDSComponent activated successfully. 
+TID: [-1] [] [2017-03-02 17:55:27,352]  INFO {org.apache.catalina.startup.TaglibUriRule} -  TLD skipped. URI: http://tiles.apache.org/tags-tiles is already defined 
+TID: [-1234] [] [2017-03-02 17:55:31,092]  INFO {org.apache.axis2.deployment.ClusterBuilder} -  Clustering has been disabled 
+TID: [-1234] [] [2017-03-02 17:55:32,945]  INFO {org.wso2.carbon.identity.user.store.configuration.deployer.UserStoreConfigurationDeployer} -  User Store Configuration Deployer initiated. 
+TID: [-1234] [] [2017-03-02 17:55:32,946]  INFO {org.wso2.carbon.identity.user.store.configuration.deployer.UserStoreConfigurationDeployer} -  User Store Configuration Deployer initiated. 
+TID: [-1234] [] [2017-03-02 17:55:40,093]  INFO {org.apache.axis2.deployment.ModuleDeployer} -  Deploying module: addressing-1.6.1-wso2v20 - file:/opt/eii-m-a/wso2/broker/repository/deployment/client/modules/addressing-1.6.1-wso2v20.mar 
+TID: [-1234] [] [2017-03-02 17:55:41,488]  INFO {org.apache.axis2.deployment.DeploymentEngine} -  Deploying Web service: org.wso2.carbon.andes.admin-3.1.16 -  
+TID: [-1234] [] [2017-03-02 17:55:41,786]  INFO {org.apache.axis2.deployment.DeploymentEngine} -  Deploying Web service: org.wso2.carbon.andes.event.admin-3.1.16 -  
+TID: [-1234] [] [2017-03-02 17:55:48,341]  INFO {org.apache.axis2.deployment.DeploymentEngine} -  Deploying Web service: org.wso2.carbon.tryit-4.5.8 -  
+TID: [-1234] [] [2017-03-02 17:55:49,363]  INFO {org.wso2.carbon.core.init.CarbonServerManager} -  Repository       : /opt/eii-m-a/wso2/broker/repository/deployment/server/ 
+TID: [-1234] [] [2017-03-02 17:55:49,478]  INFO {org.wso2.carbon.andes.core.internal.ds.QueueManagerServiceDS} -  Successfully created the queue manager service 
+TID: [-1234] [] [2017-03-02 17:55:49,507]  INFO {org.wso2.carbon.andes.core.internal.ds.SubscriptionManagerServiceDS} -  Successfully created the subscription manager service 
+TID: [-1234] [] [2017-03-02 17:55:49,944]  INFO {org.wso2.carbon.core.multitenancy.eager.TenantLoadingConfig} -  Using tenant lazy loading policy... 
+TID: [-1234] [] [2017-03-02 17:55:50,013]  INFO {org.wso2.carbon.core.internal.permission.update.PermissionUpdater} -  Permission cache updated for tenant -1234 
+TID: [-1234] [] [2017-03-02 17:55:52,342]  INFO {org.wso2.andes.configuration.AndesConfigurationManager} -  Main andes configuration located at : /opt/eii-m-a/wso2/broker/conf/broker.xml 
+TID: [-1234] [] [2017-03-02 17:55:52,726]  INFO {org.wso2.carbon.andes.internal.QpidServiceComponent} -  Activating Andes Message Broker Engine... 
+TID: [-1234] [] [2017-03-02 17:55:52,763]  INFO {org.wso2.andes.server.Broker} -  Starting Qpid using configuration : /opt/eii-m-a/wso2/broker/conf/advanced/qpid-config.xml 
+TID: [-1234] [] [2017-03-02 17:55:52,856]  INFO {org.wso2.andes.server.registry.ApplicationRegistry} -  Initialising Application Registry(org.wso2.andes.server.registry.ConfigurationFileApplicationRegistry@d26a300) 
+TID: [-1234] [] [2017-03-02 17:55:52,928]  INFO {org.wso2.andes.server.plugins.PluginManager} -  Opened service trackers 
+TID: [-1234] [] [2017-03-02 17:55:53,363]  INFO {org.wso2.andes.server.management.JMXManagedObjectRegistry} -  Initialising managed object registry using jplatform MBean server 
+TID: [-1234] [] [2017-03-02 17:55:53,370]  INFO {org.wso2.andes.server.security.auth.manager.PrincipalDatabaseAuthenticationManager} -  PrincipalDatabase concrete implementation : org.wso2.carbon.andes.authentication.andes.CarbonBasedPrincipalDatabase 
+TID: [-1234] [] [2017-03-02 17:55:53,387]  INFO {org.wso2.andes.server.security.auth.manager.PrincipalDatabaseAuthenticationManager} -  Initialised PLAIN SASL provider successfully 
+TID: [-1234] [] [2017-03-02 17:55:53,389]  INFO {org.wso2.andes.server.security.auth.manager.PrincipalDatabaseAuthenticationManager} -  Additional SASL providers successfully registered. 
+TID: [-1234] [] [2017-03-02 17:55:53,391]  INFO {org.wso2.andes.server.security.auth.manager.PrincipalDatabaseAuthenticationManager} -  Registering UserManagementMBean 
+TID: [-1234] [] [2017-03-02 17:55:53,809]  INFO {org.wso2.andes.store.rdbms.RDBMSConnection} -  JDBC connection established with jndi config WSO2MBStoreDB 
+TID: [-1234] [] [2017-03-02 17:55:53,837]  INFO {org.wso2.andes.store.rdbms.RDBMSAndesContextStoreImpl} -  Andes Context Store initialised 
+TID: [-1234] [] [2017-03-02 17:55:53,838]  INFO {org.wso2.andes.kernel.AndesKernelBoot} -  AndesContextStore initialised with org.wso2.andes.store.rdbms.RDBMSAndesContextStoreImpl 
+TID: [-1234] [] [2017-03-02 17:55:53,923]  INFO {org.wso2.andes.store.rdbms.RDBMSConnection} -  JDBC connection established with jndi config WSO2MBStoreDB 
+TID: [-1234] [] [2017-03-02 17:55:53,985]  INFO {org.wso2.andes.store.rdbms.RDBMSMessageStoreImpl} -  Message Store initialised 
+TID: [-1234] [] [2017-03-02 17:55:53,986]  INFO {org.wso2.andes.kernel.AndesKernelBoot} -  Andes MessageStore initialised with org.wso2.andes.store.rdbms.RDBMSMessageStoreImpl 
+TID: [-1234] [] [2017-03-02 17:55:54,021]  WARN {org.wso2.andes.configuration.AndesConfigurationManager} -  Error when trying to read property : transaction/maxWaitTimeout. Switching to default value : 30 
+TID: [-1234] [] [2017-03-02 17:55:54,611]  INFO {org.wso2.andes.kernel.Andes} -  Andes API initialised. 
+TID: [-1234] [] [2017-03-02 17:55:54,863]  INFO {org.wso2.andes.kernel.AndesChannel} -  Channel created (ID: Internel_channel) 
+TID: [-1234] [] [2017-03-02 17:55:54,882]  INFO {org.wso2.andes.server.cluster.ClusterManager} -  Clearing the Persisted State of Node with ID NODEESI-M/10.49.40.202 
+TID: [-1234] [] [2017-03-02 17:55:54,883]  INFO {org.wso2.andes.server.cluster.ClusterManager} -  Initializing Standalone Mode. Current Node ID:NODEESI-M/10.49.40.202 10.49.40.202 
+TID: [-1234] [] [2017-03-02 17:55:54,916]  INFO {org.wso2.andes.kernel.AndesSubscriptionManager} -  Deactivated all active durable subscriptions 
+TID: [-1234] [] [2017-03-02 17:55:54,917]  INFO {org.wso2.andes.kernel.AndesKernelBoot} -  Syncing exchanges, queues, bindings and subscriptions 
+TID: [-1234] [] [2017-03-02 17:55:54,939]  INFO {org.wso2.andes.kernel.Andes} -  Starting Safe Zone Calculator for slots. 
+TID: [-1234] [] [2017-03-02 17:55:55,177]  INFO {qpid.message.broker.listening} -  [Broker] BRK-1002 : Starting : Listening on TCP port 5675 
+TID: [-1234] [] [2017-03-02 17:55:55,240]  INFO {qpid.message.broker.listening} -  [Broker] BRK-1002 : Starting : Listening on TCP/SSL port 8675 
+TID: [-1] [] [2017-03-02 17:55:55,312]  INFO {org.wso2.andes.kernel.MessagingEngine} -  Starting SlotDelivery Workers. 
+TID: [-1] [] [2017-03-02 17:55:55,347]  INFO {org.wso2.andes.kernel.MessagingEngine} -  Start Disruptor writing messages to store. 
+TID: [-1234] [] [2017-03-02 17:55:55,574]  INFO {org.wso2.andes.server.virtualhost.VirtualHostConfigSynchronizer} -  Queue sync - Added Queue: DeadLetterChannel, Owner: admin, IsExclusive: false, Arguments: null 
+TID: [-1234] [] [2017-03-02 17:55:55,575]  INFO {org.wso2.andes.server.queue.DLCQueueUtils} -  DeadLetterChannel Queue Created as Dead Letter Channel 
+TID: [-1] [] [2017-03-02 17:55:55,967]  INFO {org.wso2.andes.mqtt.MQTTopicManager} -  MQTT andes connecting bridge initialized successfully 
+TID: [-1234] [] [2017-03-02 17:55:56,187]  INFO {org.dna.mqtt.moquette.server.netty.NettyAcceptor} -  Server binded host: 0.0.0.0, port: 1886 
+TID: [-1234] [] [2017-03-02 17:55:56,254]  INFO {org.dna.mqtt.moquette.server.netty.NettyAcceptor} -  Starting SSL on port 8886 
+TID: [-1234] [] [2017-03-02 17:55:56,266]  INFO {org.dna.mqtt.moquette.server.netty.NettyAcceptor} -  Server binded host: 0.0.0.0, port: 8886 
+TID: [-1234] [] [2017-03-02 17:55:56,274]  INFO {org.wso2.carbon.andes.internal.QpidServiceComponent} -  AMQP Host Address : 0.0.0.0 Port : 5675 
+TID: [-1234] [] [2017-03-02 17:55:56,276]  INFO {org.wso2.carbon.andes.internal.QpidServiceComponent} -  Successfully connected to AMQP server on port 5675 
+TID: [-1234] [] [2017-03-02 17:55:56,283]  INFO {org.wso2.carbon.andes.internal.QpidServiceComponent} -  MQTT Host Address : 0.0.0.0 Port : 1886 
+TID: [-1234] [] [2017-03-02 17:55:56,285]  INFO {org.wso2.carbon.andes.internal.QpidServiceComponent} -  Successfully connected to MQTT server on port 1886 
+TID: [-1234] [] [2017-03-02 17:55:56,285]  INFO {org.wso2.carbon.andes.internal.QpidServiceComponent} -  WSO2 Message Broker is started. 
+TID: [-1234] [] [2017-03-02 17:55:58,078]  INFO {org.wso2.carbon.core.transports.http.HttpTransportListener} -  HTTP port        : 9766 
+TID: [-1234] [] [2017-03-02 17:55:58,080]  INFO {org.wso2.carbon.core.transports.http.HttpsTransportListener} -  HTTPS port       : 9446 
+TID: [-1234] [] [2017-03-02 17:55:58,172]  INFO {org.wso2.carbon.core.deployment.DeploymentInterceptor} -  Deploying Axis2 service: echo {super-tenant} 
+TID: [-1234] [] [2017-03-02 17:55:58,184]  INFO {org.apache.axis2.deployment.DeploymentEngine} -  Deploying Web service: Echo.aar - file:/opt/eii-m-a/wso2/broker/repository/deployment/server/axis2services/Echo.aar 
+TID: [-1234] [] [2017-03-02 17:55:58,213]  INFO {org.wso2.carbon.core.deployment.DeploymentInterceptor} -  Deploying Axis2 service: Version {super-tenant} 
+TID: [-1234] [] [2017-03-02 17:55:58,216]  INFO {org.apache.axis2.deployment.DeploymentEngine} -  Deploying Web service: Version.aar - file:/opt/eii-m-a/wso2/broker/repository/deployment/server/axis2services/Version.aar 
+TID: [-1234] [] [2017-03-02 17:55:58,268]  INFO {org.apache.tomcat.util.net.NioSelectorPool} -  Using a shared selector for servlet write/read 
+TID: [-1234] [] [2017-03-02 17:55:58,567]  INFO {org.apache.tomcat.util.net.NioSelectorPool} -  Using a shared selector for servlet write/read 
+TID: [-1234] [] [2017-03-02 17:55:59,362]  INFO {org.wso2.carbon.core.init.JMXServerManager} -  JMX Service URL  : service:jmx:rmi://localhost:11114/jndi/rmi://localhost:10002/jmxrmi 
+TID: [-1234] [] [2017-03-02 17:55:59,364]  INFO {org.wso2.carbon.core.internal.StartupFinalizerServiceComponent} -  Server           :  WSO2 Message Broker-3.1.0 
+TID: [-1234] [] [2017-03-02 17:55:59,366]  INFO {org.wso2.carbon.core.internal.StartupFinalizerServiceComponent} -  WSO2 Carbon started in 131 sec 
+TID: [-1234] [] [2017-03-02 17:56:00,904]  INFO {org.wso2.carbon.ui.internal.CarbonUIServiceComponent} -  Mgt Console URL  : https://10.49.40.202:9446/carbon/ 
+TID: [-1234] [] [2017-03-02 17:58:15,159]  INFO {org.wso2.carbon.core.init.CarbonServerManager} -  Shutdown hook triggered.... 
+TID: [-1234] [] [2017-03-02 17:58:15,208]  INFO {org.wso2.carbon.core.init.CarbonServerManager} -  Gracefully shutting down WSO2 Message Broker... 
+TID: [-1234] [] [2017-03-02 17:58:15,216]  INFO {org.wso2.carbon.core.ServerManagement} -  Starting to switch to maintenance mode... 
+TID: [-1234] [] [2017-03-02 17:58:15,233]  INFO {org.wso2.carbon.core.ServerManagement} -  Stopped all transport listeners 
+TID: [-1234] [] [2017-03-02 17:58:15,234]  INFO {org.wso2.carbon.core.ServerManagement} -  Waiting for request service completion... 
+TID: [-1234] [] [2017-03-02 17:58:15,243]  INFO {org.wso2.carbon.core.ServerManagement} -  All requests have been served. 
+TID: [-1234] [] [2017-03-02 17:58:15,244]  INFO {org.wso2.carbon.core.ServerManagement} -  Waiting for deployment completion... 
+TID: [-1234] [] [2017-03-02 17:58:15,248]  INFO {org.wso2.carbon.core.ServerManagement} -  All deployment tasks have been completed. 
+TID: [-1234] [] [2017-03-02 17:58:15,249]  INFO {org.wso2.carbon.core.ServerManagement} -  Waiting for server task completion... 
+TID: [-1234] [] [2017-03-02 17:58:15,329]  INFO {org.wso2.carbon.core.ServerManagement} -  All server tasks have been completed. 
+TID: [-1234] [] [2017-03-02 17:58:15,330]  INFO {org.wso2.carbon.core.init.CarbonServerManager} -  Shutting down WSO2 Message Broker... 
+TID: [-1234] [] [2017-03-02 17:58:15,336]  INFO {org.wso2.andes.kernel.FlowControlManager} -  Prepare channels for shutdown. 
+TID: [-1234] [] [2017-03-02 17:58:15,339]  INFO {org.wso2.andes.kernel.MessagingEngine} -  Stopping SlotDelivery Workers. 
+TID: [-1234] [] [2017-03-02 17:58:15,379]  INFO {org.wso2.andes.kernel.slot.SlotMessageCounter} -  Stopping slot timeout task executor 
+TID: [-1234] [] [2017-03-02 17:58:15,556]  INFO {org.wso2.andes.server.registry.ApplicationRegistry} -  Shutting down ApplicationRegistry(org.wso2.andes.server.registry.ConfigurationFileApplicationRegistry@d26a300) 
+TID: [-1234] [] [2017-03-02 17:58:15,560]  INFO {org.wso2.andes.server.registry.ApplicationRegistry} -  Shutting down ApplicationRegistry:org.wso2.andes.server.registry.ConfigurationFileApplicationRegistry@d26a300 
+TID: [-1234] [] [2017-03-02 17:58:15,578]  INFO {org.wso2.andes.server.security.auth.manager.PrincipalDatabaseAuthenticationManager} -  Unregistering UserManagementMBean 
+TID: [-1234] [] [2017-03-02 17:58:15,584]  INFO {org.wso2.andes.server.cluster.ClusterManager} -  Clearing the Persisted State of Node with ID NODEESI-M/10.49.40.202 
+TID: [-1234] [] [2017-03-02 17:58:15,716]  INFO {org.wso2.andes.kernel.AndesKernelBoot} -  Stop syncing exchanges, queues, bindings and subscriptions... 
+TID: [-1234] [] [2017-03-02 17:58:15,724]  INFO {org.wso2.carbon.core.init.CarbonServerManager} -  Shutting down OSGi framework... 
+TID: [-1234] [] [2017-03-02 17:58:16,162]  INFO {org.wso2.carbon.core.init.CarbonServerManager} -  Stopping CarbonServerManager... 
+TID: [-1234] [] [2017-03-02 17:58:18,567]  INFO {org.wso2.carbon.tomcat.ext.internal.CarbonTomcatServiceComponent} -  Stopping the carbon web-app registered under : / 
+TID: [-1234] [] [2017-03-02 17:58:18,582]  INFO {org.wso2.carbon.metrics.impl.reporter.AbstractReporter} -  Stopped JMX reporter for Metrics 
+TID: [-1234] [] [2017-03-02 17:58:18,584]  INFO {org.wso2.carbon.metrics.impl.reporter.AbstractReporter} -  Stopped JDBC reporter for Metrics 
+TID: [-1234] [] [2017-03-02 17:58:19,329]  INFO {org.wso2.carbon.core.init.CarbonServerManager} -  Shutdown complete 
+TID: [-1234] [] [2017-03-02 17:58:19,330]  INFO {org.wso2.carbon.core.init.CarbonServerManager} -  Halting JVM 

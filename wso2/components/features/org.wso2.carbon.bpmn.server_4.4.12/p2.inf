@@ -1,0 +1,12 @@
+instructions.configure = \
+org.eclipse.equinox.p2.touchpoint.natives.copy(source:${installFolder}/../features/org.wso2.carbon.bpmn.server_4.4.12/conf/activiti.xml,target:${installFolder}/../../conf/activiti.xml,overwrite:true);\
+org.eclipse.equinox.p2.touchpoint.natives.copy(source:${installFolder}/../features/org.wso2.carbon.bpmn.server_4.4.12/conf/datasources/activiti-datasources.xml,target:${installFolder}/../../conf/datasources/activiti-datasources.xml,overwrite:true);\
+org.eclipse.equinox.p2.touchpoint.natives.copy(source:${installFolder}/../features/org.wso2.carbon.bpmn.server_4.4.12/conf/activiti.h2.db,target:${installFolder}/../../database/activiti.h2.db,overwrite:true);\
+org.eclipse.equinox.p2.touchpoint.natives.mkdir(path:${installFolder}/../../../dbscripts/bps); \
+org.eclipse.equinox.p2.touchpoint.natives.mkdir(path:${installFolder}/../../../dbscripts/bps/bpmn); \
+org.eclipse.equinox.p2.touchpoint.natives.copy(source:${installFolder}/../features/org.wso2.carbon.bpmn.server_4.4.12/dbscripts,target:${installFolder}/../../../dbscripts/bps/bpmn/,overwrite:true);\
+
+properties.0.name=org.wso2.carbon.p2.category.type
+properties.0.value=server
+properties.1.name=org.eclipse.equinox.p2.type.group
+properties.1.value=false

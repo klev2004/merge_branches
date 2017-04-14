@@ -1,0 +1,74 @@
+<data name="MerezhaDS" transports="http https local">
+   <config enableOData="false" id="MerezhaDS">
+      <property name="driverClassName">com.microsoft.sqlserver.jdbc.SQLServerDriver</property>
+      <property name="url">jdbc:sqlserver://10.49.15.79:1433;DatabaseName=DBMereza</property>
+      <property name="username">asrk</property>
+      <property name="password">h2o</property>
+      <property name="validationQuery">SELECT 1</property>
+      <property name="autoCommit">true</property>
+      <property name="testWhileIdle">true</property>
+   </config>
+   <query id="select_all_pl_city_query" useConfig="MerezhaDS">
+      <sql>SELECT cityid, regionid, cityname, districtid, citystatus, cityname_en FROM pl_city</sql>
+      <properties>
+         <property name="queryTimeout">30</property>
+      </properties>
+      <result element="pl_cityCollection" rowName="pl_city">
+         <element column="cityid" name="cityid" xsdType="decimal"/>
+         <element column="regionid" name="regionid" xsdType="decimal"/>
+         <element column="cityname" name="cityname" xsdType="string"/>
+         <element column="districtid" name="districtid" xsdType="float"/>
+         <element column="citystatus" name="citystatus" xsdType="integer"/>
+         <element column="cityname_en" name="cityname_en" xsdType="string"/>
+      </result>
+   </query>
+   <query id="select_all_pl_indexes_query" useConfig="MerezhaDS">
+      <sql>SELECT TOP(1) id, indexvalue, cityid FROM pl_indexes</sql>
+      <properties>
+         <property name="queryTimeout">30</property>
+      </properties>
+      <result element="pl_indexesCollection" rowName="pl_index">
+         <element column="id" name="id" xsdType="int"/>
+         <element column="indexvalue" name="indexvalue" xsdType="varchar"/>
+         <element column="cityid" name="cityid" xsdType="bigint"/>
+      </result>
+   </query>
+   <query id="select_all_pl_region_opz_indexes_query" useConfig="MerezhaDS">
+      <sql>SELECT id, indexopz, regionid, region FROM pl_region_opz_indexes</sql>
+      <properties>
+         <property name="queryTimeout">180</property>
+      </properties>
+      <result element="pl_roiCollection" rowName="pl_roi">
+         <element column="id" name="id" xsdType="int"/>
+         <element column="indexopz" name="indexopz" xsdType="varchar"/>
+         <element column="regionid" name="regionid" xsdType="bigint"/>
+         <element column="region" name="region" xsdType="nvarchar"/>
+      </result>
+   </query>
+   <query id="select_all_pn_address_vz_query" useConfig="MerezhaDS">
+      <sql>select top(1) id, [index], tech_index, rtrim(ltrim(address_ua)) address_ua, rtrim(ltrim(address_en)) address_en, phone_vz from pn_address_vz</sql>
+      <properties>
+         <property name="queryTimeout">180</property>
+      </properties>
+      <result element="pn_addressVzCollection" rowName="pn_addressVz">
+         <element column="id" name="id" xsdType="int"/>
+         <element column="index" name="index" xsdType="varchar"/>
+         <element column="tech_index" name="tech_index" xsdType="bigint"/>
+         <element column="address_ua" name="address_ua" xsdType="nvarchar"/>
+         <element column="address_en" name="address_en" xsdType="nvarchar"/>
+         <element column="phone_vz" name="phone_vz" xsdType="nvarchar"/>
+      </result>
+   </query>
+   <operation name="select_all_pl_city_operation">
+      <call-query href="select_all_pl_city_query"/>
+   </operation>
+   <operation name="select_all_pl_indexes_operation">
+      <call-query href="select_all_pl_indexes_query"/>
+   </operation>
+   <operation name="select_all_pl_region_opz_indexes_operation">
+      <call-query href="select_all_pl_region_opz_indexes_query"/>
+   </operation>
+   <operation name="select_all_pn_address_vz_operation">
+      <call-query href="select_all_pn_address_vz_query"/>
+   </operation>
+</data>

@@ -1,0 +1,21 @@
+14:50:12,286 [-] [PassThroughMessageProcessor-380]  INFO TRACE_LOGGER Sending message through endpoint : null resolving to address = https://bank.gov.ua/NBUStatService/v1/statdirectory/exchange
+14:50:12,301 [-] [PassThroughMessageProcessor-380]  INFO TRACE_LOGGER SOAPAction: urn:mediate
+14:50:12,302 [-] [PassThroughMessageProcessor-380]  INFO TRACE_LOGGER WSA-Action: urn:mediate
+15:13:25,756 [-] [PassThroughMessageProcessor-393]  INFO TRACE_LOGGER Sending message through endpoint : null resolving to address = http://www.mocky.io/v2/58e62bf31100003613bfc76e
+15:13:25,770 [-] [PassThroughMessageProcessor-393]  INFO TRACE_LOGGER SOAPAction: urn:mediate
+15:13:25,771 [-] [PassThroughMessageProcessor-393]  INFO TRACE_LOGGER WSA-Action: urn:mediate
+15:15:48,791 [-] [PassThroughMessageProcessor-303]  INFO TRACE_LOGGER Sending message through endpoint : null resolving to address = http://www.mocky.io/v2/58e62bf31100003613bfc76e
+15:15:48,792 [-] [PassThroughMessageProcessor-303]  INFO TRACE_LOGGER SOAPAction: urn:mediate
+15:15:48,792 [-] [PassThroughMessageProcessor-303]  INFO TRACE_LOGGER WSA-Action: urn:mediate
+15:16:01,448 [-] [PassThroughMessageProcessor-339]  INFO TRACE_LOGGER Sending message through endpoint : null resolving to address = http://www.mocky.io/v2/58e62bf31100003613bfc76e
+15:16:01,448 [-] [PassThroughMessageProcessor-339]  INFO TRACE_LOGGER SOAPAction: urn:mediate
+15:16:01,449 [-] [PassThroughMessageProcessor-339]  INFO TRACE_LOGGER WSA-Action: urn:mediate
+15:21:09,823 [-] [PassThroughMessageProcessor-319]  INFO TRACE_LOGGER Sending message through endpoint : null resolving to address = http://www.mocky.io/v2/58e62bf31100003613bfc76e
+15:21:09,823 [-] [PassThroughMessageProcessor-319]  INFO TRACE_LOGGER SOAPAction: urn:mediate
+15:21:09,824 [-] [PassThroughMessageProcessor-319]  INFO TRACE_LOGGER WSA-Action: urn:mediate
+15:34:20,939 [-] [PassThroughMessageProcessor-263]  INFO TRACE_LOGGER Sending message through endpoint : null resolving to address = https://10.49.40.202:8243/services/MerezhaDS/select_all_pn_address_vz_operation
+15:34:20,942 [-] [PassThroughMessageProcessor-263]  INFO TRACE_LOGGER SOAPAction: urn:mediate
+15:34:20,942 [-] [PassThroughMessageProcessor-263]  INFO TRACE_LOGGER WSA-Action: urn:mediate
+15:36:15,444 [-] [PassThroughMessageProcessor-52]  INFO TRACE_LOGGER Sending message through endpoint : null resolving to address = https://10.49.40.202:8243/services/MerezhaDS/select_all_pn_address_vz_operation
+15:36:15,444 [-] [PassThroughMessageProcessor-52]  INFO TRACE_LOGGER SOAPAction: urn:mediate
+15:36:15,445 [-] [PassThroughMessageProcessor-52]  INFO TRACE_LOGGER WSA-Action: urn:mediate

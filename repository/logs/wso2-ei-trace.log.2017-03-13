@@ -1,0 +1,12 @@
+10:05:25,665 [-] [PassThroughMessageProcessor-199]  INFO TRACE_LOGGER Sending message through endpoint : endpoint_urn_uuid_b2274cc9-62e1-409b-ba41-722789e44324 resolving to address = http://10.49.40.203:8280/services/DBMereza_pl_city.SOAP12Endpoint
+10:05:25,673 [-] [PassThroughMessageProcessor-199]  INFO TRACE_LOGGER SOAPAction: urn:mediate
+10:05:25,674 [-] [PassThroughMessageProcessor-199]  INFO TRACE_LOGGER WSA-Action: urn:mediate
+10:07:44,479 [-] [PassThroughMessageProcessor-307]  INFO TRACE_LOGGER Sending message through endpoint : endpoint_urn_uuid_b2274cc9-62e1-409b-ba41-722789e44324 resolving to address = http://10.49.40.203:8280/services/DBMereza_pl_city.SOAP12Endpoint
+10:07:44,491 [-] [PassThroughMessageProcessor-307]  INFO TRACE_LOGGER SOAPAction: urn:mediate
+10:07:44,491 [-] [PassThroughMessageProcessor-307]  INFO TRACE_LOGGER WSA-Action: urn:mediate
+10:09:23,754 [-] [PassThroughMessageProcessor-324]  INFO TRACE_LOGGER Sending message through endpoint : endpoint_urn_uuid_b2274cc9-62e1-409b-ba41-722789e44324 resolving to address = http://10.49.40.203:8280/services/DBMereza_pl_city.SOAP12Endpoint
+10:09:23,758 [-] [PassThroughMessageProcessor-324]  INFO TRACE_LOGGER SOAPAction: urn:mediate
+10:09:23,758 [-] [PassThroughMessageProcessor-324]  INFO TRACE_LOGGER WSA-Action: urn:mediate
+17:02:33,731 [-] [PassThroughMessageProcessor-392]  INFO TRACE_LOGGER Sending message through endpoint : endpoint_urn_uuid_b2274cc9-62e1-409b-ba41-722789e44324 resolving to address = http://10.49.40.203:8280/services/DBMereza_pl_city.SOAP12Endpoint
+17:02:33,740 [-] [PassThroughMessageProcessor-392]  INFO TRACE_LOGGER SOAPAction: urn:mediate
+17:02:33,741 [-] [PassThroughMessageProcessor-392]  INFO TRACE_LOGGER WSA-Action: urn:mediate

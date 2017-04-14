@@ -1,0 +1,21 @@
+[2017-04-06 08:33:45,160]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-04-06 08:33:45,159+0300] 
+[2017-04-06 09:26:19,245]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-04-06 09:26:19,244+0300] 
+[2017-04-06 09:31:37,774]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-04-06 09:31:37,774+0300] 
+[2017-04-06 10:10:09,495]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-04-06 10:10:09,494+0300] 
+[2017-04-06 10:27:46,476]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-04-06 10:27:46,475+0300] 
+[2017-04-06 10:45:50,106]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-04-06 10:45:50,106+0300] 
+[2017-04-06 11:15:52,294]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-04-06 11:15:52,294+0300] 
+[2017-04-06 11:23:48,337]  INFO -  User admin successfully authenticated to perform JMX operations. 
+[2017-04-06 11:23:48,347]  INFO -  User : admin successfully authorized to perform JMX operations. 
+[2017-04-06 11:26:07,751]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-04-06 11:26:07,750+0300] 
+[2017-04-06 12:03:22,721]  WARN -  Failed Administrator login attempt 'admin[-1234]' at [2017-04-06 12:03:22,707+0300] 
+[2017-04-06 12:03:28,598]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-04-06 12:03:28,589+0300] 
+[2017-04-06 14:28:11,048]  WARN -  Failed Administrator login attempt 'фвьшт[-1234]' at [2017-04-06 14:28:11,047+0300] 
+[2017-04-06 14:28:17,182]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-04-06 14:28:17,182+0300] 
+[2017-04-06 15:11:57,973]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-04-06 15:11:57,973+0300] 
+[2017-04-06 15:40:18,080]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-04-06 15:40:18,079+0300] 
+[2017-04-06 16:20:08,017]  INFO -  User admin successfully authenticated to perform JMX operations. 
+[2017-04-06 16:20:08,090]  INFO -  User : admin successfully authorized to perform JMX operations. 
+[2017-04-06 16:44:13,573]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-04-06 16:44:13,570+0300] 
+[2017-04-06 17:18:31,706]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-04-06 17:18:31,704+0300] 
+[2017-04-06 17:29:56,180]  INFO -  'admin@carbon.super [-1234]' logged in at [2017-04-06 17:29:56,175+0300] 

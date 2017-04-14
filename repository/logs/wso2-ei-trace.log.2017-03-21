@@ -1,0 +1,129 @@
+07:36:21,520 [-] [pool-46-thread-1]  INFO TRACE_LOGGER Stopped the proxy service : pl_cityProxy
+07:36:21,762 [-] [pool-46-thread-1]  INFO TRACE_LOGGER Building Axis service for Proxy service : pl_cityProxy
+07:36:21,763 [-] [pool-46-thread-1]  INFO TRACE_LOGGER Loading the WSDL :  <Inlined>
+07:36:21,763 [-] [pool-46-thread-1]  INFO TRACE_LOGGER Did not find a WSDL. Assuming a POX or Legacy service
+07:36:21,763 [-] [pool-46-thread-1]  INFO TRACE_LOGGER Exposing transports : [https, http]
+07:36:21,764 [-] [pool-46-thread-1]  INFO TRACE_LOGGER Adding service pl_cityProxy to the Axis2 configuration
+07:36:21,768 [-] [pool-46-thread-1]  INFO TRACE_LOGGER Successfully created the Axis2 service for Proxy service : pl_cityProxy
+08:15:20,202 [-] [PassThroughMessageProcessor-347]  INFO TRACE_LOGGER Proxy Service pl_cityProxy received a new message from : 10.49.40.202
+08:15:20,206 [-] [PassThroughMessageProcessor-347]  INFO TRACE_LOGGER Message To: /services/pl_cityProxy.pl_cityProxyHttpSoap12Endpoint
+08:15:20,206 [-] [PassThroughMessageProcessor-347]  INFO TRACE_LOGGER SOAPAction: urn:mediate
+08:15:20,206 [-] [PassThroughMessageProcessor-347]  INFO TRACE_LOGGER WSA-Action: urn:mediate
+08:15:20,207 [-] [PassThroughMessageProcessor-347]  INFO TRACE_LOGGER Setting specified anonymous fault-sequence for proxy
+08:15:20,207 [-] [PassThroughMessageProcessor-347]  INFO TRACE_LOGGER Using the anonymous in-sequence of the proxy service for mediation
+08:18:39,572 [-] [pool-46-thread-1]  INFO TRACE_LOGGER Stopped the proxy service : pl_cityProxy
+08:18:39,810 [-] [pool-46-thread-1]  INFO TRACE_LOGGER Building Axis service for Proxy service : pl_cityProxy
+08:18:39,810 [-] [pool-46-thread-1]  INFO TRACE_LOGGER Loading the WSDL :  <Inlined>
+08:18:39,811 [-] [pool-46-thread-1]  INFO TRACE_LOGGER Did not find a WSDL. Assuming a POX or Legacy service
+08:18:39,811 [-] [pool-46-thread-1]  INFO TRACE_LOGGER Exposing transports : [https, http]
+08:18:39,812 [-] [pool-46-thread-1]  INFO TRACE_LOGGER Adding service pl_cityProxy to the Axis2 configuration
+08:18:39,817 [-] [pool-46-thread-1]  INFO TRACE_LOGGER Successfully created the Axis2 service for Proxy service : pl_cityProxy
+09:21:36,331 [-] [PassThroughMessageProcessor-226]  INFO TRACE_LOGGER Proxy Service pl_cityProxy received a new message from : 10.49.40.202
+09:21:36,331 [-] [PassThroughMessageProcessor-226]  INFO TRACE_LOGGER Message To: /services/pl_cityProxy.pl_cityProxyHttpSoap12Endpoint
+09:21:36,331 [-] [PassThroughMessageProcessor-226]  INFO TRACE_LOGGER SOAPAction: urn:mediate
+09:21:36,331 [-] [PassThroughMessageProcessor-226]  INFO TRACE_LOGGER WSA-Action: urn:mediate
+09:21:36,332 [-] [PassThroughMessageProcessor-226]  INFO TRACE_LOGGER Setting specified anonymous fault-sequence for proxy
+09:21:36,332 [-] [PassThroughMessageProcessor-226]  INFO TRACE_LOGGER Using the anonymous in-sequence of the proxy service for mediation
+09:27:42,270 [-] [pool-46-thread-1]  INFO TRACE_LOGGER Stopped the proxy service : pl_cityProxy
+09:27:42,547 [-] [pool-46-thread-1]  INFO TRACE_LOGGER Building Axis service for Proxy service : pl_cityProxy
+09:27:42,548 [-] [pool-46-thread-1]  INFO TRACE_LOGGER Loading the WSDL :  <Inlined>
+09:27:42,548 [-] [pool-46-thread-1]  INFO TRACE_LOGGER Did not find a WSDL. Assuming a POX or Legacy service
+09:27:42,548 [-] [pool-46-thread-1]  INFO TRACE_LOGGER Exposing transports : [https, http]
+09:27:42,549 [-] [pool-46-thread-1]  INFO TRACE_LOGGER Adding service pl_cityProxy to the Axis2 configuration
+09:27:42,552 [-] [pool-46-thread-1]  INFO TRACE_LOGGER Successfully created the Axis2 service for Proxy service : pl_cityProxy
+09:32:07,448 [-] [PassThroughMessageProcessor-368]  INFO TRACE_LOGGER Proxy Service pl_cityProxy received a new message from : 10.49.40.202
+09:32:07,449 [-] [PassThroughMessageProcessor-368]  INFO TRACE_LOGGER Message To: /services/pl_cityProxy.pl_cityProxyHttpSoap12Endpoint
+09:32:07,450 [-] [PassThroughMessageProcessor-368]  INFO TRACE_LOGGER SOAPAction: urn:mediate
+09:32:07,450 [-] [PassThroughMessageProcessor-368]  INFO TRACE_LOGGER WSA-Action: urn:mediate
+09:32:07,450 [-] [PassThroughMessageProcessor-368]  INFO TRACE_LOGGER Setting specified anonymous fault-sequence for proxy
+09:32:07,453 [-] [PassThroughMessageProcessor-368]  INFO TRACE_LOGGER Using the anonymous in-sequence of the proxy service for mediation
+09:43:59,163 [-] [pool-46-thread-1]  INFO TRACE_LOGGER Stopped the proxy service : pl_cityProxy
+09:43:59,371 [-] [pool-46-thread-1]  INFO TRACE_LOGGER Building Axis service for Proxy service : pl_cityProxy
+09:43:59,371 [-] [pool-46-thread-1]  INFO TRACE_LOGGER Loading the WSDL :  <Inlined>
+09:43:59,371 [-] [pool-46-thread-1]  INFO TRACE_LOGGER Did not find a WSDL. Assuming a POX or Legacy service
+09:43:59,372 [-] [pool-46-thread-1]  INFO TRACE_LOGGER Exposing transports : [https, http]
+09:43:59,372 [-] [pool-46-thread-1]  INFO TRACE_LOGGER Adding service pl_cityProxy to the Axis2 configuration
+09:43:59,375 [-] [pool-46-thread-1]  INFO TRACE_LOGGER Successfully created the Axis2 service for Proxy service : pl_cityProxy
+10:25:46,188 [-] [pool-46-thread-1]  INFO TRACE_LOGGER Stopped the proxy service : pl_cityProxy
+10:25:46,457 [-] [pool-46-thread-1]  INFO TRACE_LOGGER Building Axis service for Proxy service : pl_cityProxy
+10:25:46,457 [-] [pool-46-thread-1]  INFO TRACE_LOGGER Loading the WSDL :  <Inlined>
+10:25:46,458 [-] [pool-46-thread-1]  INFO TRACE_LOGGER Did not find a WSDL. Assuming a POX or Legacy service
+10:25:46,458 [-] [pool-46-thread-1]  INFO TRACE_LOGGER Exposing transports : [https, http]
+10:25:46,459 [-] [pool-46-thread-1]  INFO TRACE_LOGGER Adding service pl_cityProxy to the Axis2 configuration
+10:25:46,463 [-] [pool-46-thread-1]  INFO TRACE_LOGGER Successfully created the Axis2 service for Proxy service : pl_cityProxy
+10:37:33,881 [-] [pool-46-thread-1]  INFO TRACE_LOGGER Stopped the proxy service : pl_cityProxy
+10:37:34,120 [-] [pool-46-thread-1]  INFO TRACE_LOGGER Building Axis service for Proxy service : pl_cityProxy
+10:37:34,120 [-] [pool-46-thread-1]  INFO TRACE_LOGGER Loading the WSDL :  <Inlined>
+10:37:34,120 [-] [pool-46-thread-1]  INFO TRACE_LOGGER Did not find a WSDL. Assuming a POX or Legacy service
+10:37:34,121 [-] [pool-46-thread-1]  INFO TRACE_LOGGER Exposing transports : [https, http]
+10:37:34,121 [-] [pool-46-thread-1]  INFO TRACE_LOGGER Adding service pl_cityProxy to the Axis2 configuration
+10:37:34,125 [-] [pool-46-thread-1]  INFO TRACE_LOGGER Successfully created the Axis2 service for Proxy service : pl_cityProxy
+10:43:06,382 [-] [pool-46-thread-1]  INFO TRACE_LOGGER Stopped the proxy service : pl_cityProxy
+10:43:06,631 [-] [pool-46-thread-1]  INFO TRACE_LOGGER Building Axis service for Proxy service : pl_cityProxy
+10:43:06,631 [-] [pool-46-thread-1]  INFO TRACE_LOGGER Loading the WSDL :  <Inlined>
+10:43:06,631 [-] [pool-46-thread-1]  INFO TRACE_LOGGER Did not find a WSDL. Assuming a POX or Legacy service
+10:43:06,632 [-] [pool-46-thread-1]  INFO TRACE_LOGGER Exposing transports : [https, http]
+10:43:06,632 [-] [pool-46-thread-1]  INFO TRACE_LOGGER Adding service pl_cityProxy to the Axis2 configuration
+10:43:06,636 [-] [pool-46-thread-1]  INFO TRACE_LOGGER Successfully created the Axis2 service for Proxy service : pl_cityProxy
+11:03:20,346 [-] [pool-46-thread-1]  INFO TRACE_LOGGER Stopped the proxy service : pl_cityProxy
+11:03:21,097 [-] [pool-46-thread-1]  INFO TRACE_LOGGER Building Axis service for Proxy service : pl_cityProxy
+11:03:21,097 [-] [pool-46-thread-1]  INFO TRACE_LOGGER Loading the WSDL :  <Inlined>
+11:03:21,098 [-] [pool-46-thread-1]  INFO TRACE_LOGGER Did not find a WSDL. Assuming a POX or Legacy service
+11:03:21,098 [-] [pool-46-thread-1]  INFO TRACE_LOGGER Exposing transports : [https, http]
+11:03:21,099 [-] [pool-46-thread-1]  INFO TRACE_LOGGER Adding service pl_cityProxy to the Axis2 configuration
+11:03:21,112 [-] [pool-46-thread-1]  INFO TRACE_LOGGER Successfully created the Axis2 service for Proxy service : pl_cityProxy
+11:13:38,433 [-] [pool-46-thread-1]  INFO TRACE_LOGGER Stopped the proxy service : pl_cityProxy
+11:13:38,690 [-] [pool-46-thread-1]  INFO TRACE_LOGGER Building Axis service for Proxy service : pl_cityProxy
+11:13:38,691 [-] [pool-46-thread-1]  INFO TRACE_LOGGER Loading the WSDL :  <Inlined>
+11:13:38,691 [-] [pool-46-thread-1]  INFO TRACE_LOGGER Did not find a WSDL. Assuming a POX or Legacy service
+11:13:38,691 [-] [pool-46-thread-1]  INFO TRACE_LOGGER Exposing transports : [https, http]
+11:13:38,692 [-] [pool-46-thread-1]  INFO TRACE_LOGGER Adding service pl_cityProxy to the Axis2 configuration
+11:13:38,695 [-] [pool-46-thread-1]  INFO TRACE_LOGGER Successfully created the Axis2 service for Proxy service : pl_cityProxy
+11:20:57,148 [-] [localhost-startStop-1]  INFO TRACE_LOGGER Building Axis service for Proxy service : pl_cityProxy
+11:20:57,156 [-] [localhost-startStop-1]  INFO TRACE_LOGGER Loading the WSDL :  <Inlined>
+11:20:57,156 [-] [localhost-startStop-1]  INFO TRACE_LOGGER Did not find a WSDL. Assuming a POX or Legacy service
+11:20:57,157 [-] [localhost-startStop-1]  INFO TRACE_LOGGER Exposing transports : [https, http]
+11:20:57,158 [-] [localhost-startStop-1]  INFO TRACE_LOGGER Adding service pl_cityProxy to the Axis2 configuration
+11:20:57,165 [-] [localhost-startStop-1]  INFO TRACE_LOGGER Successfully created the Axis2 service for Proxy service : pl_cityProxy
+11:26:01,711 [-] [localhost-startStop-1]  INFO TRACE_LOGGER Building Axis service for Proxy service : pl_cityProxy
+11:26:01,721 [-] [localhost-startStop-1]  INFO TRACE_LOGGER Loading the WSDL :  <Inlined>
+11:26:01,722 [-] [localhost-startStop-1]  INFO TRACE_LOGGER Did not find a WSDL. Assuming a POX or Legacy service
+11:26:01,723 [-] [localhost-startStop-1]  INFO TRACE_LOGGER Exposing transports : [https, http]
+11:26:01,724 [-] [localhost-startStop-1]  INFO TRACE_LOGGER Adding service pl_cityProxy to the Axis2 configuration
+11:26:01,758 [-] [localhost-startStop-1]  INFO TRACE_LOGGER Successfully created the Axis2 service for Proxy service : pl_cityProxy
+11:28:21,154 [-] [pool-48-thread-1]  INFO TRACE_LOGGER Stopped the proxy service : pl_cityProxy
+11:38:48,288 [-] [pool-35-thread-1]  INFO TRACE_LOGGER Building Axis service for Proxy service : pl_cityProxy
+11:38:48,298 [-] [pool-35-thread-1]  INFO TRACE_LOGGER Loading the WSDL :  <Inlined>
+11:38:48,298 [-] [pool-35-thread-1]  INFO TRACE_LOGGER Did not find a WSDL. Assuming a POX or Legacy service
+11:38:48,299 [-] [pool-35-thread-1]  INFO TRACE_LOGGER Exposing transports : [https, http]
+11:38:48,303 [-] [pool-35-thread-1]  INFO TRACE_LOGGER Adding service pl_cityProxy to the Axis2 configuration
+11:38:48,310 [-] [pool-35-thread-1]  INFO TRACE_LOGGER Successfully created the Axis2 service for Proxy service : pl_cityProxy
+11:43:11,835 [-] [pool-35-thread-1]  INFO TRACE_LOGGER Stopped the proxy service : pl_cityProxy
+11:43:12,222 [-] [pool-35-thread-1]  INFO TRACE_LOGGER Building Axis service for Proxy service : pl_cityProxy
+11:43:12,223 [-] [pool-35-thread-1]  INFO TRACE_LOGGER Loading the WSDL :  <Inlined>
+11:43:12,223 [-] [pool-35-thread-1]  INFO TRACE_LOGGER Did not find a WSDL. Assuming a POX or Legacy service
+11:43:12,223 [-] [pool-35-thread-1]  INFO TRACE_LOGGER Exposing transports : [https, http]
+11:43:12,224 [-] [pool-35-thread-1]  INFO TRACE_LOGGER Adding service pl_cityProxy to the Axis2 configuration
+11:43:12,229 [-] [pool-35-thread-1]  INFO TRACE_LOGGER Successfully created the Axis2 service for Proxy service : pl_cityProxy
+11:46:45,805 [-] [pool-35-thread-1]  INFO TRACE_LOGGER Stopped the proxy service : pl_cityProxy
+11:46:46,764 [-] [pool-35-thread-1]  INFO TRACE_LOGGER Building Axis service for Proxy service : pl_cityProxy
+11:46:46,765 [-] [pool-35-thread-1]  INFO TRACE_LOGGER Loading the WSDL :  <Inlined>
+11:46:46,769 [-] [pool-35-thread-1]  INFO TRACE_LOGGER Did not find a WSDL. Assuming a POX or Legacy service
+11:46:46,770 [-] [pool-35-thread-1]  INFO TRACE_LOGGER Exposing transports : [https, http]
+11:46:46,771 [-] [pool-35-thread-1]  INFO TRACE_LOGGER Adding service pl_cityProxy to the Axis2 configuration
+11:46:46,778 [-] [pool-35-thread-1]  INFO TRACE_LOGGER Successfully created the Axis2 service for Proxy service : pl_cityProxy
+11:51:49,320 [-] [pool-35-thread-1]  INFO TRACE_LOGGER Stopped the proxy service : pl_cityProxy
+11:51:49,691 [-] [pool-35-thread-1]  INFO TRACE_LOGGER Building Axis service for Proxy service : pl_cityProxy
+11:51:49,692 [-] [pool-35-thread-1]  INFO TRACE_LOGGER Loading the WSDL :  <Inlined>
+11:51:49,692 [-] [pool-35-thread-1]  INFO TRACE_LOGGER Did not find a WSDL. Assuming a POX or Legacy service
+11:51:49,693 [-] [pool-35-thread-1]  INFO TRACE_LOGGER Exposing transports : [https, http]
+11:51:49,693 [-] [pool-35-thread-1]  INFO TRACE_LOGGER Adding service pl_cityProxy to the Axis2 configuration
+11:51:49,698 [-] [pool-35-thread-1]  INFO TRACE_LOGGER Successfully created the Axis2 service for Proxy service : pl_cityProxy
+11:54:22,129 [-] [pool-35-thread-1]  INFO TRACE_LOGGER Stopped the proxy service : pl_cityProxy
+11:54:22,490 [-] [pool-35-thread-1]  INFO TRACE_LOGGER Building Axis service for Proxy service : pl_cityProxy
+11:54:22,490 [-] [pool-35-thread-1]  INFO TRACE_LOGGER Loading the WSDL :  <Inlined>
+11:54:22,491 [-] [pool-35-thread-1]  INFO TRACE_LOGGER Did not find a WSDL. Assuming a POX or Legacy service
+11:54:22,491 [-] [pool-35-thread-1]  INFO TRACE_LOGGER Exposing transports : [https, http]
+11:54:22,492 [-] [pool-35-thread-1]  INFO TRACE_LOGGER Adding service pl_cityProxy to the Axis2 configuration
+11:54:22,495 [-] [pool-35-thread-1]  INFO TRACE_LOGGER Successfully created the Axis2 service for Proxy service : pl_cityProxy
+12:02:02,418 [-] [pool-35-thread-1]  INFO TRACE_LOGGER Stopped the proxy service : pl_cityProxy

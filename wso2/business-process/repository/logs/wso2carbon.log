@@ -1,0 +1,132 @@
+TID: [-1] [] [2017-03-03 09:04:54,859]  WARN {org.apache.axiom.util.stax.dialect.StAXDialectDetector} -  Unable to determine dialect of the StAX implementation at bundleresource://13.fwk1836797772/ 
+TID: [-1] [] [2017-03-03 09:04:54,831]  WARN {org.apache.axiom.util.stax.dialect.StAXDialectDetector} -  Unable to determine dialect of the StAX implementation at bundleresource://13.fwk1836797772/ 
+TID: [-1234] [] [2017-03-03 09:04:58,279]  INFO {org.wso2.carbon.core.internal.CarbonCoreActivator} -  Starting WSO2 Carbon... 
+TID: [-1234] [] [2017-03-03 09:04:58,284]  INFO {org.wso2.carbon.core.internal.CarbonCoreActivator} -  Operating System : Linux 3.10.0-514.6.1.el7.x86_64, amd64 
+TID: [-1234] [] [2017-03-03 09:04:58,285]  INFO {org.wso2.carbon.core.internal.CarbonCoreActivator} -  Java Home        : /usr/java/jdk1.8.0_121/jre 
+TID: [-1234] [] [2017-03-03 09:04:58,285]  INFO {org.wso2.carbon.core.internal.CarbonCoreActivator} -  Java Version     : 1.8.0_121 
+TID: [-1234] [] [2017-03-03 09:04:58,286]  INFO {org.wso2.carbon.core.internal.CarbonCoreActivator} -  Java VM          : Java HotSpot(TM) 64-Bit Server VM 25.121-b13,Oracle Corporation 
+TID: [-1234] [] [2017-03-03 09:04:58,287]  INFO {org.wso2.carbon.core.internal.CarbonCoreActivator} -  Carbon Home      : /opt/eii-m-a/wso2/business-process 
+TID: [-1234] [] [2017-03-03 09:04:58,287]  INFO {org.wso2.carbon.core.internal.CarbonCoreActivator} -  Java Temp Dir    : /opt/eii-m-a/wso2/business-process/tmp 
+TID: [-1234] [] [2017-03-03 09:04:58,288]  INFO {org.wso2.carbon.core.internal.CarbonCoreActivator} -  User             : eii-a, uk-UA, Europe/Kiev 
+TID: [-1234] [] [2017-03-03 09:04:59,240]  WARN {org.wso2.carbon.core.bootup.validator.util.ValidationResultPrinter} -  Swap Memory size (MB): 15 of the system is below the recommended minimum size :2047 
+TID: [-1234] [] [2017-03-03 09:04:59,241]  WARN {org.wso2.carbon.core.bootup.validator.util.ValidationResultPrinter} -  Carbon is configured to use the default keystore (wso2carbon.jks). To maximize security when deploying to a production environment, configure a new keystore with a unique password in the production server profile. 
+TID: [-1234] [] [2017-03-03 09:05:09,750]  INFO {org.wso2.carbon.registry.core.jdbc.EmbeddedRegistryService} -  Configured Registry in 858ms 
+TID: [-1234] [] [2017-03-03 09:05:10,734]  INFO {org.wso2.carbon.registry.core.internal.RegistryCoreServiceComponent} -  Registry Mode    : READ-WRITE 
+TID: [-1] [] [2017-03-03 09:05:10,892]  INFO {org.wso2.carbon.attachment.mgt.server.internal.AttachmentServiceComponent} -  Initialising Attachment Server 
+TID: [-1] [] [2017-03-03 09:05:13,307]  INFO {org.wso2.carbon.attachment.mgt.core.dao.impl.jpa.AbstractJPAVendorAdapter} -  [Attachment-Mgt OpenJPA] DB Dictionary: h2 
+TID: [-1] [] [2017-03-03 09:05:13,311]  INFO {org.wso2.carbon.attachment.mgt.core.dao.impl.jpa.AbstractJPAVendorAdapter} -  [Attachment-Mgt OpenJPA] Generate DDL Enabled. 
+TID: [-1] [] [2017-03-03 09:05:14,673]  INFO {org.wso2.carbon.attachment.mgt.server.internal.AttachmentServiceComponent} -  Registering AttachmentServerService 
+TID: [-1] [] [2017-03-03 09:05:15,105]  INFO {org.wso2.carbon.bpel.core.internal.BPELServiceComponent} -  Initializing BPEL Engine........ 
+TID: [-1] [] [2017-03-03 09:05:15,213]  INFO {org.apache.ode.il.EmbeddedGeronimoFactory} -  Using embedded Geronimo transaction manager 
+TID: [-1] [] [2017-03-03 09:05:15,249]  INFO {org.apache.ode.il.dbutil.Database} -  ODE using external DataSource "bpsds". 
+TID: [-1] [] [2017-03-03 09:05:15,250]  INFO {org.wso2.carbon.bpel.core.ode.integration.BPELServerImpl} -  Using DAO Connection Factory class: org.apache.ode.dao.jpa.BPELDAOConnectionFactoryImpl 
+TID: [-1] [] [2017-03-03 09:05:15,251]  INFO {org.apache.ode.il.dbutil.Database} -  Using DAO Connection Factory class org.apache.ode.dao.jpa.BPELDAOConnectionFactoryImpl. 
+TID: [-1] [] [2017-03-03 09:05:15,728]  INFO {org.apache.ode.store.jpa.DbConfStoreConnectionFactory} -  ProcessStore initializing transaction manager using org.apache.ode.il.EmbeddedGeronimoFactory 
+TID: [-1] [] [2017-03-03 09:05:15,729]  INFO {org.apache.ode.il.EmbeddedGeronimoFactory} -  Using embedded Geronimo transaction manager 
+TID: [-1] [] [2017-03-03 09:05:15,860]  INFO {org.apache.ode.scheduler.simple.JdbcDelegate} -  Using database H2 major version 1 
+TID: [-1] [] [2017-03-03 09:05:15,861]  INFO {org.apache.ode.scheduler.simple.JdbcDelegate} -  Using database dialect: H2 
+TID: [-1] [] [2017-03-03 09:05:16,013]  INFO {org.wso2.carbon.bpel.core.ode.integration.BPELServerImpl} -  Registering E4X Extension... 
+TID: [-1] [] [2017-03-03 09:05:16,016]  INFO {org.wso2.carbon.bpel.core.ode.integration.BPELServerImpl} -  Registering B4P Extension... 
+TID: [-1] [] [2017-03-03 09:05:16,284]  INFO {org.wso2.carbon.bpel.core.ode.integration.BPELServerImpl} -  Registering B4P Filter... 
+TID: [-1] [] [2017-03-03 09:05:16,292]  INFO {org.apache.ode.bpel.engine.BpelServerImpl} -  BPEL Server Started. 
+TID: [-1] [] [2017-03-03 09:05:16,303]  INFO {org.wso2.carbon.bpel.core.ode.integration.BPELServerImpl} -  Registering MBeans 
+TID: [-1] [] [2017-03-03 09:05:16,428]  INFO {org.wso2.carbon.humantask.core.internal.HumanTaskServiceComponent} -  Initialising HumanTask Server 
+TID: [-1] [] [2017-03-03 09:05:16,621]  INFO {org.apache.ode.il.EmbeddedGeronimoFactory} -  Using embedded Geronimo transaction manager 
+TID: [-1] [] [2017-03-03 09:05:16,631]  INFO {org.wso2.carbon.humantask.core.dao.jpa.AbstractJPAVendorAdapter} -  [HT OpenJPA] DB Dictionary: h2 
+TID: [-1] [] [2017-03-03 09:05:16,633]  INFO {org.wso2.carbon.humantask.core.dao.jpa.AbstractJPAVendorAdapter} -  [HT OpenJPA] Generate DDL Enabled. 
+TID: [-1] [] [2017-03-03 09:05:16,724]  INFO {org.wso2.carbon.humantask.core.internal.HumanTaskServiceComponent} -  Registering Axis2ConfigurationContextObserver 
+TID: [-1] [] [2017-03-03 09:05:16,733]  INFO {org.wso2.carbon.humantask.core.internal.HumanTaskServiceComponent} -  Registering HT related MBeans 
+TID: [-1] [] [2017-03-03 09:05:16,738]  INFO {org.wso2.carbon.humantask.core.internal.HumanTaskServiceComponent} -  MXBean for Human tasks registered successfully 
+TID: [-1] [] [2017-03-03 09:05:16,739]  INFO {org.wso2.carbon.humantask.core.internal.HumanTaskServiceComponent} -  Registering HumanTaskUIResourceProvider 
+TID: [-1234] [] [2017-03-03 09:05:16,750]  INFO {org.wso2.carbon.bpmn.core.internal.BPMNServiceComponent} -  Initializing the BPMN core component... 
+TID: [-1234] [] [2017-03-03 09:05:17,386]  INFO {org.springframework.beans.factory.xml.XmlBeanDefinitionReader} -  Loading XML bean definitions from resource loaded through InputStream 
+TID: [-1234] [] [2017-03-03 09:05:21,900]  INFO {org.activiti.engine.impl.ProcessEngineImpl} -  ProcessEngine default created 
+TID: [-1234] [] [2017-03-03 09:05:21,902]  INFO {org.activiti.engine.impl.jobexecutor.JobExecutor} -  Starting up the JobExecutor[org.activiti.engine.impl.jobexecutor.DefaultJobExecutor]. 
+TID: [-1234] [] [2017-03-03 09:05:22,602]  INFO {org.wso2.carbon.bpmn.analytics.publisher.internal.BPMNAnalyticsServiceComponent} -  Initializing the BPMN Analytics Service component... 
+TID: [-1] [] [2017-03-03 09:05:22,610]  INFO {org.activiti.engine.impl.jobexecutor.AcquireJobsRunnableImpl} -  JobExecutor[org.activiti.engine.impl.jobexecutor.DefaultJobExecutor] starting to acquire jobs 
+TID: [-1234] [] [2017-03-03 09:05:28,581]  INFO {org.wso2.carbon.registry.indexing.solr.SolrClient} -  Default Embedded Solr Server Initialized 
+TID: [-1234] [] [2017-03-03 09:05:29,283]  INFO {org.wso2.carbon.user.core.internal.UserStoreMgtDSComponent} -  Carbon UserStoreMgtDSComponent activated successfully. 
+TID: [-1] [] [2017-03-03 09:06:26,223]  INFO {org.apache.catalina.startup.TaglibUriRule} -  TLD skipped. URI: http://tiles.apache.org/tags-tiles is already defined 
+TID: [-1234] [] [2017-03-03 09:06:29,983]  INFO {org.apache.axis2.deployment.ClusterBuilder} -  Clustering has been disabled 
+TID: [-1234] [] [2017-03-03 09:06:30,814]  INFO {org.wso2.carbon.bpmn.core.deployment.BPMNDeployer} -  Initializing BPMN Deployer for tenant -1234. 
+TID: [-1234] [] [2017-03-03 09:06:30,819]  INFO {org.wso2.carbon.bpmn.core.deployment.BPMNDeployer} -  Resolving BPMN deployments to avoid inconsistencies 
+TID: [-1234] [] [2017-03-03 09:06:31,087]  INFO {org.wso2.carbon.identity.user.store.configuration.deployer.UserStoreConfigurationDeployer} -  User Store Configuration Deployer initiated. 
+TID: [-1234] [] [2017-03-03 09:06:31,088]  INFO {org.wso2.carbon.identity.user.store.configuration.deployer.UserStoreConfigurationDeployer} -  User Store Configuration Deployer initiated. 
+TID: [-1234] [] [2017-03-03 09:06:31,118]  INFO {org.wso2.carbon.bpel.deployer.BPELDeployer} -  Initializing BPEL Deployer for tenant -1234. 
+TID: [-1234] [] [2017-03-03 09:06:31,170]  INFO {org.wso2.carbon.humantask.deployer.HumanTaskDeployer} -  Initializing HumanTask Deployer for tenant -1234. 
+TID: [-1234] [] [2017-03-03 09:06:36,740]  INFO {org.apache.axis2.deployment.ModuleDeployer} -  Deploying module: addressing-1.6.1-wso2v20 - file:/opt/eii-m-a/wso2/business-process/repository/deployment/client/modules/addressing-1.6.1-wso2v20.mar 
+TID: [-1234] [] [2017-03-03 09:06:48,198]  INFO {org.wso2.carbon.core.deployment.DeploymentInterceptor} -  Deploying Axis2 service: wso2carbon-sts {super-tenant} 
+TID: [-1234] [] [2017-03-03 09:06:48,241]  INFO {org.apache.axis2.deployment.DeploymentEngine} -  Deploying Web service: org.wso2.carbon.sts-5.2.1 -  
+TID: [-1234] [] [2017-03-03 09:06:48,557]  INFO {org.apache.axis2.deployment.DeploymentEngine} -  Deploying Web service: org.wso2.carbon.tryit-4.5.8 -  
+TID: [-1234] [] [2017-03-03 09:06:49,668]  INFO {org.wso2.carbon.core.init.CarbonServerManager} -  Repository       : /opt/eii-m-a/wso2/business-process/repository/deployment/server/ 
+TID: [-1234] [] [2017-03-03 09:06:49,977]  INFO {org.wso2.carbon.core.multitenancy.eager.TenantLoadingConfig} -  Using tenant lazy loading policy... 
+TID: [-1234] [] [2017-03-03 09:06:50,027]  INFO {org.wso2.carbon.core.internal.permission.update.PermissionUpdater} -  Permission cache updated for tenant -1234 
+TID: [-1234] [] [2017-03-03 09:06:54,278]  INFO {org.wso2.carbon.core.transports.http.HttpTransportListener} -  HTTP port        : 9765 
+TID: [-1234] [] [2017-03-03 09:06:54,279]  INFO {org.wso2.carbon.core.transports.http.HttpsTransportListener} -  HTTPS port       : 9445 
+TID: [-1234] [] [2017-03-03 09:06:54,293]  INFO {org.wso2.carbon.bpel.core.ode.integration.BPELSchedulerInitializer} -  Starting BPS Scheduler 
+TID: [-1234] [] [2017-03-03 09:06:54,354]  INFO {openjpa.Runtime} -  Starting OpenJPA 2.2.0-wso2v1 
+TID: [-1234] [] [2017-03-03 09:06:54,881]  INFO {openjpa.jdbc.JDBC} -  Using dictionary class "org.apache.openjpa.jdbc.sql.H2Dictionary" (H2 1.3.175 (2014-01-18) ,H2 JDBC Driver 1.3.175 (2014-01-18)). 
+TID: [-1234] [] [2017-03-03 09:06:55,400]  INFO {org.wso2.carbon.humantask.core.HumanTaskSchedulerInitializer} -  Starting HumanTasks Scheduler 
+TID: [-1234] [] [2017-03-03 09:06:55,404]  INFO {openjpa.Runtime} -  Starting OpenJPA 2.2.0-wso2v1 
+TID: [-1234] [] [2017-03-03 09:06:55,405]  INFO {openjpa.jdbc.JDBC} -  Using dictionary class "org.apache.openjpa.jdbc.sql.H2Dictionary". 
+TID: [-1234] [] [2017-03-03 09:06:59,519]  INFO {org.wso2.carbon.core.deployment.DeploymentInterceptor} -  Deploying Axis2 service: echo {super-tenant} 
+TID: [-1234] [] [2017-03-03 09:06:59,522]  INFO {org.apache.axis2.deployment.DeploymentEngine} -  Deploying Web service: Echo.aar - file:/opt/eii-m-a/wso2/business-process/repository/deployment/server/axis2services/Echo.aar 
+TID: [-1234] [] [2017-03-03 09:06:59,625]  INFO {org.wso2.carbon.core.deployment.DeploymentInterceptor} -  Deploying Axis2 service: Version {super-tenant} 
+TID: [-1234] [] [2017-03-03 09:06:59,627]  INFO {org.apache.axis2.deployment.DeploymentEngine} -  Deploying Web service: Version.aar - file:/opt/eii-m-a/wso2/business-process/repository/deployment/server/axis2services/Version.aar 
+TID: [-1234] [] [2017-03-03 09:07:06,541]  INFO {org.springframework.web.context.support.XmlWebApplicationContext} -  Refreshing Root WebApplicationContext: startup date [Fri Mar 03 09:07:06 EET 2017]; root of context hierarchy 
+TID: [-1234] [] [2017-03-03 09:07:06,694]  INFO {org.springframework.beans.factory.xml.XmlBeanDefinitionReader} -  Loading XML bean definitions from class path resource [META-INF/cxf/cxf.xml] 
+TID: [-1234] [] [2017-03-03 09:07:06,838]  INFO {org.springframework.beans.factory.xml.XmlBeanDefinitionReader} -  Loading XML bean definitions from URL [jndi:/localhost/bpmn/WEB-INF/cxf-servlet.xml] 
+TID: [-1234] [] [2017-03-03 09:07:07,529]  INFO {org.springframework.beans.factory.support.DefaultListableBeanFactory} -  Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@4892486b: defining beans [cxf,org.apache.cxf.bus.spring.BusWiringBeanFactoryPostProcessor,org.apache.cxf.bus.spring.Jsr250BeanPostProcessor,org.apache.cxf.bus.spring.BusExtensionPostProcessor,deploymentService,runtimeService,queryRuntimeService,historyService,formService,processDefinitionService,identityService,managementService,statsService,analyticsService,authenticationBean,exceptionHandlerBean,errorHandlerBean,jacksonBean]; root of factory hierarchy 
+TID: [-1234] [] [2017-03-03 09:07:09,559]  INFO {org.apache.cxf.endpoint.ServerImpl} -  Setting the server's publish address to be /repository 
+TID: [-1234] [] [2017-03-03 09:07:10,654]  INFO {org.apache.cxf.endpoint.ServerImpl} -  Setting the server's publish address to be /runtime 
+TID: [-1234] [] [2017-03-03 09:07:10,717]  INFO {org.apache.cxf.endpoint.ServerImpl} -  Setting the server's publish address to be /query 
+TID: [-1234] [] [2017-03-03 09:07:10,769]  INFO {org.apache.cxf.endpoint.ServerImpl} -  Setting the server's publish address to be /history 
+TID: [-1234] [] [2017-03-03 09:07:10,779]  INFO {org.apache.cxf.endpoint.ServerImpl} -  Setting the server's publish address to be /form 
+TID: [-1234] [] [2017-03-03 09:07:10,785]  INFO {org.apache.cxf.endpoint.ServerImpl} -  Setting the server's publish address to be /process-definition 
+TID: [-1234] [] [2017-03-03 09:07:10,805]  INFO {org.apache.cxf.endpoint.ServerImpl} -  Setting the server's publish address to be /identity 
+TID: [-1234] [] [2017-03-03 09:07:10,841]  INFO {org.apache.cxf.endpoint.ServerImpl} -  Setting the server's publish address to be /management 
+TID: [-1234] [] [2017-03-03 09:07:10,866]  INFO {org.apache.cxf.endpoint.ServerImpl} -  Setting the server's publish address to be /stats 
+TID: [-1234] [] [2017-03-03 09:07:10,879]  INFO {org.apache.cxf.endpoint.ServerImpl} -  Setting the server's publish address to be /analytics 
+TID: [-1234] [] [2017-03-03 09:07:10,971]  INFO {org.wso2.carbon.webapp.mgt.TomcatGenericWebappsDeployer} -  Deployed webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/bpmn].File[/opt/eii-m-a/wso2/business-process/repository/deployment/server/webapps/bpmn.war] 
+TID: [-1234] [] [2017-03-03 09:07:12,124]  INFO {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer} -  Deployed webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/bpmn-explorer].File[/opt/eii-m-a/wso2/business-process/repository/deployment/server/jaggeryapps/bpmn-explorer] 
+TID: [-1234] [] [2017-03-03 09:07:12,194]  INFO {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer} -  Deployed webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/humantask-explorer].File[/opt/eii-m-a/wso2/business-process/repository/deployment/server/jaggeryapps/humantask-explorer] 
+TID: [-1234] [] [2017-03-03 09:07:12,237]  INFO {org.apache.tomcat.util.net.NioSelectorPool} -  Using a shared selector for servlet write/read 
+TID: [-1234] [] [2017-03-03 09:07:12,300]  INFO {org.apache.tomcat.util.net.NioSelectorPool} -  Using a shared selector for servlet write/read 
+TID: [-1234] [] [2017-03-03 09:07:12,501]  INFO {org.wso2.carbon.ntask.core.service.impl.TaskServiceImpl} -  Task service starting in STANDALONE mode... 
+TID: [-1234] [] [2017-03-03 09:07:12,514]  INFO {org.wso2.carbon.humantask.cleanup.scheduler.internal.HumanTaskCleanupSchedulerServiceComponent} -  Starting HumanTaskCleanupSchedulerServiceComponent 
+TID: [-1234] [] [2017-03-03 09:07:12,749]  INFO {org.wso2.carbon.core.init.JMXServerManager} -  JMX Service URL  : service:jmx:rmi://localhost:11113/jndi/rmi://localhost:10001/jmxrmi 
+TID: [-1234] [] [2017-03-03 09:07:12,752]  INFO {org.wso2.carbon.core.internal.StartupFinalizerServiceComponent} -  Server           :  WSO2 Business Process Server-3.6.0 
+TID: [-1234] [] [2017-03-03 09:07:12,754]  INFO {org.wso2.carbon.core.internal.StartupFinalizerServiceComponent} -  WSO2 Carbon started in 156 sec 
+TID: [-1234] [] [2017-03-03 09:07:13,480]  INFO {org.wso2.carbon.ui.internal.CarbonUIServiceComponent} -  Mgt Console URL  : https://10.49.40.202:9445/carbon/ 
+TID: [-1234] [] [2017-03-03 09:07:13,481]  INFO {org.wso2.carbon.ui.internal.CarbonUIServiceComponent} -  BPS BPMN Explorer : https://10.49.40.202:9445/bpmn-explorer 
+TID: [-1234] [] [2017-03-03 09:07:13,481]  INFO {org.wso2.carbon.ui.internal.CarbonUIServiceComponent} -  BPS HumanTask Explorer : https://10.49.40.202:9445/humantask-explorer 
+TID: [-1234] [] [2017-03-03 09:14:27,591]  INFO {org.wso2.carbon.core.init.CarbonServerManager} -  Shutdown hook triggered.... 
+TID: [-1234] [] [2017-03-03 09:14:27,619]  INFO {org.wso2.carbon.core.init.CarbonServerManager} -  Gracefully shutting down WSO2 Business Process Server... 
+TID: [-1] [] [2017-03-03 09:14:27,593]  INFO {org.wso2.carbon.bpel.core.internal.BPELServiceComponent} -  Shutting down BPEL Server........ 
+TID: [-1234] [] [2017-03-03 09:14:27,636]  INFO {org.wso2.carbon.core.ServerManagement} -  Starting to switch to maintenance mode... 
+TID: [-1234] [] [2017-03-03 09:14:27,647]  INFO {org.wso2.carbon.core.ServerManagement} -  Stopped all transport listeners 
+TID: [-1234] [] [2017-03-03 09:14:27,648]  INFO {org.wso2.carbon.core.ServerManagement} -  Waiting for request service completion... 
+TID: [-1234] [] [2017-03-03 09:14:27,655]  INFO {org.wso2.carbon.core.ServerManagement} -  All requests have been served. 
+TID: [-1234] [] [2017-03-03 09:14:27,656]  INFO {org.wso2.carbon.core.ServerManagement} -  Waiting for deployment completion... 
+TID: [-1] [] [2017-03-03 09:14:27,658]  INFO {org.apache.ode.bpel.engine.BpelServerImpl} -  BPEL Server Stopped. 
+TID: [-1] [] [2017-03-03 09:14:27,671]  INFO {org.wso2.carbon.bpel.core.ode.integration.BPELServerImpl} -  BPEL Server shutdown completed. 
+TID: [-1234] [] [2017-03-03 09:14:27,734]  INFO {org.springframework.web.context.support.XmlWebApplicationContext} -  Closing Root WebApplicationContext: startup date [Fri Mar 03 09:07:06 EET 2017]; root of context hierarchy 
+TID: [-1234] [] [2017-03-03 09:14:27,797]  INFO {org.springframework.beans.factory.support.DefaultListableBeanFactory} -  Destroying singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@4892486b: defining beans [cxf,org.apache.cxf.bus.spring.BusWiringBeanFactoryPostProcessor,org.apache.cxf.bus.spring.Jsr250BeanPostProcessor,org.apache.cxf.bus.spring.BusExtensionPostProcessor,deploymentService,runtimeService,queryRuntimeService,historyService,formService,processDefinitionService,identityService,managementService,statsService,analyticsService,authenticationBean,exceptionHandlerBean,errorHandlerBean,jacksonBean]; root of factory hierarchy 
+TID: [-1234] [] [2017-03-03 09:14:27,953]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} -  Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/bpmn] 
+TID: [-1234] [] [2017-03-03 09:14:28,002]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} -  Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/humantask-explorer] 
+TID: [-1234] [] [2017-03-03 09:14:28,027]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} -  Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/bpmn-explorer] 
+TID: [-1234] [] [2017-03-03 09:14:28,028]  INFO {org.wso2.carbon.core.ServerManagement} -  All deployment tasks have been completed. 
+TID: [-1234] [] [2017-03-03 09:14:28,028]  INFO {org.wso2.carbon.core.ServerManagement} -  Waiting for server task completion... 
+TID: [-1234] [] [2017-03-03 09:14:28,029]  INFO {org.wso2.carbon.bpmn.core.integration.BPMNEngineWaitBeforeShutdownObserver} -  Shutting down activiti process engine 
+TID: [-1234] [] [2017-03-03 09:14:28,029]  INFO {org.wso2.carbon.bpmn.core.integration.BPMNEngineWaitBeforeShutdownObserver} -  Beginning to close down the command context 
+TID: [-1234] [] [2017-03-03 09:14:28,031]  INFO {org.wso2.carbon.humantask.core.HumanTaskServerShutdown} -  Shutting down human task scheduler 
+TID: [-1234] [] [2017-03-03 09:14:28,097]  INFO {org.wso2.carbon.registry.core.internal.RegistryCoreServiceComponent} -  Writing logs  
+TID: [-1234] [] [2017-03-03 09:14:28,109]  INFO {org.wso2.carbon.core.ServerManagement} -  All server tasks have been completed. 
+TID: [-1234] [] [2017-03-03 09:14:28,109]  INFO {org.wso2.carbon.core.init.CarbonServerManager} -  Shutting down WSO2 Business Process Server... 
+TID: [-1234] [] [2017-03-03 09:14:28,110]  INFO {org.wso2.carbon.core.init.CarbonServerManager} -  Shutting down OSGi framework... 
+TID: [-1234] [] [2017-03-03 09:14:28,381]  INFO {org.wso2.carbon.core.init.CarbonServerManager} -  Stopping CarbonServerManager... 
+TID: [-1234] [] [2017-03-03 09:14:30,897]  INFO {org.wso2.carbon.tomcat.ext.internal.CarbonTomcatServiceComponent} -  Stopping the carbon web-app registered under : / 
+TID: [-1234] [] [2017-03-03 09:14:31,059]  INFO {org.wso2.carbon.attachment.mgt.server.internal.AttachmentServiceComponent} -  org.wso2.carbon.attachment.mgt.server.internal.AttachmentServiceComponent.deactivate 
+TID: [-1234] [] [2017-03-03 09:14:31,112]  INFO {org.wso2.carbon.bpmn.core.internal.BPMNServiceComponent} -  Stopping the BPMN core component... 
+TID: [-1234] [] [2017-03-03 09:14:32,307]  INFO {org.wso2.carbon.core.init.CarbonServerManager} -  Shutdown complete 
+TID: [-1234] [] [2017-03-03 09:14:32,307]  INFO {org.wso2.carbon.core.init.CarbonServerManager} -  Halting JVM 

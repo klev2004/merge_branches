@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<feature id="org.wso2.carbon.andes.ui" label="WSO2 Carbon - Feature - Andes - UI" provider-name="%providerName" version="3.1.16">
+  <description>This feature provides Andes front-end functionality</description>
+  <copyright>%copyright</copyright>
+  <license url="%licenseURL">%license</license>
+  <plugin id="org.wso2.carbon.andes.stub" unpack="false" version="3.1.16"/>
+  <plugin id="org.wso2.carbon.andes.cluster.mgt.ui" unpack="false" version="3.1.16"/>
+  <plugin id="org.wso2.carbon.andes.event.ui" unpack="false" version="3.1.16"/>
+  <plugin id="org.wso2.carbon.andes.mgt.stub" unpack="false" version="3.1.16"/>
+  <plugin id="org.wso2.carbon.event.client" unpack="false" version="4.5.7"/>
+  <plugin id="org.wso2.carbon.andes.event.stub" unpack="false" version="3.1.16"/>
+  <plugin id="org.wso2.carbon.andes.ui" unpack="false" version="3.1.16"/>
+  <require>
+    <import feature="org.wso2.carbon.core.ui" match="equivalent" version="4.4.13"/>
+  </require>
+</feature>

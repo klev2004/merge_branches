@@ -1,0 +1,6 @@
+17:09:43,106 [-] [http-nio-9443-exec-4]  INFO TRACE_LOGGER Building Axis service for Proxy service : exProxyService
+17:09:43,113 [-] [http-nio-9443-exec-4]  INFO TRACE_LOGGER Loading the WSDL :  <Inlined>
+17:09:43,114 [-] [http-nio-9443-exec-4]  INFO TRACE_LOGGER Did not find a WSDL. Assuming a POX or Legacy service
+17:09:43,115 [-] [http-nio-9443-exec-4]  INFO TRACE_LOGGER Exposing transports : [https, http]
+17:09:43,116 [-] [http-nio-9443-exec-4]  INFO TRACE_LOGGER Adding service exProxyService to the Axis2 configuration
+17:09:43,125 [-] [http-nio-9443-exec-4]  INFO TRACE_LOGGER Successfully created the Axis2 service for Proxy service : exProxyService

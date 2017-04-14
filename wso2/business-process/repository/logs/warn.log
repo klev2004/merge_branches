@@ -1,0 +1,2 @@
+[2017-03-02 17:37:29,022]  WARN {org.apache.axiom.util.stax.dialect.StAXDialectDetector} -  Unable to determine dialect of the StAX implementation at bundleresource://13.fwk1836797772/ {org.apache.axiom.util.stax.dialect.StAXDialectDetector}
+[2017-03-02 17:53:49,014]  WARN {org.apache.axiom.util.stax.dialect.StAXDialectDetector} -  Unable to determine dialect of the StAX implementation at bundleresource://13.fwk1836797772/ {org.apache.axiom.util.stax.dialect.StAXDialectDetector}

@@ -1,0 +1,567 @@
+TID: [-1] [] [2017-04-11 00:10:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-04-11 00:25:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-04-11 00:40:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-04-11 00:55:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-04-11 01:10:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-04-11 01:25:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-04-11 01:40:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-04-11 01:55:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-04-11 02:10:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-04-11 02:25:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-04-11 02:40:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-04-11 02:55:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-04-11 03:10:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-04-11 03:25:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-04-11 03:40:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-04-11 03:55:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-04-11 04:10:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-04-11 04:25:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-04-11 04:40:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-04-11 04:55:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-04-11 05:10:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-04-11 05:25:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-04-11 05:40:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-04-11 05:55:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-04-11 06:10:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-04-11 06:25:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-04-11 06:40:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-04-11 06:55:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-04-11 07:10:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-04-11 07:25:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-04-11 07:40:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-04-11 07:55:34,742]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-04-11 08:10:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-04-11 08:25:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-04-11 08:40:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-04-11 08:55:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-04-11 09:10:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1234] [] [2017-04-11 09:13:48,089]  INFO {org.wso2.andes.server.handler.ConnectionCloseMethodHandler} -  ConnectionClose received with reply code/reply text 200/JMS client is closing the connection. for /10.49.40.202:56714(jndi_user) 
+TID: [-1234] [] [2017-04-11 09:13:49,211]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  SASL Mechanism selected: PLAIN 
+TID: [-1234] [] [2017-04-11 09:13:49,211]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Locale selected: en_US 
+TID: [-1234] [] [2017-04-11 09:13:49,215]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Connected as: jndi_user 
+TID: [-1234] [] [2017-04-11 09:13:49,215]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Framesize set to 65535 
+TID: [-1] [] [2017-04-11 09:25:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1234] [] [2017-04-11 09:27:36,022]  INFO {org.wso2.andes.server.handler.ConnectionCloseMethodHandler} -  ConnectionClose received with reply code/reply text 200/JMS client is closing the connection. for /10.49.40.202:39464(jndi_user) 
+TID: [-1234] [] [2017-04-11 09:27:37,151]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  SASL Mechanism selected: PLAIN 
+TID: [-1234] [] [2017-04-11 09:27:37,152]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Locale selected: en_US 
+TID: [-1234] [] [2017-04-11 09:27:37,155]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Connected as: jndi_user 
+TID: [-1234] [] [2017-04-11 09:27:37,156]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Framesize set to 65535 
+TID: [-1] [] [2017-04-11 09:40:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1234] [] [2017-04-11 09:43:24,084]  INFO {org.wso2.andes.server.handler.ConnectionCloseMethodHandler} -  ConnectionClose received with reply code/reply text 200/JMS client is closing the connection. for /10.49.40.202:39663(jndi_user) 
+TID: [-1234] [] [2017-04-11 09:43:25,222]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  SASL Mechanism selected: PLAIN 
+TID: [-1234] [] [2017-04-11 09:43:25,222]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Locale selected: en_US 
+TID: [-1234] [] [2017-04-11 09:43:25,224]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Connected as: jndi_user 
+TID: [-1234] [] [2017-04-11 09:43:25,225]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Framesize set to 65535 
+TID: [-1] [] [2017-04-11 09:55:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-04-11 10:10:34,742]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1234] [] [2017-04-11 10:12:58,026]  INFO {org.wso2.andes.server.handler.ConnectionCloseMethodHandler} -  ConnectionClose received with reply code/reply text 200/JMS client is closing the connection. for /10.49.40.202:56718(jndi_user) 
+TID: [-1234] [] [2017-04-11 10:12:59,201]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  SASL Mechanism selected: PLAIN 
+TID: [-1234] [] [2017-04-11 10:12:59,202]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Locale selected: en_US 
+TID: [-1234] [] [2017-04-11 10:12:59,204]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Connected as: jndi_user 
+TID: [-1234] [] [2017-04-11 10:12:59,204]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Framesize set to 65535 
+TID: [-1234] [] [2017-04-11 10:24:01,094]  INFO {org.wso2.andes.server.handler.ConnectionCloseMethodHandler} -  ConnectionClose received with reply code/reply text 200/JMS client is closing the connection. for /10.49.40.202:39868(jndi_user) 
+TID: [-1234] [] [2017-04-11 10:24:02,235]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  SASL Mechanism selected: PLAIN 
+TID: [-1234] [] [2017-04-11 10:24:02,235]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Locale selected: en_US 
+TID: [-1234] [] [2017-04-11 10:24:02,239]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Connected as: jndi_user 
+TID: [-1234] [] [2017-04-11 10:24:02,239]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Framesize set to 65535 
+TID: [-1] [] [2017-04-11 10:25:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-04-11 10:40:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-04-11 10:55:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1234] [] [2017-04-11 10:56:50,493]  INFO {org.wso2.andes.server.handler.ConnectionCloseMethodHandler} -  ConnectionClose received with reply code/reply text 200/JMS client is closing the connection. for /10.49.40.202:56720(jndi_user) 
+TID: [-1234] [] [2017-04-11 10:56:51,648]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  SASL Mechanism selected: PLAIN 
+TID: [-1234] [] [2017-04-11 10:56:51,649]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Locale selected: en_US 
+TID: [-1234] [] [2017-04-11 10:56:51,651]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Connected as: jndi_user 
+TID: [-1234] [] [2017-04-11 10:56:51,651]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Framesize set to 65535 
+TID: [-1234] [] [2017-04-11 11:09:08,732]  INFO {org.wso2.andes.server.handler.ConnectionCloseMethodHandler} -  ConnectionClose received with reply code/reply text 200/JMS client is closing the connection. for /10.49.40.202:40458(jndi_user) 
+TID: [-1234] [] [2017-04-11 11:09:09,859]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  SASL Mechanism selected: PLAIN 
+TID: [-1234] [] [2017-04-11 11:09:09,860]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Locale selected: en_US 
+TID: [-1234] [] [2017-04-11 11:09:09,862]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Connected as: jndi_user 
+TID: [-1234] [] [2017-04-11 11:09:09,862]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Framesize set to 65535 
+TID: [-1] [] [2017-04-11 11:10:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1234] [] [2017-04-11 11:13:09,736]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  SASL Mechanism selected: PLAIN 
+TID: [-1234] [] [2017-04-11 11:13:09,737]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Locale selected: en_US 
+TID: [-1234] [] [2017-04-11 11:13:09,738]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Connected as: jndi_user 
+TID: [-1234] [] [2017-04-11 11:13:09,739]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Framesize set to 65535 
+TID: [-1234] [] [2017-04-11 11:13:10,174]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  SASL Mechanism selected: PLAIN 
+TID: [-1234] [] [2017-04-11 11:13:10,175]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Locale selected: en_US 
+TID: [-1234] [] [2017-04-11 11:13:10,176]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Connected as: jndi_user 
+TID: [-1234] [] [2017-04-11 11:13:10,177]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Framesize set to 65535 
+TID: [-1234] [] [2017-04-11 11:13:10,533]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  SASL Mechanism selected: PLAIN 
+TID: [-1234] [] [2017-04-11 11:13:10,533]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Locale selected: en_US 
+TID: [-1234] [] [2017-04-11 11:13:10,535]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Connected as: jndi_user 
+TID: [-1234] [] [2017-04-11 11:13:10,535]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Framesize set to 65535 
+TID: [-1234] [] [2017-04-11 11:13:10,878]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  SASL Mechanism selected: PLAIN 
+TID: [-1234] [] [2017-04-11 11:13:10,878]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Locale selected: en_US 
+TID: [-1234] [] [2017-04-11 11:13:10,880]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Connected as: jndi_user 
+TID: [-1234] [] [2017-04-11 11:13:10,880]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Framesize set to 65535 
+TID: [-1234] [] [2017-04-11 11:13:11,194]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  SASL Mechanism selected: PLAIN 
+TID: [-1234] [] [2017-04-11 11:13:11,194]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Locale selected: en_US 
+TID: [-1234] [] [2017-04-11 11:13:11,196]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Connected as: jndi_user 
+TID: [-1234] [] [2017-04-11 11:13:11,196]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Framesize set to 65535 
+TID: [-1234] [] [2017-04-11 11:13:11,618]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  SASL Mechanism selected: PLAIN 
+TID: [-1234] [] [2017-04-11 11:13:11,619]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Locale selected: en_US 
+TID: [-1234] [] [2017-04-11 11:13:11,620]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Connected as: jndi_user 
+TID: [-1234] [] [2017-04-11 11:13:11,621]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Framesize set to 65535 
+TID: [-1234] [] [2017-04-11 11:18:45,203]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  SASL Mechanism selected: PLAIN 
+TID: [-1234] [] [2017-04-11 11:18:45,203]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Locale selected: en_US 
+TID: [-1234] [] [2017-04-11 11:18:45,207]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Connected as: jndi_user 
+TID: [-1234] [] [2017-04-11 11:18:45,207]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Framesize set to 65535 
+TID: [-1234] [] [2017-04-11 11:18:45,682]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  SASL Mechanism selected: PLAIN 
+TID: [-1234] [] [2017-04-11 11:18:45,682]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Locale selected: en_US 
+TID: [-1234] [] [2017-04-11 11:18:45,684]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Connected as: jndi_user 
+TID: [-1234] [] [2017-04-11 11:18:45,685]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Framesize set to 65535 
+TID: [-1234] [] [2017-04-11 11:18:46,029]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  SASL Mechanism selected: PLAIN 
+TID: [-1234] [] [2017-04-11 11:18:46,030]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Locale selected: en_US 
+TID: [-1234] [] [2017-04-11 11:18:46,031]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Connected as: jndi_user 
+TID: [-1234] [] [2017-04-11 11:18:46,032]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Framesize set to 65535 
+TID: [-1234] [] [2017-04-11 11:18:46,368]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  SASL Mechanism selected: PLAIN 
+TID: [-1234] [] [2017-04-11 11:18:46,368]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Locale selected: en_US 
+TID: [-1234] [] [2017-04-11 11:18:46,370]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Connected as: jndi_user 
+TID: [-1234] [] [2017-04-11 11:18:46,370]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Framesize set to 65535 
+TID: [-1234] [] [2017-04-11 11:18:46,676]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  SASL Mechanism selected: PLAIN 
+TID: [-1234] [] [2017-04-11 11:18:46,676]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Locale selected: en_US 
+TID: [-1234] [] [2017-04-11 11:18:46,678]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Connected as: jndi_user 
+TID: [-1234] [] [2017-04-11 11:18:46,678]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Framesize set to 65535 
+TID: [-1234] [] [2017-04-11 11:18:47,050]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  SASL Mechanism selected: PLAIN 
+TID: [-1234] [] [2017-04-11 11:18:47,051]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Locale selected: en_US 
+TID: [-1234] [] [2017-04-11 11:18:47,052]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Connected as: jndi_user 
+TID: [-1234] [] [2017-04-11 11:18:47,053]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Framesize set to 65535 
+TID: [-1] [] [2017-04-11 11:25:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1234] [] [2017-04-11 11:27:03,995]  INFO {org.wso2.andes.server.handler.ConnectionCloseMethodHandler} -  ConnectionClose received with reply code/reply text 200/JMS client is closing the connection. for /10.49.40.202:41452(jndi_user) 
+TID: [-1234] [] [2017-04-11 11:27:05,195]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  SASL Mechanism selected: PLAIN 
+TID: [-1234] [] [2017-04-11 11:27:05,196]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Locale selected: en_US 
+TID: [-1234] [] [2017-04-11 11:27:05,197]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Connected as: jndi_user 
+TID: [-1234] [] [2017-04-11 11:27:05,198]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Framesize set to 65535 
+TID: [-1234] [] [2017-04-11 11:32:20,217]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  SASL Mechanism selected: PLAIN 
+TID: [-1234] [] [2017-04-11 11:32:20,217]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Locale selected: en_US 
+TID: [-1234] [] [2017-04-11 11:32:20,219]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Connected as: jndi_user 
+TID: [-1234] [] [2017-04-11 11:32:20,220]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Framesize set to 65535 
+TID: [-1234] [] [2017-04-11 11:32:20,616]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  SASL Mechanism selected: PLAIN 
+TID: [-1234] [] [2017-04-11 11:32:20,616]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Locale selected: en_US 
+TID: [-1234] [] [2017-04-11 11:32:20,618]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Connected as: jndi_user 
+TID: [-1234] [] [2017-04-11 11:32:20,618]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Framesize set to 65535 
+TID: [-1234] [] [2017-04-11 11:32:21,038]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  SASL Mechanism selected: PLAIN 
+TID: [-1234] [] [2017-04-11 11:32:21,038]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Locale selected: en_US 
+TID: [-1234] [] [2017-04-11 11:32:21,040]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Connected as: jndi_user 
+TID: [-1234] [] [2017-04-11 11:32:21,040]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Framesize set to 65535 
+TID: [-1234] [] [2017-04-11 11:32:21,624]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  SASL Mechanism selected: PLAIN 
+TID: [-1234] [] [2017-04-11 11:32:21,624]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Locale selected: en_US 
+TID: [-1234] [] [2017-04-11 11:32:21,626]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Connected as: jndi_user 
+TID: [-1234] [] [2017-04-11 11:32:21,627]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Framesize set to 65535 
+TID: [-1234] [] [2017-04-11 11:32:22,143]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  SASL Mechanism selected: PLAIN 
+TID: [-1234] [] [2017-04-11 11:32:22,143]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Locale selected: en_US 
+TID: [-1234] [] [2017-04-11 11:32:22,145]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Connected as: jndi_user 
+TID: [-1234] [] [2017-04-11 11:32:22,145]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Framesize set to 65535 
+TID: [-1234] [] [2017-04-11 11:32:22,688]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  SASL Mechanism selected: PLAIN 
+TID: [-1234] [] [2017-04-11 11:32:22,689]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Locale selected: en_US 
+TID: [-1234] [] [2017-04-11 11:32:22,691]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Connected as: jndi_user 
+TID: [-1234] [] [2017-04-11 11:32:22,691]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Framesize set to 65535 
+TID: [-1] [] [2017-04-11 11:40:34,741]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1234] [] [2017-04-11 11:46:06,840]  INFO {org.wso2.carbon.core.init.CarbonServerManager} -  Shutdown hook triggered.... 
+TID: [-1234] [] [2017-04-11 11:46:06,843]  INFO {org.wso2.carbon.core.init.CarbonServerManager} -  Gracefully shutting down WSO2 Message Broker... 
+TID: [-1234] [] [2017-04-11 11:46:06,846]  INFO {org.wso2.carbon.core.ServerManagement} -  Starting to switch to maintenance mode... 
+TID: [-1234] [] [2017-04-11 11:46:06,863]  INFO {org.wso2.carbon.core.ServerManagement} -  Stopped all transport listeners 
+TID: [-1234] [] [2017-04-11 11:46:06,864]  INFO {org.wso2.carbon.core.ServerManagement} -  Waiting for request service completion... 
+TID: [-1234] [] [2017-04-11 11:46:06,870]  INFO {org.wso2.carbon.core.ServerManagement} -  All requests have been served. 
+TID: [-1234] [] [2017-04-11 11:46:06,870]  INFO {org.wso2.carbon.core.ServerManagement} -  Waiting for deployment completion... 
+TID: [-1234] [] [2017-04-11 11:46:06,874]  INFO {org.wso2.carbon.core.ServerManagement} -  All deployment tasks have been completed. 
+TID: [-1234] [] [2017-04-11 11:46:06,874]  INFO {org.wso2.carbon.core.ServerManagement} -  Waiting for server task completion... 
+TID: [-1234] [] [2017-04-11 11:46:06,900]  INFO {org.wso2.carbon.core.ServerManagement} -  All server tasks have been completed. 
+TID: [-1234] [] [2017-04-11 11:46:06,901]  INFO {org.wso2.carbon.core.init.CarbonServerManager} -  Shutting down WSO2 Message Broker... 
+TID: [-1234] [] [2017-04-11 11:46:06,901]  INFO {org.wso2.andes.kernel.FlowControlManager} -  Prepare channels for shutdown. 
+TID: [-1234] [] [2017-04-11 11:46:06,904]  INFO {org.wso2.andes.kernel.MessagingEngine} -  Stopping SlotDelivery Workers. 
+TID: [-1234] [] [2017-04-11 11:46:06,909]  INFO {org.wso2.andes.kernel.slot.SlotMessageCounter} -  Stopping slot timeout task executor 
+TID: [-1234] [] [2017-04-11 11:46:06,910]  INFO {org.wso2.andes.server.registry.ApplicationRegistry} -  Shutting down ApplicationRegistry(org.wso2.andes.server.registry.ConfigurationFileApplicationRegistry@414e51e2) 
+TID: [-1234] [] [2017-04-11 11:46:06,911]  INFO {org.wso2.andes.server.registry.ApplicationRegistry} -  Shutting down ApplicationRegistry:org.wso2.andes.server.registry.ConfigurationFileApplicationRegistry@414e51e2 
+TID: [-1234] [] [2017-04-11 11:46:06,917]  INFO {org.wso2.andes.server.security.auth.manager.PrincipalDatabaseAuthenticationManager} -  Unregistering UserManagementMBean 
+TID: [-1234] [] [2017-04-11 11:46:06,922]  INFO {org.wso2.andes.server.cluster.ClusterManager} -  Clearing the Persisted State of Node with ID NODEEII-M-A/10.49.40.202 
+TID: [-1234] [] [2017-04-11 11:46:06,971]  INFO {org.wso2.andes.kernel.AndesKernelBoot} -  Stop syncing exchanges, queues, bindings and subscriptions... 
+TID: [-1234] [] [2017-04-11 11:46:06,974]  INFO {org.wso2.carbon.core.init.CarbonServerManager} -  Shutting down OSGi framework... 
+TID: [-1234] [] [2017-04-11 11:46:07,159]  INFO {org.wso2.carbon.core.init.CarbonServerManager} -  Stopping CarbonServerManager... 
+TID: [-1234] [] [2017-04-11 11:46:09,597]  INFO {org.wso2.carbon.tomcat.ext.internal.CarbonTomcatServiceComponent} -  Stopping the carbon web-app registered under : / 
+TID: [-1234] [] [2017-04-11 11:46:09,613]  INFO {org.wso2.carbon.metrics.impl.reporter.AbstractReporter} -  Stopped JMX reporter for Metrics 
+TID: [-1234] [] [2017-04-11 11:46:09,615]  INFO {org.wso2.carbon.metrics.impl.reporter.AbstractReporter} -  Stopped JDBC reporter for Metrics 
+TID: [-1234] [] [2017-04-11 11:46:10,568]  INFO {org.wso2.carbon.core.init.CarbonServerManager} -  Shutdown complete 
+TID: [-1234] [] [2017-04-11 11:46:10,569]  INFO {org.wso2.carbon.core.init.CarbonServerManager} -  Halting JVM 
+TID: [-1] [] [2017-04-11 12:01:14,633]  WARN {org.apache.axiom.util.stax.dialect.StAXDialectDetector} -  Unable to determine dialect of the StAX implementation at bundleresource://13.fwk25548982/ 
+TID: [-1] [] [2017-04-11 12:01:14,553]  INFO {org.wso2.andes.wso2.internal.QpidBundleActivator} -  Setting BundleContext in PluginManager 
+TID: [-1234] [] [2017-04-11 12:01:16,540]  INFO {org.wso2.carbon.core.internal.CarbonCoreActivator} -  Starting WSO2 Carbon... 
+TID: [-1234] [] [2017-04-11 12:01:16,541]  INFO {org.wso2.carbon.core.internal.CarbonCoreActivator} -  Operating System : Linux 3.10.0-514.6.1.el7.x86_64, amd64 
+TID: [-1234] [] [2017-04-11 12:01:16,542]  INFO {org.wso2.carbon.core.internal.CarbonCoreActivator} -  Java Home        : /usr/java/jdk1.8.0_121/jre 
+TID: [-1234] [] [2017-04-11 12:01:16,542]  INFO {org.wso2.carbon.core.internal.CarbonCoreActivator} -  Java Version     : 1.8.0_121 
+TID: [-1234] [] [2017-04-11 12:01:16,543]  INFO {org.wso2.carbon.core.internal.CarbonCoreActivator} -  Java VM          : Java HotSpot(TM) 64-Bit Server VM 25.121-b13,Oracle Corporation 
+TID: [-1234] [] [2017-04-11 12:01:16,543]  INFO {org.wso2.carbon.core.internal.CarbonCoreActivator} -  Carbon Home      : /opt/eii-m-a/wso2/broker 
+TID: [-1234] [] [2017-04-11 12:01:16,544]  INFO {org.wso2.carbon.core.internal.CarbonCoreActivator} -  Java Temp Dir    : /opt/eii-m-a/wso2/broker/tmp 
+TID: [-1234] [] [2017-04-11 12:01:16,545]  INFO {org.wso2.carbon.core.internal.CarbonCoreActivator} -  User             : eii-a, uk-UA, Europe/Kiev 
+TID: [-1234] [] [2017-04-11 12:01:16,881]  WARN {org.wso2.carbon.core.bootup.validator.util.ValidationResultPrinter} -  Swap Memory size (MB): 15 of the system is below the recommended minimum size :2047 
+TID: [-1234] [] [2017-04-11 12:01:16,881]  WARN {org.wso2.carbon.core.bootup.validator.util.ValidationResultPrinter} -  Carbon is configured to use the default keystore (wso2carbon.jks). To maximize security when deploying to a production environment, configure a new keystore with a unique password in the production server profile. 
+TID: [-1234] [] [2017-04-11 12:01:20,634]  INFO {org.wso2.carbon.registry.core.jdbc.EmbeddedRegistryService} -  Configured Registry in 144ms 
+TID: [-1234] [] [2017-04-11 12:01:20,825]  INFO {org.wso2.carbon.registry.core.internal.RegistryCoreServiceComponent} -  Registry Mode    : READ-WRITE 
+TID: [-1234] [] [2017-04-11 12:01:21,120]  INFO {org.wso2.carbon.metrics.impl.util.JmxReporterBuilder} -  Creating JMX reporter for Metrics with domain 'org.wso2.carbon.metrics' 
+TID: [-1234] [] [2017-04-11 12:01:21,135]  INFO {org.wso2.carbon.metrics.impl.util.JDBCReporterBuilder} -  Creating JDBC reporter for Metrics with source 'EII-M-A', data source 'jdbc/WSO2MetricsDB' and 60 seconds polling period 
+TID: [-1234] [] [2017-04-11 12:01:21,141]  INFO {org.wso2.carbon.metrics.impl.reporter.AbstractReporter} -  Started JMX reporter for Metrics 
+TID: [-1234] [] [2017-04-11 12:01:21,171]  INFO {org.wso2.carbon.metrics.impl.reporter.AbstractReporter} -  Started JDBC reporter for Metrics 
+TID: [-1234] [] [2017-04-11 12:01:25,727]  INFO {org.wso2.carbon.registry.indexing.solr.SolrClient} -  Default Embedded Solr Server Initialized 
+TID: [-1234] [] [2017-04-11 12:01:26,466]  INFO {org.wso2.carbon.user.core.internal.UserStoreMgtDSComponent} -  Carbon UserStoreMgtDSComponent activated successfully. 
+TID: [-1] [] [2017-04-11 12:02:08,276]  INFO {org.apache.catalina.startup.TaglibUriRule} -  TLD skipped. URI: http://tiles.apache.org/tags-tiles is already defined 
+TID: [-1234] [] [2017-04-11 12:02:09,882]  INFO {org.apache.axis2.deployment.ClusterBuilder} -  Clustering has been disabled 
+TID: [-1234] [] [2017-04-11 12:02:10,780]  INFO {org.wso2.carbon.identity.user.store.configuration.deployer.UserStoreConfigurationDeployer} -  User Store Configuration Deployer initiated. 
+TID: [-1234] [] [2017-04-11 12:02:10,781]  INFO {org.wso2.carbon.identity.user.store.configuration.deployer.UserStoreConfigurationDeployer} -  User Store Configuration Deployer initiated. 
+TID: [-1234] [] [2017-04-11 12:02:12,747]  INFO {org.apache.axis2.deployment.ModuleDeployer} -  Deploying module: addressing-1.6.1-wso2v20 - file:/opt/eii-m-a/wso2/broker/repository/deployment/client/modules/addressing-1.6.1-wso2v20.mar 
+TID: [-1234] [] [2017-04-11 12:02:13,320]  INFO {org.apache.axis2.deployment.DeploymentEngine} -  Deploying Web service: org.wso2.carbon.andes.admin-3.1.16 -  
+TID: [-1234] [] [2017-04-11 12:02:13,417]  INFO {org.apache.axis2.deployment.DeploymentEngine} -  Deploying Web service: org.wso2.carbon.andes.event.admin-3.1.16 -  
+TID: [-1234] [] [2017-04-11 12:02:14,941]  INFO {org.apache.axis2.deployment.DeploymentEngine} -  Deploying Web service: org.wso2.carbon.tryit-4.5.8 -  
+TID: [-1234] [] [2017-04-11 12:02:15,113]  INFO {org.wso2.carbon.core.init.CarbonServerManager} -  Repository       : /opt/eii-m-a/wso2/broker/repository/deployment/server/ 
+TID: [-1234] [] [2017-04-11 12:02:15,129]  INFO {org.wso2.carbon.andes.core.internal.ds.QueueManagerServiceDS} -  Successfully created the queue manager service 
+TID: [-1234] [] [2017-04-11 12:02:15,137]  INFO {org.wso2.carbon.andes.core.internal.ds.SubscriptionManagerServiceDS} -  Successfully created the subscription manager service 
+TID: [-1234] [] [2017-04-11 12:02:15,197]  INFO {org.wso2.carbon.core.multitenancy.eager.TenantLoadingConfig} -  Using tenant lazy loading policy... 
+TID: [-1234] [] [2017-04-11 12:02:15,211]  INFO {org.wso2.carbon.core.internal.permission.update.PermissionUpdater} -  Permission cache updated for tenant -1234 
+TID: [-1234] [] [2017-04-11 12:02:15,537]  INFO {org.wso2.andes.configuration.AndesConfigurationManager} -  Main andes configuration located at : /opt/eii-m-a/wso2/broker/conf/broker.xml 
+TID: [-1234] [] [2017-04-11 12:02:15,652]  INFO {org.wso2.carbon.andes.internal.QpidServiceComponent} -  Activating Andes Message Broker Engine... 
+TID: [-1234] [] [2017-04-11 12:02:15,672]  INFO {org.wso2.andes.server.Broker} -  Starting Qpid using configuration : /opt/eii-m-a/wso2/broker/conf/advanced/qpid-config.xml 
+TID: [-1234] [] [2017-04-11 12:02:15,707]  INFO {org.wso2.andes.server.registry.ApplicationRegistry} -  Initialising Application Registry(org.wso2.andes.server.registry.ConfigurationFileApplicationRegistry@3d5d01e5) 
+TID: [-1234] [] [2017-04-11 12:02:15,739]  INFO {org.wso2.andes.server.plugins.PluginManager} -  Opened service trackers 
+TID: [-1234] [] [2017-04-11 12:02:15,983]  INFO {org.wso2.andes.server.management.JMXManagedObjectRegistry} -  Initialising managed object registry using jplatform MBean server 
+TID: [-1234] [] [2017-04-11 12:02:15,995]  INFO {org.wso2.andes.server.security.auth.manager.PrincipalDatabaseAuthenticationManager} -  PrincipalDatabase concrete implementation : org.wso2.carbon.andes.authentication.andes.CarbonBasedPrincipalDatabase 
+TID: [-1234] [] [2017-04-11 12:02:16,003]  INFO {org.wso2.andes.server.security.auth.manager.PrincipalDatabaseAuthenticationManager} -  Initialised PLAIN SASL provider successfully 
+TID: [-1234] [] [2017-04-11 12:02:16,005]  INFO {org.wso2.andes.server.security.auth.manager.PrincipalDatabaseAuthenticationManager} -  Additional SASL providers successfully registered. 
+TID: [-1234] [] [2017-04-11 12:02:16,006]  INFO {org.wso2.andes.server.security.auth.manager.PrincipalDatabaseAuthenticationManager} -  Registering UserManagementMBean 
+TID: [-1234] [] [2017-04-11 12:02:16,212]  INFO {org.wso2.andes.store.rdbms.RDBMSConnection} -  JDBC connection established with jndi config WSO2MBStoreDB 
+TID: [-1234] [] [2017-04-11 12:02:16,250]  INFO {org.wso2.andes.store.rdbms.RDBMSAndesContextStoreImpl} -  Andes Context Store initialised 
+TID: [-1234] [] [2017-04-11 12:02:16,252]  INFO {org.wso2.andes.kernel.AndesKernelBoot} -  AndesContextStore initialised with org.wso2.andes.store.rdbms.RDBMSAndesContextStoreImpl 
+TID: [-1234] [] [2017-04-11 12:02:16,310]  INFO {org.wso2.andes.store.rdbms.RDBMSConnection} -  JDBC connection established with jndi config WSO2MBStoreDB 
+TID: [-1234] [] [2017-04-11 12:02:16,331]  INFO {org.wso2.andes.store.rdbms.RDBMSMessageStoreImpl} -  Message Store initialised 
+TID: [-1234] [] [2017-04-11 12:02:16,333]  INFO {org.wso2.andes.kernel.AndesKernelBoot} -  Andes MessageStore initialised with org.wso2.andes.store.rdbms.RDBMSMessageStoreImpl 
+TID: [-1234] [] [2017-04-11 12:02:16,372]  WARN {org.wso2.andes.configuration.AndesConfigurationManager} -  Error when trying to read property : transaction/maxWaitTimeout. Switching to default value : 30 
+TID: [-1234] [] [2017-04-11 12:02:16,698]  INFO {org.wso2.andes.kernel.Andes} -  Andes API initialised. 
+TID: [-1] [] [2017-04-11 12:02:16,742]  INFO {org.wso2.andes.kernel.slot.SlotCreator} -  Slot restoring started for MyQueue 
+TID: [-1] [] [2017-04-11 12:02:16,744]  INFO {org.wso2.andes.kernel.slot.SlotCreator} -  Slot restoring started for pl_city_DataService 
+TID: [-1] [] [2017-04-11 12:02:16,751]  INFO {org.wso2.andes.kernel.slot.SlotCreator} -  Slot restoring started for Informix_pl_city 
+TID: [-1] [] [2017-04-11 12:02:16,750]  INFO {org.wso2.andes.kernel.slot.SlotCreator} -  Slot restoring started for A_Version_DataService 
+TID: [-1] [] [2017-04-11 12:02:16,744]  INFO {org.wso2.andes.kernel.slot.SlotCreator} -  Slot restoring started for DBMereza_pl_city 
+TID: [-1] [] [2017-04-11 12:02:16,801]  INFO {org.wso2.andes.kernel.slot.SlotCreator} -  Recovered 0 messages for queue "A_Version_DataService". 
+TID: [-1] [] [2017-04-11 12:02:16,802]  INFO {org.wso2.andes.kernel.slot.SlotCreator} -  Slot restoring ended for A_Version_DataService 
+TID: [-1] [] [2017-04-11 12:02:16,803]  INFO {org.wso2.andes.kernel.slot.SlotCreator} -  Slot restoring started for App 
+TID: [-1] [] [2017-04-11 12:02:16,807]  INFO {org.wso2.andes.kernel.slot.SlotCreator} -  Recovered 0 messages for queue "MyQueue". 
+TID: [-1] [] [2017-04-11 12:02:16,807]  INFO {org.wso2.andes.kernel.slot.SlotCreator} -  Slot restoring ended for MyQueue 
+TID: [-1] [] [2017-04-11 12:02:16,808]  INFO {org.wso2.andes.kernel.slot.SlotCreator} -  Slot restoring started for MerezhaQueue 
+TID: [-1] [] [2017-04-11 12:02:16,809]  INFO {org.wso2.andes.kernel.slot.SlotCreator} -  Recovered 0 messages for queue "pl_city_DataService". 
+TID: [-1] [] [2017-04-11 12:02:16,810]  INFO {org.wso2.andes.kernel.slot.SlotCreator} -  Slot restoring ended for pl_city_DataService 
+TID: [-1] [] [2017-04-11 12:02:16,810]  INFO {org.wso2.andes.kernel.slot.SlotCreator} -  Slot restoring started for MerezhaIndexesQueue 
+TID: [-1] [] [2017-04-11 12:02:16,807]  INFO {org.wso2.andes.kernel.slot.SlotCreator} -  Recovered 0 messages for queue "Informix_pl_city". 
+TID: [-1] [] [2017-04-11 12:02:16,814]  INFO {org.wso2.andes.kernel.slot.SlotCreator} -  Slot restoring ended for Informix_pl_city 
+TID: [-1] [] [2017-04-11 12:02:16,814]  INFO {org.wso2.andes.kernel.slot.SlotCreator} -  Slot restoring started for queueueue 
+TID: [-1] [] [2017-04-11 12:02:16,812]  INFO {org.wso2.andes.kernel.slot.SlotCreator} -  Recovered 0 messages for queue "DBMereza_pl_city". 
+TID: [-1] [] [2017-04-11 12:02:16,815]  INFO {org.wso2.andes.kernel.slot.SlotCreator} -  Slot restoring ended for DBMereza_pl_city 
+TID: [-1] [] [2017-04-11 12:02:16,816]  INFO {org.wso2.andes.kernel.slot.SlotCreator} -  Slot restoring started for MerezhaRegionOpzIndexQueue 
+TID: [-1] [] [2017-04-11 12:02:16,814]  INFO {org.wso2.andes.kernel.slot.SlotCreator} -  Recovered 0 messages for queue "App". 
+TID: [-1] [] [2017-04-11 12:02:16,821]  INFO {org.wso2.andes.kernel.slot.SlotCreator} -  Slot restoring ended for App 
+TID: [-1] [] [2017-04-11 12:02:16,821]  INFO {org.wso2.andes.kernel.slot.SlotCreator} -  Slot restoring started for MerezhaAddressVzQueue 
+TID: [-1] [] [2017-04-11 12:02:16,819]  INFO {org.wso2.andes.kernel.slot.SlotCreator} -  Recovered 0 messages for queue "MerezhaRegionOpzIndexQueue". 
+TID: [-1] [] [2017-04-11 12:02:16,825]  INFO {org.wso2.andes.kernel.slot.SlotCreator} -  Slot restoring ended for MerezhaRegionOpzIndexQueue 
+TID: [-1] [] [2017-04-11 12:02:16,826]  INFO {org.wso2.andes.kernel.slot.SlotCreator} -  Slot restoring started for LotusOfficeQueue 
+TID: [-1] [] [2017-04-11 12:02:16,817]  INFO {org.wso2.andes.kernel.slot.SlotCreator} -  Recovered 0 messages for queue "MerezhaQueue". 
+TID: [-1] [] [2017-04-11 12:02:16,828]  INFO {org.wso2.andes.kernel.slot.SlotCreator} -  Slot restoring ended for MerezhaQueue 
+TID: [-1] [] [2017-04-11 12:02:16,828]  INFO {org.wso2.andes.kernel.slot.SlotCreator} -  Slot restoring started for pl_city 
+TID: [-1] [] [2017-04-11 12:02:16,830]  INFO {org.wso2.andes.kernel.slot.SlotCreator} -  Recovered 0 messages for queue "queueueue". 
+TID: [-1] [] [2017-04-11 12:02:16,830]  INFO {org.wso2.andes.kernel.slot.SlotCreator} -  Slot restoring ended for queueueue 
+TID: [-1] [] [2017-04-11 12:02:16,835]  INFO {org.wso2.andes.kernel.slot.SlotCreator} -  Recovered 0 messages for queue "MerezhaIndexesQueue". 
+TID: [-1] [] [2017-04-11 12:02:16,836]  INFO {org.wso2.andes.kernel.slot.SlotCreator} -  Slot restoring ended for MerezhaIndexesQueue 
+TID: [-1] [] [2017-04-11 12:02:16,837]  INFO {org.wso2.andes.kernel.slot.SlotCreator} -  Recovered 0 messages for queue "MerezhaAddressVzQueue". 
+TID: [-1] [] [2017-04-11 12:02:16,838]  INFO {org.wso2.andes.kernel.slot.SlotCreator} -  Slot restoring ended for MerezhaAddressVzQueue 
+TID: [-1] [] [2017-04-11 12:02:16,839]  INFO {org.wso2.andes.kernel.slot.SlotCreator} -  Recovered 0 messages for queue "pl_city". 
+TID: [-1] [] [2017-04-11 12:02:16,840]  INFO {org.wso2.andes.kernel.slot.SlotCreator} -  Slot restoring ended for pl_city 
+TID: [-1] [] [2017-04-11 12:02:16,841]  INFO {org.wso2.andes.kernel.slot.SlotCreator} -  Recovered 0 messages for queue "LotusOfficeQueue". 
+TID: [-1] [] [2017-04-11 12:02:16,842]  INFO {org.wso2.andes.kernel.slot.SlotCreator} -  Slot restoring ended for LotusOfficeQueue 
+TID: [-1234] [] [2017-04-11 12:02:16,947]  INFO {org.wso2.andes.kernel.AndesChannel} -  Channel created (ID: Internel_channel) 
+TID: [-1234] [] [2017-04-11 12:02:16,966]  INFO {org.wso2.andes.server.cluster.ClusterManager} -  Clearing the Persisted State of Node with ID NODEEII-M-A/10.49.40.202 
+TID: [-1234] [] [2017-04-11 12:02:16,971]  INFO {org.wso2.andes.server.cluster.ClusterManager} -  Initializing Standalone Mode. Current Node ID:NODEEII-M-A/10.49.40.202 10.49.40.202 
+TID: [-1234] [] [2017-04-11 12:02:16,981]  INFO {org.wso2.andes.kernel.AndesSubscriptionManager} -  Deactivated all active durable subscriptions 
+TID: [-1234] [] [2017-04-11 12:02:16,983]  INFO {org.wso2.andes.kernel.AndesKernelBoot} -  Syncing exchanges, queues, bindings and subscriptions 
+TID: [-1234] [] [2017-04-11 12:02:16,985]  WARN {org.wso2.andes.kernel.AndesRecoveryTask} -  Recovering node. Adding queue [DeadLetterChannel] OW=admin/X=false/Dtrue/LPT0 
+TID: [-1234] [] [2017-04-11 12:02:17,075]  INFO {org.wso2.andes.server.virtualhost.VirtualHostConfigSynchronizer} -  Queue sync - Added Queue: DeadLetterChannel, Owner: admin, IsExclusive: false, Arguments: null 
+TID: [-1234] [] [2017-04-11 12:02:17,076]  WARN {org.wso2.andes.kernel.AndesRecoveryTask} -  Recovering node. Adding queue [MyQueue] OW=admin/X=false/Dtrue/LPT0 
+TID: [-1234] [] [2017-04-11 12:02:17,091]  INFO {org.wso2.andes.server.virtualhost.VirtualHostConfigSynchronizer} -  Queue sync - Added Queue: MyQueue, Owner: admin, IsExclusive: false, Arguments: null 
+TID: [-1234] [] [2017-04-11 12:02:17,093]  WARN {org.wso2.andes.kernel.AndesRecoveryTask} -  Recovering node. Adding queue [pl_city_DataService] OW=null/X=false/Dtrue/LPT0 
+TID: [-1234] [] [2017-04-11 12:02:17,108]  INFO {org.wso2.andes.server.virtualhost.VirtualHostConfigSynchronizer} -  Queue sync - Added Queue: pl_city_DataService, Owner: null, IsExclusive: false, Arguments: null 
+TID: [-1234] [] [2017-04-11 12:02:17,109]  WARN {org.wso2.andes.kernel.AndesRecoveryTask} -  Recovering node. Adding queue [DBMereza_pl_city] OW=null/X=false/Dtrue/LPT0 
+TID: [-1234] [] [2017-04-11 12:02:17,121]  INFO {org.wso2.andes.server.virtualhost.VirtualHostConfigSynchronizer} -  Queue sync - Added Queue: DBMereza_pl_city, Owner: null, IsExclusive: false, Arguments: null 
+TID: [-1234] [] [2017-04-11 12:02:17,122]  WARN {org.wso2.andes.kernel.AndesRecoveryTask} -  Recovering node. Adding queue [A_Version_DataService] OW=null/X=false/Dtrue/LPT0 
+TID: [-1234] [] [2017-04-11 12:02:17,133]  INFO {org.wso2.andes.server.virtualhost.VirtualHostConfigSynchronizer} -  Queue sync - Added Queue: A_Version_DataService, Owner: null, IsExclusive: false, Arguments: null 
+TID: [-1234] [] [2017-04-11 12:02:17,134]  WARN {org.wso2.andes.kernel.AndesRecoveryTask} -  Recovering node. Adding queue [Informix_pl_city] OW=null/X=false/Dtrue/LPT0 
+TID: [-1234] [] [2017-04-11 12:02:17,145]  INFO {org.wso2.andes.server.virtualhost.VirtualHostConfigSynchronizer} -  Queue sync - Added Queue: Informix_pl_city, Owner: null, IsExclusive: false, Arguments: null 
+TID: [-1234] [] [2017-04-11 12:02:17,146]  WARN {org.wso2.andes.kernel.AndesRecoveryTask} -  Recovering node. Adding queue [App] OW=null/X=false/Dtrue/LPT0 
+TID: [-1234] [] [2017-04-11 12:02:17,154]  INFO {org.wso2.andes.server.virtualhost.VirtualHostConfigSynchronizer} -  Queue sync - Added Queue: App, Owner: null, IsExclusive: false, Arguments: null 
+TID: [-1234] [] [2017-04-11 12:02:17,155]  WARN {org.wso2.andes.kernel.AndesRecoveryTask} -  Recovering node. Adding queue [MerezhaQueue] OW=admin/X=false/Dtrue/LPT0 
+TID: [-1234] [] [2017-04-11 12:02:17,164]  INFO {org.wso2.andes.server.virtualhost.VirtualHostConfigSynchronizer} -  Queue sync - Added Queue: MerezhaQueue, Owner: admin, IsExclusive: false, Arguments: null 
+TID: [-1234] [] [2017-04-11 12:02:17,166]  WARN {org.wso2.andes.kernel.AndesRecoveryTask} -  Recovering node. Adding queue [MerezhaIndexesQueue] OW=admin/X=false/Dtrue/LPT0 
+TID: [-1234] [] [2017-04-11 12:02:17,181]  INFO {org.wso2.andes.server.virtualhost.VirtualHostConfigSynchronizer} -  Queue sync - Added Queue: MerezhaIndexesQueue, Owner: admin, IsExclusive: false, Arguments: null 
+TID: [-1234] [] [2017-04-11 12:02:17,183]  WARN {org.wso2.andes.kernel.AndesRecoveryTask} -  Recovering node. Adding queue [queueueue] OW=admin/X=false/Dtrue/LPT0 
+TID: [-1234] [] [2017-04-11 12:02:17,191]  INFO {org.wso2.andes.server.virtualhost.VirtualHostConfigSynchronizer} -  Queue sync - Added Queue: queueueue, Owner: admin, IsExclusive: false, Arguments: null 
+TID: [-1234] [] [2017-04-11 12:02:17,192]  WARN {org.wso2.andes.kernel.AndesRecoveryTask} -  Recovering node. Adding queue [MerezhaRegionOpzIndexQueue] OW=admin/X=false/Dtrue/LPT0 
+TID: [-1234] [] [2017-04-11 12:02:17,202]  INFO {org.wso2.andes.server.virtualhost.VirtualHostConfigSynchronizer} -  Queue sync - Added Queue: MerezhaRegionOpzIndexQueue, Owner: admin, IsExclusive: false, Arguments: null 
+TID: [-1234] [] [2017-04-11 12:02:17,203]  WARN {org.wso2.andes.kernel.AndesRecoveryTask} -  Recovering node. Adding queue [MerezhaAddressVzQueue] OW=admin/X=false/Dtrue/LPT0 
+TID: [-1234] [] [2017-04-11 12:02:17,211]  INFO {org.wso2.andes.server.virtualhost.VirtualHostConfigSynchronizer} -  Queue sync - Added Queue: MerezhaAddressVzQueue, Owner: admin, IsExclusive: false, Arguments: null 
+TID: [-1234] [] [2017-04-11 12:02:17,212]  WARN {org.wso2.andes.kernel.AndesRecoveryTask} -  Recovering node. Adding queue [LotusOfficeQueue] OW=admin/X=false/Dtrue/LPT0 
+TID: [-1234] [] [2017-04-11 12:02:17,222]  INFO {org.wso2.andes.server.virtualhost.VirtualHostConfigSynchronizer} -  Queue sync - Added Queue: LotusOfficeQueue, Owner: admin, IsExclusive: false, Arguments: null 
+TID: [-1234] [] [2017-04-11 12:02:17,223]  WARN {org.wso2.andes.kernel.AndesRecoveryTask} -  Recovering node. Adding queue [pl_city] OW=null/X=false/Dtrue/LPT0 
+TID: [-1234] [] [2017-04-11 12:02:17,232]  INFO {org.wso2.andes.server.virtualhost.VirtualHostConfigSynchronizer} -  Queue sync - Added Queue: pl_city, Owner: null, IsExclusive: false, Arguments: null 
+TID: [-1234] [] [2017-04-11 12:02:17,237]  WARN {org.wso2.andes.kernel.AndesRecoveryTask} -  Recovering node. Adding binding [Binding]E=amq.direct/Q=MyQueue/RK=MyQueue/D=true/EX=false 
+TID: [-1234] [] [2017-04-11 12:02:17,240]  INFO {org.wso2.andes.server.virtualhost.VirtualHostConfigSynchronizer} -  Binding Sync - Added  Binding: (Exchange: amq.direct, Queue: MyQueue, Routing Key: MyQueue, Arguments: null) 
+TID: [-1234] [] [2017-04-11 12:02:17,259]  WARN {org.wso2.andes.kernel.AndesRecoveryTask} -  Recovering node. Adding binding [Binding]E=amq.direct/Q=pl_city_DataService/RK=pl_city_DataService/D=true/EX=false 
+TID: [-1234] [] [2017-04-11 12:02:17,260]  INFO {org.wso2.andes.server.virtualhost.VirtualHostConfigSynchronizer} -  Binding Sync - Added  Binding: (Exchange: amq.direct, Queue: pl_city_DataService, Routing Key: pl_city_DataService, Arguments: null) 
+TID: [-1234] [] [2017-04-11 12:02:17,262]  WARN {org.wso2.andes.kernel.AndesRecoveryTask} -  Recovering node. Adding binding [Binding]E=amq.direct/Q=DBMereza_pl_city/RK=DBMereza_pl_city/D=true/EX=false 
+TID: [-1234] [] [2017-04-11 12:02:17,263]  INFO {org.wso2.andes.server.virtualhost.VirtualHostConfigSynchronizer} -  Binding Sync - Added  Binding: (Exchange: amq.direct, Queue: DBMereza_pl_city, Routing Key: DBMereza_pl_city, Arguments: null) 
+TID: [-1234] [] [2017-04-11 12:02:17,265]  WARN {org.wso2.andes.kernel.AndesRecoveryTask} -  Recovering node. Adding binding [Binding]E=amq.direct/Q=A_Version_DataService/RK=A_Version_DataService/D=true/EX=false 
+TID: [-1234] [] [2017-04-11 12:02:17,266]  INFO {org.wso2.andes.server.virtualhost.VirtualHostConfigSynchronizer} -  Binding Sync - Added  Binding: (Exchange: amq.direct, Queue: A_Version_DataService, Routing Key: A_Version_DataService, Arguments: null) 
+TID: [-1234] [] [2017-04-11 12:02:17,269]  WARN {org.wso2.andes.kernel.AndesRecoveryTask} -  Recovering node. Adding binding [Binding]E=amq.direct/Q=Informix_pl_city/RK=Informix_pl_city/D=true/EX=false 
+TID: [-1234] [] [2017-04-11 12:02:17,270]  INFO {org.wso2.andes.server.virtualhost.VirtualHostConfigSynchronizer} -  Binding Sync - Added  Binding: (Exchange: amq.direct, Queue: Informix_pl_city, Routing Key: Informix_pl_city, Arguments: null) 
+TID: [-1234] [] [2017-04-11 12:02:17,272]  WARN {org.wso2.andes.kernel.AndesRecoveryTask} -  Recovering node. Adding binding [Binding]E=amq.direct/Q=App/RK=App/D=true/EX=false 
+TID: [-1234] [] [2017-04-11 12:02:17,273]  INFO {org.wso2.andes.server.virtualhost.VirtualHostConfigSynchronizer} -  Binding Sync - Added  Binding: (Exchange: amq.direct, Queue: App, Routing Key: App, Arguments: null) 
+TID: [-1234] [] [2017-04-11 12:02:17,275]  WARN {org.wso2.andes.kernel.AndesRecoveryTask} -  Recovering node. Adding binding [Binding]E=amq.direct/Q=MerezhaQueue/RK=MerezhaQueue/D=true/EX=false 
+TID: [-1234] [] [2017-04-11 12:02:17,276]  INFO {org.wso2.andes.server.virtualhost.VirtualHostConfigSynchronizer} -  Binding Sync - Added  Binding: (Exchange: amq.direct, Queue: MerezhaQueue, Routing Key: MerezhaQueue, Arguments: null) 
+TID: [-1234] [] [2017-04-11 12:02:17,278]  WARN {org.wso2.andes.kernel.AndesRecoveryTask} -  Recovering node. Adding binding [Binding]E=amq.direct/Q=MerezhaIndexesQueue/RK=MerezhaIndexesQueue/D=true/EX=false 
+TID: [-1234] [] [2017-04-11 12:02:17,279]  INFO {org.wso2.andes.server.virtualhost.VirtualHostConfigSynchronizer} -  Binding Sync - Added  Binding: (Exchange: amq.direct, Queue: MerezhaIndexesQueue, Routing Key: MerezhaIndexesQueue, Arguments: null) 
+TID: [-1234] [] [2017-04-11 12:02:17,281]  WARN {org.wso2.andes.kernel.AndesRecoveryTask} -  Recovering node. Adding binding [Binding]E=amq.direct/Q=queueueue/RK=queueueue/D=true/EX=false 
+TID: [-1234] [] [2017-04-11 12:02:17,282]  INFO {org.wso2.andes.server.virtualhost.VirtualHostConfigSynchronizer} -  Binding Sync - Added  Binding: (Exchange: amq.direct, Queue: queueueue, Routing Key: queueueue, Arguments: null) 
+TID: [-1234] [] [2017-04-11 12:02:17,284]  WARN {org.wso2.andes.kernel.AndesRecoveryTask} -  Recovering node. Adding binding [Binding]E=amq.direct/Q=MerezhaRegionOpzIndexQueue/RK=MerezhaRegionOpzIndexQueue/D=true/EX=false 
+TID: [-1234] [] [2017-04-11 12:02:17,285]  INFO {org.wso2.andes.server.virtualhost.VirtualHostConfigSynchronizer} -  Binding Sync - Added  Binding: (Exchange: amq.direct, Queue: MerezhaRegionOpzIndexQueue, Routing Key: MerezhaRegionOpzIndexQueue, Arguments: null) 
+TID: [-1234] [] [2017-04-11 12:02:17,287]  WARN {org.wso2.andes.kernel.AndesRecoveryTask} -  Recovering node. Adding binding [Binding]E=amq.direct/Q=MerezhaAddressVzQueue/RK=MerezhaAddressVzQueue/D=true/EX=false 
+TID: [-1234] [] [2017-04-11 12:02:17,288]  INFO {org.wso2.andes.server.virtualhost.VirtualHostConfigSynchronizer} -  Binding Sync - Added  Binding: (Exchange: amq.direct, Queue: MerezhaAddressVzQueue, Routing Key: MerezhaAddressVzQueue, Arguments: null) 
+TID: [-1234] [] [2017-04-11 12:02:17,290]  WARN {org.wso2.andes.kernel.AndesRecoveryTask} -  Recovering node. Adding binding [Binding]E=amq.direct/Q=LotusOfficeQueue/RK=LotusOfficeQueue/D=true/EX=false 
+TID: [-1234] [] [2017-04-11 12:02:17,290]  INFO {org.wso2.andes.server.virtualhost.VirtualHostConfigSynchronizer} -  Binding Sync - Added  Binding: (Exchange: amq.direct, Queue: LotusOfficeQueue, Routing Key: LotusOfficeQueue, Arguments: null) 
+TID: [-1234] [] [2017-04-11 12:02:17,292]  WARN {org.wso2.andes.kernel.AndesRecoveryTask} -  Recovering node. Adding binding [Binding]E=amq.direct/Q=pl_city/RK=pl_city/D=true/EX=false 
+TID: [-1234] [] [2017-04-11 12:02:17,293]  INFO {org.wso2.andes.server.virtualhost.VirtualHostConfigSynchronizer} -  Binding Sync - Added  Binding: (Exchange: amq.direct, Queue: pl_city, Routing Key: pl_city, Arguments: null) 
+TID: [-1234] [] [2017-04-11 12:02:17,314]  INFO {org.wso2.andes.kernel.Andes} -  Starting Safe Zone Calculator for slots. 
+TID: [-1234] [] [2017-04-11 12:02:17,467]  INFO {qpid.message.broker.listening} -  [Broker] BRK-1002 : Starting : Listening on TCP port 5675 
+TID: [-1234] [] [2017-04-11 12:02:17,543]  INFO {qpid.message.broker.listening} -  [Broker] BRK-1002 : Starting : Listening on TCP/SSL port 8675 
+TID: [-1] [] [2017-04-11 12:02:17,562]  INFO {org.wso2.andes.kernel.MessagingEngine} -  Starting SlotDelivery Workers. 
+TID: [-1] [] [2017-04-11 12:02:17,565]  INFO {org.wso2.andes.kernel.MessagingEngine} -  Start Disruptor writing messages to store. 
+TID: [-1] [] [2017-04-11 12:02:17,862]  INFO {org.wso2.andes.mqtt.MQTTopicManager} -  MQTT andes connecting bridge initialized successfully 
+TID: [-1234] [] [2017-04-11 12:02:17,939]  INFO {org.dna.mqtt.moquette.server.netty.NettyAcceptor} -  Server binded host: 0.0.0.0, port: 1886 
+TID: [-1234] [] [2017-04-11 12:02:17,980]  INFO {org.dna.mqtt.moquette.server.netty.NettyAcceptor} -  Starting SSL on port 8886 
+TID: [-1234] [] [2017-04-11 12:02:17,987]  INFO {org.dna.mqtt.moquette.server.netty.NettyAcceptor} -  Server binded host: 0.0.0.0, port: 8886 
+TID: [-1234] [] [2017-04-11 12:02:18,035]  INFO {org.wso2.carbon.andes.internal.QpidServiceComponent} -  AMQP Host Address : 0.0.0.0 Port : 5675 
+TID: [-1234] [] [2017-04-11 12:02:18,036]  INFO {org.wso2.carbon.andes.internal.QpidServiceComponent} -  Successfully connected to AMQP server on port 5675 
+TID: [-1234] [] [2017-04-11 12:02:18,054]  INFO {org.wso2.carbon.andes.internal.QpidServiceComponent} -  MQTT Host Address : 0.0.0.0 Port : 1886 
+TID: [-1234] [] [2017-04-11 12:02:18,055]  INFO {org.wso2.carbon.andes.internal.QpidServiceComponent} -  Successfully connected to MQTT server on port 1886 
+TID: [-1234] [] [2017-04-11 12:02:18,056]  INFO {org.wso2.carbon.andes.internal.QpidServiceComponent} -  WSO2 Message Broker is started. 
+TID: [-1234] [] [2017-04-11 12:02:19,858]  INFO {org.wso2.carbon.core.transports.http.HttpTransportListener} -  HTTP port        : 9766 
+TID: [-1234] [] [2017-04-11 12:02:19,859]  INFO {org.wso2.carbon.core.transports.http.HttpsTransportListener} -  HTTPS port       : 9446 
+TID: [-1234] [] [2017-04-11 12:02:19,888]  INFO {org.wso2.carbon.core.deployment.DeploymentInterceptor} -  Deploying Axis2 service: echo {super-tenant} 
+TID: [-1234] [] [2017-04-11 12:02:19,890]  INFO {org.apache.axis2.deployment.DeploymentEngine} -  Deploying Web service: Echo.aar - file:/opt/eii-m-a/wso2/broker/repository/deployment/server/axis2services/Echo.aar 
+TID: [-1234] [] [2017-04-11 12:02:19,906]  INFO {org.wso2.carbon.core.deployment.DeploymentInterceptor} -  Deploying Axis2 service: Version {super-tenant} 
+TID: [-1234] [] [2017-04-11 12:02:19,907]  INFO {org.apache.axis2.deployment.DeploymentEngine} -  Deploying Web service: Version.aar - file:/opt/eii-m-a/wso2/broker/repository/deployment/server/axis2services/Version.aar 
+TID: [-1234] [] [2017-04-11 12:02:19,927]  INFO {org.apache.tomcat.util.net.NioSelectorPool} -  Using a shared selector for servlet write/read 
+TID: [-1234] [] [2017-04-11 12:02:20,002]  INFO {org.apache.tomcat.util.net.NioSelectorPool} -  Using a shared selector for servlet write/read 
+TID: [-1234] [] [2017-04-11 12:02:20,125]  INFO {org.wso2.carbon.core.init.JMXServerManager} -  JMX Service URL  : service:jmx:rmi://localhost:11114/jndi/rmi://localhost:10002/jmxrmi 
+TID: [-1234] [] [2017-04-11 12:02:20,126]  INFO {org.wso2.carbon.core.internal.StartupFinalizerServiceComponent} -  Server           :  WSO2 Message Broker-3.1.0 
+TID: [-1234] [] [2017-04-11 12:02:20,127]  INFO {org.wso2.carbon.core.internal.StartupFinalizerServiceComponent} -  WSO2 Carbon started in 71 sec 
+TID: [-1234] [] [2017-04-11 12:02:20,589]  INFO {org.wso2.carbon.ui.internal.CarbonUIServiceComponent} -  Mgt Console URL  : https://10.49.40.202:9446/carbon/ 
+TID: [-1] [] [2017-04-11 12:07:34,809]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  SASL Mechanism selected: PLAIN 
+TID: [-1] [] [2017-04-11 12:07:34,810]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Locale selected: en_US 
+TID: [-1234] [] [2017-04-11 12:07:34,878]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Connected as: jndi_user 
+TID: [-1234] [] [2017-04-11 12:07:34,880]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Framesize set to 65535 
+TID: [-1] [] [2017-04-11 12:07:35,294]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  SASL Mechanism selected: PLAIN 
+TID: [-1] [] [2017-04-11 12:07:35,295]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Locale selected: en_US 
+TID: [-1234] [] [2017-04-11 12:07:35,299]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Connected as: jndi_user 
+TID: [-1234] [] [2017-04-11 12:07:35,300]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Framesize set to 65535 
+TID: [-1234] [] [2017-04-11 12:07:35,582]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  SASL Mechanism selected: PLAIN 
+TID: [-1234] [] [2017-04-11 12:07:35,583]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Locale selected: en_US 
+TID: [-1234] [] [2017-04-11 12:07:35,588]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Connected as: jndi_user 
+TID: [-1234] [] [2017-04-11 12:07:35,589]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Framesize set to 65535 
+TID: [-1234] [] [2017-04-11 12:07:35,889]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  SASL Mechanism selected: PLAIN 
+TID: [-1234] [] [2017-04-11 12:07:35,890]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Locale selected: en_US 
+TID: [-1234] [] [2017-04-11 12:07:35,894]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Connected as: jndi_user 
+TID: [-1234] [] [2017-04-11 12:07:35,895]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Framesize set to 65535 
+TID: [-1234] [] [2017-04-11 12:07:36,168]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  SASL Mechanism selected: PLAIN 
+TID: [-1234] [] [2017-04-11 12:07:36,168]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Locale selected: en_US 
+TID: [-1234] [] [2017-04-11 12:07:36,173]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Connected as: jndi_user 
+TID: [-1234] [] [2017-04-11 12:07:36,174]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Framesize set to 65535 
+TID: [-1] [] [2017-04-11 12:07:36,536]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  SASL Mechanism selected: PLAIN 
+TID: [-1] [] [2017-04-11 12:07:36,537]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Locale selected: en_US 
+TID: [-1234] [] [2017-04-11 12:07:36,541]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Connected as: jndi_user 
+TID: [-1234] [] [2017-04-11 12:07:36,542]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Framesize set to 65535 
+TID: [-1] [] [2017-04-11 12:17:16,979]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-04-11 12:32:16,979]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-04-11 12:47:16,979]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-04-11 13:02:16,983]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1234] [] [2017-04-11 13:15:05,155]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  SASL Mechanism selected: PLAIN 
+TID: [-1234] [] [2017-04-11 13:15:05,155]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Locale selected: en_US 
+TID: [-1234] [] [2017-04-11 13:15:05,162]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Connected as: jndi_user 
+TID: [-1234] [] [2017-04-11 13:15:05,163]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Framesize set to 65535 
+TID: [-1234] [] [2017-04-11 13:15:05,546]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  SASL Mechanism selected: PLAIN 
+TID: [-1234] [] [2017-04-11 13:15:05,548]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Locale selected: en_US 
+TID: [-1234] [] [2017-04-11 13:15:05,551]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Connected as: jndi_user 
+TID: [-1234] [] [2017-04-11 13:15:05,552]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Framesize set to 65535 
+TID: [-1234] [] [2017-04-11 13:15:05,847]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  SASL Mechanism selected: PLAIN 
+TID: [-1234] [] [2017-04-11 13:15:05,848]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Locale selected: en_US 
+TID: [-1234] [] [2017-04-11 13:15:05,851]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Connected as: jndi_user 
+TID: [-1234] [] [2017-04-11 13:15:05,851]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Framesize set to 65535 
+TID: [-1234] [] [2017-04-11 13:15:06,160]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  SASL Mechanism selected: PLAIN 
+TID: [-1234] [] [2017-04-11 13:15:06,161]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Locale selected: en_US 
+TID: [-1234] [] [2017-04-11 13:15:06,165]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Connected as: jndi_user 
+TID: [-1234] [] [2017-04-11 13:15:06,165]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Framesize set to 65535 
+TID: [-1234] [] [2017-04-11 13:15:06,419]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  SASL Mechanism selected: PLAIN 
+TID: [-1234] [] [2017-04-11 13:15:06,420]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Locale selected: en_US 
+TID: [-1234] [] [2017-04-11 13:15:06,423]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Connected as: jndi_user 
+TID: [-1234] [] [2017-04-11 13:15:06,423]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Framesize set to 65535 
+TID: [-1234] [] [2017-04-11 13:15:06,756]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  SASL Mechanism selected: PLAIN 
+TID: [-1234] [] [2017-04-11 13:15:06,756]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Locale selected: en_US 
+TID: [-1234] [] [2017-04-11 13:15:06,763]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Connected as: jndi_user 
+TID: [-1234] [] [2017-04-11 13:15:06,764]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Framesize set to 65535 
+TID: [-1] [] [2017-04-11 13:17:16,979]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1234] [] [2017-04-11 13:30:09,187]  INFO {org.wso2.andes.server.handler.ConnectionCloseMethodHandler} -  ConnectionClose received with reply code/reply text 200/JMS client is closing the connection. for /10.49.40.202:43656(jndi_user) 
+TID: [-1] [] [2017-04-11 13:30:10,352]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  SASL Mechanism selected: PLAIN 
+TID: [-1] [] [2017-04-11 13:30:10,353]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Locale selected: en_US 
+TID: [-1234] [] [2017-04-11 13:30:10,356]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Connected as: jndi_user 
+TID: [-1234] [] [2017-04-11 13:30:10,357]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Framesize set to 65535 
+TID: [-1] [] [2017-04-11 13:32:16,979]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1234] [] [2017-04-11 13:38:11,965]  INFO {org.wso2.andes.server.handler.ConnectionCloseMethodHandler} -  ConnectionClose received with reply code/reply text 200/JMS client is closing the connection. for /10.49.40.202:43910(jndi_user) 
+TID: [-1234] [] [2017-04-11 13:38:13,125]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  SASL Mechanism selected: PLAIN 
+TID: [-1234] [] [2017-04-11 13:38:13,126]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Locale selected: en_US 
+TID: [-1234] [] [2017-04-11 13:38:13,129]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Connected as: jndi_user 
+TID: [-1234] [] [2017-04-11 13:38:13,129]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Framesize set to 65535 
+TID: [-1234] [] [2017-04-11 13:41:29,711]  INFO {org.wso2.andes.server.handler.ConnectionCloseMethodHandler} -  ConnectionClose received with reply code/reply text 200/JMS client is closing the connection. for /10.49.40.202:44040(jndi_user) 
+TID: [-1234] [] [2017-04-11 13:41:30,824]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  SASL Mechanism selected: PLAIN 
+TID: [-1234] [] [2017-04-11 13:41:30,825]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Locale selected: en_US 
+TID: [-1234] [] [2017-04-11 13:41:30,828]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Connected as: jndi_user 
+TID: [-1234] [] [2017-04-11 13:41:30,828]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Framesize set to 65535 
+TID: [-1] [] [2017-04-11 13:47:16,979]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-04-11 14:02:16,979]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-04-11 14:17:16,979]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1234] [] [2017-04-11 14:26:52,558]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  SASL Mechanism selected: PLAIN 
+TID: [-1234] [] [2017-04-11 14:26:52,559]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Locale selected: en_US 
+TID: [-1234] [] [2017-04-11 14:26:52,563]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Connected as: jndi_user 
+TID: [-1234] [] [2017-04-11 14:26:52,564]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Framesize set to 65535 
+TID: [-1234] [] [2017-04-11 14:26:53,012]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  SASL Mechanism selected: PLAIN 
+TID: [-1234] [] [2017-04-11 14:26:53,013]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Locale selected: en_US 
+TID: [-1234] [] [2017-04-11 14:26:53,017]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Connected as: jndi_user 
+TID: [-1234] [] [2017-04-11 14:26:53,018]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Framesize set to 65535 
+TID: [-1234] [] [2017-04-11 14:26:53,324]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  SASL Mechanism selected: PLAIN 
+TID: [-1234] [] [2017-04-11 14:26:53,325]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Locale selected: en_US 
+TID: [-1234] [] [2017-04-11 14:26:53,328]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Connected as: jndi_user 
+TID: [-1234] [] [2017-04-11 14:26:53,329]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Framesize set to 65535 
+TID: [-1234] [] [2017-04-11 14:26:53,664]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  SASL Mechanism selected: PLAIN 
+TID: [-1234] [] [2017-04-11 14:26:53,665]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Locale selected: en_US 
+TID: [-1234] [] [2017-04-11 14:26:53,667]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Connected as: jndi_user 
+TID: [-1234] [] [2017-04-11 14:26:53,669]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Framesize set to 65535 
+TID: [-1234] [] [2017-04-11 14:26:53,964]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  SASL Mechanism selected: PLAIN 
+TID: [-1234] [] [2017-04-11 14:26:53,965]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Locale selected: en_US 
+TID: [-1234] [] [2017-04-11 14:26:53,967]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Connected as: jndi_user 
+TID: [-1234] [] [2017-04-11 14:26:53,968]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Framesize set to 65535 
+TID: [-1234] [] [2017-04-11 14:26:54,357]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  SASL Mechanism selected: PLAIN 
+TID: [-1234] [] [2017-04-11 14:26:54,358]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Locale selected: en_US 
+TID: [-1234] [] [2017-04-11 14:26:54,361]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Connected as: jndi_user 
+TID: [-1234] [] [2017-04-11 14:26:54,361]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Framesize set to 65535 
+TID: [-1] [] [2017-04-11 14:32:16,979]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-04-11 14:47:16,996]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-04-11 15:02:16,979]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-04-11 15:17:16,979]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-04-11 15:32:16,979]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1234] [] [2017-04-11 15:37:08,971]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  SASL Mechanism selected: PLAIN 
+TID: [-1234] [] [2017-04-11 15:37:08,972]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Locale selected: en_US 
+TID: [-1234] [] [2017-04-11 15:37:08,983]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Connected as: jndi_user 
+TID: [-1234] [] [2017-04-11 15:37:08,984]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Framesize set to 65535 
+TID: [-1234] [] [2017-04-11 15:37:09,664]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  SASL Mechanism selected: PLAIN 
+TID: [-1234] [] [2017-04-11 15:37:09,665]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Locale selected: en_US 
+TID: [-1234] [] [2017-04-11 15:37:09,669]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Connected as: jndi_user 
+TID: [-1234] [] [2017-04-11 15:37:09,670]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Framesize set to 65535 
+TID: [-1234] [] [2017-04-11 15:37:10,267]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  SASL Mechanism selected: PLAIN 
+TID: [-1234] [] [2017-04-11 15:37:10,268]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Locale selected: en_US 
+TID: [-1234] [] [2017-04-11 15:37:10,272]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Connected as: jndi_user 
+TID: [-1234] [] [2017-04-11 15:37:10,273]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Framesize set to 65535 
+TID: [-1234] [] [2017-04-11 15:37:10,687]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  SASL Mechanism selected: PLAIN 
+TID: [-1234] [] [2017-04-11 15:37:10,688]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Locale selected: en_US 
+TID: [-1234] [] [2017-04-11 15:37:10,691]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Connected as: jndi_user 
+TID: [-1234] [] [2017-04-11 15:37:10,692]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Framesize set to 65535 
+TID: [-1234] [] [2017-04-11 15:37:11,048]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  SASL Mechanism selected: PLAIN 
+TID: [-1234] [] [2017-04-11 15:37:11,049]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Locale selected: en_US 
+TID: [-1234] [] [2017-04-11 15:37:11,052]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Connected as: jndi_user 
+TID: [-1234] [] [2017-04-11 15:37:11,052]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Framesize set to 65535 
+TID: [-1234] [] [2017-04-11 15:37:11,646]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  SASL Mechanism selected: PLAIN 
+TID: [-1234] [] [2017-04-11 15:37:11,647]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Locale selected: en_US 
+TID: [-1234] [] [2017-04-11 15:37:11,649]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Connected as: jndi_user 
+TID: [-1234] [] [2017-04-11 15:37:11,650]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Framesize set to 65535 
+TID: [-1] [] [2017-04-11 15:47:16,979]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-04-11 16:02:16,979]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-04-11 16:17:16,979]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-04-11 16:32:16,979]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-04-11 16:47:16,979]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1234] [] [2017-04-11 16:58:50,725]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  SASL Mechanism selected: PLAIN 
+TID: [-1234] [] [2017-04-11 16:58:50,726]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Locale selected: en_US 
+TID: [-1234] [] [2017-04-11 16:58:50,729]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Connected as: jndi_user 
+TID: [-1234] [] [2017-04-11 16:58:50,730]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Framesize set to 65535 
+TID: [-1234] [] [2017-04-11 16:58:51,197]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  SASL Mechanism selected: PLAIN 
+TID: [-1234] [] [2017-04-11 16:58:51,198]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Locale selected: en_US 
+TID: [-1234] [] [2017-04-11 16:58:51,200]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Connected as: jndi_user 
+TID: [-1234] [] [2017-04-11 16:58:51,201]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Framesize set to 65535 
+TID: [-1234] [] [2017-04-11 16:58:51,571]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  SASL Mechanism selected: PLAIN 
+TID: [-1234] [] [2017-04-11 16:58:51,572]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Locale selected: en_US 
+TID: [-1234] [] [2017-04-11 16:58:51,576]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Connected as: jndi_user 
+TID: [-1234] [] [2017-04-11 16:58:51,577]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Framesize set to 65535 
+TID: [-1234] [] [2017-04-11 16:58:51,998]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  SASL Mechanism selected: PLAIN 
+TID: [-1234] [] [2017-04-11 16:58:51,999]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Locale selected: en_US 
+TID: [-1234] [] [2017-04-11 16:58:52,002]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Connected as: jndi_user 
+TID: [-1234] [] [2017-04-11 16:58:52,002]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Framesize set to 65535 
+TID: [-1234] [] [2017-04-11 16:58:52,371]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  SASL Mechanism selected: PLAIN 
+TID: [-1234] [] [2017-04-11 16:58:52,372]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Locale selected: en_US 
+TID: [-1234] [] [2017-04-11 16:58:52,374]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Connected as: jndi_user 
+TID: [-1234] [] [2017-04-11 16:58:52,375]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Framesize set to 65535 
+TID: [-1234] [] [2017-04-11 16:58:52,755]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  SASL Mechanism selected: PLAIN 
+TID: [-1234] [] [2017-04-11 16:58:52,755]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Locale selected: en_US 
+TID: [-1234] [] [2017-04-11 16:58:52,758]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Connected as: jndi_user 
+TID: [-1234] [] [2017-04-11 16:58:52,759]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Framesize set to 65535 
+TID: [-1] [] [2017-04-11 17:02:16,979]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-04-11 17:17:16,979]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-04-11 17:32:16,982]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1234] [] [2017-04-11 17:34:18,001]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  SASL Mechanism selected: PLAIN 
+TID: [-1234] [] [2017-04-11 17:34:18,002]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Locale selected: en_US 
+TID: [-1234] [] [2017-04-11 17:34:18,006]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Connected as: jndi_user 
+TID: [-1234] [] [2017-04-11 17:34:18,007]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Framesize set to 65535 
+TID: [-1234] [] [2017-04-11 17:34:18,821]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  SASL Mechanism selected: PLAIN 
+TID: [-1234] [] [2017-04-11 17:34:18,822]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Locale selected: en_US 
+TID: [-1234] [] [2017-04-11 17:34:18,825]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Connected as: jndi_user 
+TID: [-1234] [] [2017-04-11 17:34:18,827]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Framesize set to 65535 
+TID: [-1234] [] [2017-04-11 17:34:19,392]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  SASL Mechanism selected: PLAIN 
+TID: [-1234] [] [2017-04-11 17:34:19,393]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Locale selected: en_US 
+TID: [-1234] [] [2017-04-11 17:34:19,396]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Connected as: jndi_user 
+TID: [-1234] [] [2017-04-11 17:34:19,397]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Framesize set to 65535 
+TID: [-1234] [] [2017-04-11 17:34:19,973]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  SASL Mechanism selected: PLAIN 
+TID: [-1234] [] [2017-04-11 17:34:19,973]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Locale selected: en_US 
+TID: [-1234] [] [2017-04-11 17:34:19,986]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Connected as: jndi_user 
+TID: [-1234] [] [2017-04-11 17:34:19,987]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Framesize set to 65535 
+TID: [-1234] [] [2017-04-11 17:34:20,629]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  SASL Mechanism selected: PLAIN 
+TID: [-1234] [] [2017-04-11 17:34:20,630]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Locale selected: en_US 
+TID: [-1234] [] [2017-04-11 17:34:20,632]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Connected as: jndi_user 
+TID: [-1234] [] [2017-04-11 17:34:20,633]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Framesize set to 65535 
+TID: [-1234] [] [2017-04-11 17:34:21,406]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  SASL Mechanism selected: PLAIN 
+TID: [-1234] [] [2017-04-11 17:34:21,456]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Locale selected: en_US 
+TID: [-1234] [] [2017-04-11 17:34:21,472]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Connected as: jndi_user 
+TID: [-1234] [] [2017-04-11 17:34:21,473]  INFO {org.wso2.andes.server.handler.ConnectionStartOkMethodHandler} -  Framesize set to 65535 
+TID: [-1234] [] [2017-04-11 17:39:54,285]  INFO {org.wso2.andes.server.handler.ConnectionCloseMethodHandler} -  ConnectionClose received with reply code/reply text 200/JMS client is closing the connection. for /10.49.40.202:47940(jndi_user) 
+TID: [-1] [] [2017-04-11 17:47:16,979]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-04-11 18:02:16,979]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-04-11 18:17:16,979]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-04-11 18:32:16,979]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-04-11 18:47:16,979]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-04-11 19:02:16,979]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-04-11 19:17:16,979]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-04-11 19:32:16,980]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-04-11 19:47:16,979]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-04-11 20:02:16,979]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-04-11 20:17:16,979]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-04-11 20:32:16,979]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-04-11 20:47:16,979]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-04-11 21:02:17,532]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-04-11 21:17:16,979]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-04-11 21:32:16,979]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-04-11 21:47:16,979]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-04-11 22:02:16,979]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-04-11 22:17:16,979]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-04-11 22:32:16,979]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-04-11 22:47:16,979]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-04-11 23:02:16,980]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-04-11 23:17:16,979]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-04-11 23:32:16,979]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 
+TID: [-1] [] [2017-04-11 23:47:16,979]  INFO {org.wso2.andes.kernel.AndesRecoveryTask} -  Running DB sync task. 

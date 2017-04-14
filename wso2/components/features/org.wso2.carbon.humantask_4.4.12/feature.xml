@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<feature id="org.wso2.carbon.humantask" label="WSO2 Carbon - HumanTask Feature" provider-name="%providerName" version="4.4.12">
+  <description>This feature contains the bundles required for HumanTask functionality</description>
+  <copyright>%copyright</copyright>
+  <license url="%licenseURL">%license</license>
+  <require>
+    <import feature="org.wso2.carbon.core" match="equivalent" version="4.4.12"/>
+  </require>
+  <includes id="org.wso2.carbon.humantask.server" optional="false" version="4.4.12"/>
+  <includes id="org.wso2.carbon.humantask.ui" optional="false" version="4.4.12"/>
+</feature>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<feature id="org.wso2.carbon.analytics.activitydashboard" label="WSO2 Carbon - Analytics Activity Dashboard Aggregate Feature" provider-name="%providerName" version="1.3.5">
+  <description>This feature is a aggregateFunction feature of both activity dashboard server and UI features.</description>
+  <copyright>%copyright</copyright>
+  <license url="%licenseURL">%license</license>
+  <require>
+    <import feature="org.wso2.carbon.core" match="equivalent" version="4.4.9"/>
+  </require>
+  <includes id="org.wso2.carbon.analytics.activitydashboard.server" optional="false" version="1.3.5"/>
+  <includes id="org.wso2.carbon.analytics.activitydashboard.ui" optional="false" version="1.3.5"/>
+</feature>

@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config transient="false" date="1487589427586">
+	<site enabled="true" updateable="true" policy="USER-EXCLUDE" url="platform:/base/">
+		<feature id="org.wso2.carbon.ndatasource" url="features/org.wso2.carbon.ndatasource_4.5.8/" version="4.5.8">
+		</feature>
+		<feature id="org.wso2.carbon.databridge.agent.server" url="features/org.wso2.carbon.databridge.agent.server_5.1.3/" version="5.1.3">
+		</feature>
+		<feature id="org.wso2.carbon.registry.resource.properties.ui" url="features/org.wso2.carbon.registry.resource.properties.ui_4.6.0/" version="4.6.0">
+		</feature>
+		<feature id="org.wso2.carbon.wsdl.tools.ui" url="features/org.wso2.carbon.wsdl.tools.ui_4.5.8/" version="4.5.8">
+		</feature>
+		<feature id="org.apache.axis2.transport.jms" url="features/org.apache.axis2.transport.jms_2.0.0.wso2v1/" version="2.0.0.wso2v1">
+		</feature>
+		<feature id="org.wso2.carbon.event.common" url="features/org.wso2.carbon.event.common_4.5.8/" version="4.5.8">
+		</feature>
+		<feature id="org.wso2.carbon.deployment.synchronizer.git" url="features/org.wso2.carbon.deployment.synchronizer.git_4.5.8/" version="4.5.8">
+		</feature>
+		<feature id="org.wso2.carbon.bpel" url="features/org.wso2.carbon.bpel_4.4.12/" version="4.4.12">
+		</feature>
+		<feature id="org.wso2.carbon.tryit" url="features/org.wso2.carbon.tryit_4.5.8/" version="4.5.8">
+		</feature>
+		<feature id="org.wso2.carbon.humantask.server" url="features/org.wso2.carbon.humantask.server_4.4.12/" version="4.4.12">
+		</feature>
+		<feature id="org.wso2.carbon.sts" url="features/org.wso2.carbon.sts_5.2.1/" version="5.2.1">
+		</feature>
+		<feature id="org.wso2.carbon.system.statistics.server" url="features/org.wso2.carbon.system.statistics.server_4.5.8/" version="4.5.8">
+		</feature>
+		<feature id="org.wso2.carbon.bpmn.ui" url="features/org.wso2.carbon.bpmn.ui_4.4.12/" version="4.4.12">
+		</feature>
+		<feature id="org.wso2.carbon.bpmn" url="features/org.wso2.carbon.bpmn_4.4.12/" version="4.4.12">
+		</feature>
+		<feature id="org.wso2.carbon.tenant.mgt.common" url="features/org.wso2.carbon.tenant.mgt.common_4.5.8/" version="4.5.8">
+		</feature>
+		<feature id="org.wso2.carbon.registry.associations.dependencies" url="features/org.wso2.carbon.registry.associations.dependencies_4.6.0/" version="4.6.0">
+		</feature>
+		<feature id="org.wso2.carbon.tenant.common.ui" url="features/org.wso2.carbon.tenant.common.ui_4.6.0/" version="4.6.0">
+		</feature>
+		<feature id="org.jaggeryjs.ui" url="features/org.jaggeryjs.ui_0.12.8/" version="0.12.8">
+		</feature>
+		<feature id="org.wso2.carbon.attachment.mgt.server" url="features/org.wso2.carbon.attachment.mgt.server_4.4.12/" version="4.4.12">
+		</feature>
+		<feature id="org.wso2.carbon.tenant.common.server" url="features/org.wso2.carbon.tenant.common.server_4.6.0/" version="4.6.0">
+		</feature>
+		<feature id="org.wso2.carbon.identity.authenticator.saml2.sso.server" url="features/org.wso2.carbon.identity.authenticator.saml2.sso.server_5.2.0/" version="5.2.0">
+		</feature>
+		<feature id="org.wso2.carbon.application.mgt.server" url="features/org.wso2.carbon.application.mgt.server_4.5.8/" version="4.5.8">
+		</feature>
+		<feature id="org.wso2.carbon.module.mgt" url="features/org.wso2.carbon.module.mgt_4.7.3/" version="4.7.3">
+		</feature>
+		<feature id="org.wso2.carbon.core.ui" url="features/org.wso2.carbon.core.ui_4.4.14/" version="4.4.14">
+		</feature>
+		<feature id="org.wso2.carbon.user.mgt" url="features/org.wso2.carbon.user.mgt_5.7.5/" version="5.7.5">
+		</feature>
+		<feature id="org.wso2.carbon.wsdl.tools" url="features/org.wso2.carbon.wsdl.tools_4.5.8/" version="4.5.8">
+		</feature>
+		<feature id="org.wso2.carbon.databridge.commons.thrift.server" url="features/org.wso2.carbon.databridge.commons.thrift.server_5.1.3/" version="5.1.3">
+		</feature>
+		<feature id="org.wso2.carbon.humantask.ui" url="features/org.wso2.carbon.humantask.ui_4.4.12/" version="4.4.12">
+		</feature>
+		<feature id="org.wso2.carbon.core.server" url="features/org.wso2.carbon.core.server_4.4.14/" version="4.4.14">
+		</feature>
+		<feature id="org.wso2.carbon.ntask.core" url="features/org.wso2.carbon.ntask.core_4.5.8/" version="4.5.8">
+		</feature>
+		<feature id="org.wso2.carbon.registry.associations.dependencies.server" url="features/org.wso2.carbon.registry.associations.dependencies.server_4.6.0/" version="4.6.0">
+		</feature>
+		<feature id="org.wso2.carbon.registry.core.common" url="features/org.wso2.carbon.registry.core.common_4.6.0/" version="4.6.0">
+		</feature>
+		<feature id="org.wso2.carbon.bpel.analytics.publisher" url="features/org.wso2.carbon.bpel.analytics.publisher_4.4.12/" version="4.4.12">
+		</feature>
+		<feature id="org.wso2.carbon.tryit.server" url="features/org.wso2.carbon.tryit.server_4.5.8/" version="4.5.8">
+		</feature>
+		<feature id="org.wso2.carbon.bpmn.analytics.publisher" url="features/org.wso2.carbon.bpmn.analytics.publisher_4.4.12/" version="4.4.12">
+		</feature>
+		<feature id="org.wso2.carbon.application.mgt.bpel" url="features/org.wso2.carbon.application.mgt.bpel_4.4.12/" version="4.4.12">
+		</feature>
+		<feature id="org.wso2.carbon.service.mgt.ui" url="features/org.wso2.carbon.service.mgt.ui_4.7.3/" version="4.7.3">
+		</feature>
+		<feature id="org.wso2.carbon.registry.core.ui" url="features/org.wso2.carbon.registry.core.ui_4.6.0/" version="4.6.0">
+		</feature>
+		<feature id="org.wso2.carbon.tenant.mgt.common.ui" url="features/org.wso2.carbon.tenant.mgt.common.ui_4.5.8/" version="4.5.8">
+		</feature>
+		<feature id="org.wso2.carbon.registry.associations.dependencies.ui" url="features/org.wso2.carbon.registry.associations.dependencies.ui_4.6.0/" version="4.6.0">
+		</feature>
+		<feature id="org.wso2.ei.business-process.styles" url="features/org.wso2.ei.business-process.styles_6.0.0/" version="6.0.0">
+		</feature>
+		<feature id="org.wso2.carbon.registry.resource.properties.server" url="features/org.wso2.carbon.registry.resource.properties.server_4.6.0/" version="4.6.0">
+		</feature>
+		<feature id="org.wso2.carbon.security.mgt" url="features/org.wso2.carbon.security.mgt_5.7.5/" version="5.7.5">
+		</feature>
+		<feature id="org.wso2.carbon.system.statistics.ui" url="features/org.wso2.carbon.system.statistics.ui_4.5.8/" version="4.5.8">
+		</feature>
+		<feature id="org.wso2.carbon.application.mgt.humantask.server" url="features/org.wso2.carbon.application.mgt.humantask.server_4.4.12/" version="4.4.12">
+		</feature>
+		<feature id="org.wso2.carbon.wsdl.tools.server" url="features/org.wso2.carbon.wsdl.tools.server_4.5.8/" version="4.5.8">
+		</feature>
+		<feature id="org.wso2.carbon.service.mgt" url="features/org.wso2.carbon.service.mgt_4.7.3/" version="4.7.3">
+		</feature>
+		<feature id="org.wso2.carbon.security.mgt.ui" url="features/org.wso2.carbon.security.mgt.ui_5.7.5/" version="5.7.5">
+		</feature>
+		<feature id="org.wso2.carbon.as.runtimes.cxf" url="features/org.wso2.carbon.as.runtimes.cxf_4.7.3/" version="4.7.3">
+		</feature>
+		<feature id="org.wso2.carbon.identity.authenticator.saml2.sso" url="features/org.wso2.carbon.identity.authenticator.saml2.sso_5.2.0/" version="5.2.0">
+		</feature>
+		<feature id="org.wso2.carbon.application.mgt.humantask.ui" url="features/org.wso2.carbon.application.mgt.humantask.ui_4.4.12/" version="4.4.12">
+		</feature>
+		<feature id="org.wso2.carbon.deployment.synchronizer.subversion" url="features/org.wso2.carbon.deployment.synchronizer.subversion_4.5.8/" version="4.5.8">
+		</feature>
+		<feature id="org.wso2.carbon.bpel.ui" url="features/org.wso2.carbon.bpel.ui_4.4.12/" version="4.4.12">
+		</feature>
+		<feature id="org.wso2.carbon.service.mgt.server" url="features/org.wso2.carbon.service.mgt.server_4.7.3/" version="4.7.3">
+		</feature>
+		<feature id="org.wso2.carbon.core.runtime" url="features/org.wso2.carbon.core.runtime_4.4.14/" version="4.4.14">
+		</feature>
+		<feature id="org.wso2.carbon.registry.core.server" url="features/org.wso2.carbon.registry.core.server_4.6.0/" version="4.6.0">
+		</feature>
+		<feature id="org.wso2.carbon.databridge.commons.binary.server" url="features/org.wso2.carbon.databridge.commons.binary.server_5.1.3/" version="5.1.3">
+		</feature>
+		<feature id="org.wso2.carbon.application.deployer.humantask" url="features/org.wso2.carbon.application.deployer.humantask_4.4.12/" version="4.4.12">
+		</feature>
+		<feature id="org.wso2.carbon.ndatasource.ui" url="features/org.wso2.carbon.ndatasource.ui_4.5.8/" version="4.5.8">
+		</feature>
+		<feature id="org.wso2.carbon.tenant.deployment" url="features/org.wso2.carbon.tenant.deployment_4.6.0/" version="4.6.0">
+		</feature>
+		<feature id="org.jaggeryjs.modules.i18n" url="features/org.jaggeryjs.modules.i18n_1.5.5/" version="1.5.5">
+		</feature>
+		<feature id="org.wso2.carbon.ndatasource.datasources" url="features/org.wso2.carbon.ndatasource.datasources_4.5.8/" version="4.5.8">
+		</feature>
+		<feature id="org.jaggeryjs" url="features/org.jaggeryjs_0.12.8/" version="0.12.8">
+		</feature>
+		<feature id="org.wso2.carbon.tenant.mgt.common.server" url="features/org.wso2.carbon.tenant.mgt.common.server_4.5.8/" version="4.5.8">
+		</feature>
+		<feature id="org.wso2.carbon.user.mgt.ui" url="features/org.wso2.carbon.user.mgt.ui_5.7.5/" version="5.7.5">
+		</feature>
+		<feature id="org.wso2.carbon.tenant.common" url="features/org.wso2.carbon.tenant.common_4.6.0/" version="4.6.0">
+		</feature>
+		<feature id="org.wso2.carbon.sts.ui" url="features/org.wso2.carbon.sts.ui_5.2.1/" version="5.2.1">
+		</feature>
+		<feature id="org.wso2.bps.multitenancy.dashboard.ui" url="features/org.wso2.bps.multitenancy.dashboard.ui_3.5.1/" version="3.5.1">
+		</feature>
+		<feature id="org.wso2.carbon.identity.core.ui" url="features/org.wso2.carbon.identity.core.ui_5.7.5/" version="5.7.5">
+		</feature>
+		<feature id="org.wso2.carbon.deployment.synchronizer.server" url="features/org.wso2.carbon.deployment.synchronizer.server_4.5.8/" version="4.5.8">
+		</feature>
+		<feature id="org.wso2.carbon.ntask" url="features/org.wso2.carbon.ntask_4.5.8/" version="4.5.8">
+		</feature>
+		<feature id="org.wso2.carbon.module.mgt.ui" url="features/org.wso2.carbon.module.mgt.ui_4.7.3/" version="4.7.3">
+		</feature>
+		<feature id="org.wso2.carbon.tryit.ui" url="features/org.wso2.carbon.tryit.ui_4.5.8/" version="4.5.8">
+		</feature>
+		<feature id="org.wso2.carbon.logging.mgt.ui" url="features/org.wso2.carbon.logging.mgt.ui_4.5.8/" version="4.5.8">
+		</feature>
+		<feature id="org.wso2.carbon.registry.contentsearch.server" url="features/org.wso2.carbon.registry.contentsearch.server_4.6.0/" version="4.6.0">
+		</feature>
+		<feature id="org.wso2.carbon.core.common" url="features/org.wso2.carbon.core.common_4.4.14/" version="4.4.14">
+		</feature>
+		<feature id="org.wso2.carbon.logging.mgt" url="features/org.wso2.carbon.logging.mgt_4.5.8/" version="4.5.8">
+		</feature>
+		<feature id="org.wso2.carbon.identity.core" url="features/org.wso2.carbon.identity.core_5.7.5/" version="5.7.5">
+		</feature>
+		<feature id="org.wso2.carbon.event.ui" url="features/org.wso2.carbon.event.ui_4.5.8/" version="4.5.8">
+		</feature>
+		<feature id="org.wso2.carbon.event.output.adapter.server" url="features/org.wso2.carbon.event.output.adapter.server_5.1.3/" version="5.1.3">
+		</feature>
+		<feature id="org.wso2.carbon.event.server" url="features/org.wso2.carbon.event.server_4.5.8/" version="4.5.8">
+		</feature>
+		<feature id="org.wso2.carbon.registry.task" url="features/org.wso2.carbon.registry.task_4.6.0/" version="4.6.0">
+		</feature>
+		<feature id="org.wso2.carbon.deployment.synchronizer" url="features/org.wso2.carbon.deployment.synchronizer_4.5.8/" version="4.5.8">
+		</feature>
+		<feature id="org.wso2.carbon.identity.authenticator.saml2.sso.ui" url="features/org.wso2.carbon.identity.authenticator.saml2.sso.ui_5.2.0/" version="5.2.0">
+		</feature>
+		<feature id="org.wso2.carbon.identity.core.server" url="features/org.wso2.carbon.identity.core.server_5.7.5/" version="5.7.5">
+		</feature>
+		<feature id="org.wso2.carbon.event.output.adapter.email.server" url="features/org.wso2.carbon.event.output.adapter.email.server_5.1.3/" version="5.1.3">
+		</feature>
+		<feature id="org.wso2.carbon.registry.core" url="features/org.wso2.carbon.registry.core_4.6.0/" version="4.6.0">
+		</feature>
+		<feature id="org.wso2.carbon.logging.mgt.server" url="features/org.wso2.carbon.logging.mgt.server_4.5.8/" version="4.5.8">
+		</feature>
+		<feature id="org.jaggeryjs.modules.carbon" url="features/org.jaggeryjs.modules.carbon_1.2.0/" version="1.2.0">
+		</feature>
+		<feature id="org.wso2.carbon.application.mgt.bpel.server" url="features/org.wso2.carbon.application.mgt.bpel.server_4.4.12/" version="4.4.12">
+		</feature>
+		<feature id="org.wso2.carbon.registry.resource.properties" url="features/org.wso2.carbon.registry.resource.properties_4.6.0/" version="4.6.0">
+		</feature>
+		<feature id="org.wso2.carbon.security.mgt.server" url="features/org.wso2.carbon.security.mgt.server_5.7.5/" version="5.7.5">
+		</feature>
+		<feature id="org.wso2.carbon.humantask" url="features/org.wso2.carbon.humantask_4.4.12/" version="4.4.12">
+		</feature>
+		<feature id="org.wso2.carbon.registry.search.ui" url="features/org.wso2.carbon.registry.search.ui_4.6.0/" version="4.6.0">
+		</feature>
+		<feature id="org.wso2.carbon.sts.server" url="features/org.wso2.carbon.sts.server_5.2.1/" version="5.2.1">
+		</feature>
+		<feature id="org.wso2.carbon.tenant.usage.agent" url="features/org.wso2.carbon.tenant.usage.agent_4.6.0/" version="4.6.0">
+		</feature>
+		<feature id="org.wso2.carbon.databridge.datapublisher" url="features/org.wso2.carbon.databridge.datapublisher_5.1.3/" version="5.1.3">
+		</feature>
+		<feature id="org.wso2.carbon.registry.task.server" url="features/org.wso2.carbon.registry.task.server_4.6.0/" version="4.6.0">
+		</feature>
+		<feature id="org.wso2.carbon.webapp.mgt.server" url="features/org.wso2.carbon.webapp.mgt.server_4.7.3/" version="4.7.3">
+		</feature>
+		<feature id="org.wso2.carbon.bpel.server" url="features/org.wso2.carbon.bpel.server_4.4.12/" version="4.4.12">
+		</feature>
+		<feature id="org.wso2.carbon.application.mgt.ui" url="features/org.wso2.carbon.application.mgt.ui_4.5.8/" version="4.5.8">
+		</feature>
+		<feature id="org.jaggeryjs.modules.process" url="features/org.jaggeryjs.modules.process_1.5.5/" version="1.5.5">
+		</feature>
+		<feature id="org.wso2.carbon.registry.ui.menu" url="features/org.wso2.carbon.registry.ui.menu_4.6.0/" version="4.6.0">
+		</feature>
+		<feature id="org.wso2.carbon.system.statistics" url="features/org.wso2.carbon.system.statistics_4.5.8/" version="4.5.8">
+		</feature>
+		<feature id="org.wso2.carbon.bpmn.server" url="features/org.wso2.carbon.bpmn.server_4.4.12/" version="4.4.12">
+		</feature>
+		<feature id="org.wso2.carbon.application.mgt" url="features/org.wso2.carbon.application.mgt_4.5.8/" version="4.5.8">
+		</feature>
+		<feature id="org.wso2.carbon.tenant.mgt.core" url="features/org.wso2.carbon.tenant.mgt.core_4.6.0/" version="4.6.0">
+		</feature>
+		<feature id="org.wso2.carbon.application.deployer.bpel" url="features/org.wso2.carbon.application.deployer.bpel_4.4.12/" version="4.4.12">
+		</feature>
+		<feature id="org.wso2.carbon.event.output.adapter.sms.server" url="features/org.wso2.carbon.event.output.adapter.sms.server_5.1.3/" version="5.1.3">
+		</feature>
+		<feature id="org.wso2.carbon.attachment.mgt" url="features/org.wso2.carbon.attachment.mgt_4.4.12/" version="4.4.12">
+		</feature>
+		<feature id="org.wso2.carbon.user.mgt.server" url="features/org.wso2.carbon.user.mgt.server_5.7.5/" version="5.7.5">
+		</feature>
+		<feature id="org.wso2.carbon.application.mgt.bpel.ui" url="features/org.wso2.carbon.application.mgt.bpel.ui_4.4.12/" version="4.4.12">
+		</feature>
+		<feature id="org.wso2.carbon.application.mgt.humantask" url="features/org.wso2.carbon.application.mgt.humantask_4.4.12/" version="4.4.12">
+		</feature>
+		<feature id="org.wso2.ciphertool" url="features/org.wso2.ciphertool_1.0.0.wso2v3/" version="1.0.0.wso2v3">
+		</feature>
+		<feature id="org.wso2.carbon.databridge.commons.server" url="features/org.wso2.carbon.databridge.commons.server_5.1.3/" version="5.1.3">
+		</feature>
+		<feature id="org.wso2.carbon.application.deployer.bpmn" url="features/org.wso2.carbon.application.deployer.bpmn_4.4.12/" version="4.4.12">
+		</feature>
+		<feature id="org.jaggeryjs.server" url="features/org.jaggeryjs.server_0.12.8/" version="0.12.8">
+		</feature>
+		<feature id="org.wso2.carbon.unifiedendpoint.server" url="features/org.wso2.carbon.unifiedendpoint.server_4.4.12/" version="4.4.12">
+		</feature>
+		<feature id="org.wso2.carbon.tenant.throttling.agent" url="features/org.wso2.carbon.tenant.throttling.agent_4.6.0/" version="4.6.0">
+		</feature>
+		<feature id="org.wso2.carbon.core" url="features/org.wso2.carbon.core_4.4.14/" version="4.4.14">
+		</feature>
+		<feature id="org.wso2.carbon.module.mgt.server" url="features/org.wso2.carbon.module.mgt.server_4.7.3/" version="4.7.3">
+		</feature>
+	</site>
+</config>
