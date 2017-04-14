@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<feature id="org.wso2.carbon.bpmn.analytics.publisher" label="WSO2 Carbon - BPMN Analytics Publisher Feature" provider-name="%providerName" version="4.4.15">
+  <description>This feature contains BPMN analytics publisher components required to monitor BPMN
+        process with Analytics server</description>
+  <copyright>%copyright</copyright>
+  <license url="%licenseURL">%license</license>
+  <plugin id="org.wso2.carbon.bpmn.analytics.publisher" unpack="false" version="4.4.15"/>
+  <plugin id="slf4j.api" unpack="false" version="1.7.12"/>
+  <plugin id="slf4j.log4j12" unpack="false" version="1.7.12"/>
+  <plugin id="json-simple" unpack="false" version="1.1.0.wso2v1"/>
+  <require>
+    <import feature="org.wso2.carbon.bpmn" match="equivalent" version="4.4.15"/>
+    <import feature="org.wso2.carbon.databridge.datapublisher" match="equivalent" version="5.1.3"/>
+  </require>
+</feature>

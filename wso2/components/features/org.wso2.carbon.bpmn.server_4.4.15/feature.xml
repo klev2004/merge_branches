@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<feature id="org.wso2.carbon.bpmn.server" label="WSO2 Carbon - BPMN Server - Core Feature" provider-name="%providerName" version="4.4.15">
+  <description>This feature contains the core bundles required for Back-end BPMN Server
+        functionality</description>
+  <copyright>%copyright</copyright>
+  <license url="%licenseURL">%license</license>
+  <plugin id="org.wso2.carbon.bpmn" unpack="false" version="4.4.15"/>
+  <plugin id="org.wso2.carbon.bpmn.extensions" unpack="false" version="4.4.15"/>
+  <plugin id="org.apache.commons.lang3" unpack="false" version="3.3.2"/>
+  <plugin id="slf4j.log4j12" unpack="false" version="1.7.12"/>
+  <require>
+    <import match="equivalent" plugin="json-path" version="1.2.0.wso2v1"/>
+    <import match="equivalent" plugin="org.mybatis.mybatis" version="3.2.5"/>
+    <import match="equivalent" plugin="stax2-api" version="3.1.1"/>
+    <import match="equivalent" plugin="org.apache.commons.fileupload" version="1.2.2"/>
+    <import match="equivalent" plugin="joda-time" version="2.1"/>
+    <import match="equivalent" plugin="jackson-databind" version="2.2.3.wso2v1"/>
+    <import match="equivalent" plugin="org.yaml.snakeyaml" version="1.13.0"/>
+    <import match="equivalent" plugin="org.apache.commons.io" version="2.0.1"/>
+    <import match="equivalent" plugin="com.fasterxml.jackson.core.jackson-annotations" version="2.2.3"/>
+    <import match="equivalent" plugin="activiti-all" version="5.21.0.wso2v1"/>
+    <import match="equivalent" plugin="net.minidev.json-smart" version="2.2"/>
+    <import match="equivalent" plugin="jackson-module-jaxb-annotations" version="2.2.3.wso2v1"/>
+    <import match="equivalent" plugin="woodstox-core-asl" version="4.2.0"/>
+    <import match="equivalent" plugin="jackson-dataformat" version="2.2.3.wso2v1"/>
+    <import match="equivalent" plugin="org.apache.commons.lang3" version="3.3.2"/>
+    <import match="equivalent" plugin="jgraphx" version="1.10.4.1_wso2v1"/>
+    <import match="equivalent" plugin="com.fasterxml.jackson.core.jackson-core" version="2.2.3"/>
+    <import feature="org.wso2.carbon.core.server" match="compatible" version="4.4.12"/>
+  </require>
+</feature>

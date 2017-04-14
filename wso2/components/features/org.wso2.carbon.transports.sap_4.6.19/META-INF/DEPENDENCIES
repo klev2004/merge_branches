@@ -1,0 +1,15 @@
+// ------------------------------------------------------------------
+// Transitive dependencies of this project determined from the
+// maven pom organized by organization.
+// ------------------------------------------------------------------
+
+WSO2 Carbon - SAP Adapter Feature
+
+
+From: 'an unknown organization'
+  - org.wso2.carbon.transports.sap  org.wso2.carbon:org.wso2.carbon.transports.sap:jar:1.0
+
+
+
+
+

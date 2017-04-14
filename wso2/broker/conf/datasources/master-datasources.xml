@@ -115,11 +115,11 @@
         <!-- JTDS datasource -->
 <!--
         <datasource>
-        ????????<name>WSO2_MB_STORE_DB</name>
-        ????????<jndiConfig>
-        ????????????????<name>WSO2MBStoreDB</name>
-        ????????</jndiConfig>
-        ????????<definition type="RDBMS">
+            <name>WSO2_MB_STORE_DB</name>
+            <jndiConfig>
+                <name>WSO2MBStoreDB</name>
+            </jndiConfig>
+            <definition type="RDBMS">
             <configuration>
                     <url>jdbc:jtds:sqlserver://localhost:1433/wso2_mb</url>
                     <username>sa</username>
@@ -133,29 +133,29 @@
                     <validationInterval>30000</validationInterval>
                     <defaultAutoCommit>false</defaultAutoCommit>
                 </configuration>
-        ????????</definition>
+            </definition>
         </datasource>
 -->
 
         <!-- SQLServerXA datasource -->
 <!--
         <datasource>
-        ????????<name>WSO2_MB_STORE_DB</name>
-        ????????<jndiConfig>
-        ????????????????<name>WSO2MBStoreDB</name>
-        ????????</jndiConfig>
-        ????????<definition type="RDBMS">
-        ????????????????<configuration>
+            <name>WSO2_MB_STORE_DB</name>
+            <jndiConfig>
+                <name>WSO2MBStoreDB</name>
+            </jndiConfig>
+            <definition type="RDBMS">
+                <configuration>
                     <defaultAutoCommit>false</defaultAutoCommit>
-        ????????????????????????<dataSourceClassName>com.microsoft.sqlserver.jdbc.SQLServerXADataSource</dataSourceClassName>
-        ????????????????????????<dataSourceProps>
+                    <dataSourceClassName>com.microsoft.sqlserver.jdbc.SQLServerXADataSource</dataSourceClassName>
+                    <dataSourceProps>
                 <property name = "URL">jdbc:sqlserver://localhost/SQLExpress:1433</property>
                 <property name="databaseName">wso2_mb</property>
-        ????????????????????????????????<property name="user">sa</property>
-        ????????????????????????????????<property name="password">sa</property>
-        ????????????????????????</dataSourceProps>
-        ????????????????</configuration>
-        ????????</definition>
+                        <property name="user">sa</property>
+                        <property name="password">sa</property>
+                    </dataSourceProps>
+                </configuration>
+            </definition>
         </datasource>
 -->
 
@@ -187,11 +187,11 @@
         <!-- Postgresql datasource -->
 <!--
                 <datasource>
-                ????????<name>WSO2_MB_STORE_DB</name>
-                ????????<jndiConfig>
-                ????????????????<name>WSO2MBStoreDB</name>
-                ????????</jndiConfig>
-                ????????<definition type="RDBMS">
+                    <name>WSO2_MB_STORE_DB</name>
+                    <jndiConfig>
+                        <name>WSO2MBStoreDB</name>
+                    </jndiConfig>
+                    <definition type="RDBMS">
                     <configuration>
                             <url>jdbc:postgresql://localhost/wso2_mb</url>
                             <username>postgres</username>
@@ -201,7 +201,7 @@
                             <validationInterval>30000</validationInterval>
                             <defaultAutoCommit>false</defaultAutoCommit>
                         </configuration>
-                ????????</definition>
+                    </definition>
                 </datasource>
 -->
 

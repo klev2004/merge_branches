@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<feature id="org.wso2.carbon.integrator.server" label="WSO2 Enterprise Integrator - Core Server Feature" provider-name="%providerName" version="6.1.0">
+  <description>This feature contains the bundles required for Enterprise Integrator Core Service hosting functionality</description>
+  <copyright>%copyright</copyright>
+  <license url="%licenseURL">%license</license>
+  <plugin id="org.wso2.carbon.integrator.core" unpack="false" version="6.1.0"/>
+  <require>
+    <import feature="org.wso2.carbon.webapp.mgt.server" match="equivalent" version="4.7.3"/>
+    <import feature="org.wso2.carbon.dataservices.server" match="equivalent" version="4.4.10"/>
+  </require>
+</feature>

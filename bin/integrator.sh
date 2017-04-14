@@ -269,9 +269,9 @@ status=$START_EXIT_STATUS
 
 if [ -z "$JVM_MEM_OPTS" ]; then
    java_version=$("$JAVACMD" -version 2>&1 | awk -F '"' '/version/ {print $2}')
-   JVM_MEM_OPTS="-Xms256m -Xmx6144m"
+   JVM_MEM_OPTS="-Xms256m -Xmx1024m"
    if [ "$java_version" \< "1.8" ]; then
-      JVM_MEM_OPTS="$JVM_MEM_OPTS -XX:MaxPermSize=256m"
+      JVM_MEM_OPTS="$JVM_MEM_OPTS"
    fi
 fi
 echo "Using Java memory options: $JVM_MEM_OPTS"
@@ -302,7 +302,6 @@ do
     -Dcarbon.components.dir.path="$CARBON_HOME/wso2/components" \
     -Dcarbon.extensions.dir.path="$CARBON_HOME/extensions" \
     -Dcarbon.dropins.dir.path="$CARBON_HOME/dropins" \
-    -Dtomcat.random.port.enable=true \
     -Dcarbon.external.lib.dir.path="$CARBON_HOME/lib" \
     -Dcarbon.patches.dir.path="$CARBON_HOME/patches" \
     -Dcarbon.servicepacks.dir.path="$CARBON_HOME/servicepacks" \
@@ -320,8 +319,6 @@ do
     -Dorg.terracotta.quartz.skipUpdateCheck=true \
     -Djava.security.egd=file:/dev/./urandom \
     -Dfile.encoding=UTF8 \
-    -Dskip.logging=true  \
-    -Dskip.logging.pattern=\/carbon* \
     -Djava.net.preferIPv4Stack=true \
     -Dcom.ibm.cacheLocalHost=true \
     -DworkerNode=false \

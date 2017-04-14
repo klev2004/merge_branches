@@ -1,4 +1,4 @@
-${product.name} v${product.version}
+WSO2 Enterprise Integrator v6.1.0
 
 
 This file explains the usages of all the scripts contained within

@@ -5,65 +5,25 @@
     </providers>
   
     <datasources>
-
+      
         <datasource>
             <name>WSO2_CARBON_DB</name>
             <description>The datasource used for registry and user manager</description>
             <jndiConfig>
-                <name>jdbc/WSO2UMDB</name>
+                <name>jdbc/WSO2CarbonDB</name>
             </jndiConfig>
             <definition type="RDBMS">
                 <configuration>
-                    <url>jdbc:postgresql://10.49.40.229:5432/eii_a_wso2_user_db</url>
-                    <username>eii_a</username>
-                    <password>Init123$</password>
-                    <driverClassName>org.postgresql.Driver</driverClassName>
+                    <url>jdbc:h2:./repository/database/WSO2CARBON_DB;DB_CLOSE_ON_EXIT=FALSE;LOCK_TIMEOUT=60000</url>
+                    <username>wso2carbon</username>
+                    <password>wso2carbon</password>
+                    <driverClassName>org.h2.Driver</driverClassName>
                     <maxActive>50</maxActive>
                     <maxWait>60000</maxWait>
                     <testOnBorrow>true</testOnBorrow>
                     <validationQuery>SELECT 1</validationQuery>
                     <validationInterval>30000</validationInterval>
                     <defaultAutoCommit>false</defaultAutoCommit>
-                </configuration>
-            </definition>
-        </datasource>
-        <datasource>
-            <name>REGISTRY_DB</name>
-            <description>The datasource used for registry- local</description>
-            <jndiConfig>
-                <name>jdbc/WSO2RegistryDB</name>
-            </jndiConfig>
-            <definition type="RDBMS">
-                <configuration>
-                    <url>jdbc:postgresql://10.49.40.229:5432/eii_a_registry_db</url>
-                    <username>eii_a</username>
-                    <password>Init123$</password>
-                    <driverClassName>org.postgresql.Driver</driverClassName>
-                    <maxActive>50</maxActive>
-                    <maxWait>60000</maxWait>
-                    <testOnBorrow>true</testOnBorrow>
-                    <validationQuery>SELECT 1</validationQuery>
-                    <validationInterval>30000</validationInterval>
-                </configuration>
-            </definition>
-        </datasource>
-        <datasource>
-            <name>REGISTRY_LOCAL1</name>
-            <description>The datasource used for registry- config/governance</description>
-            <jndiConfig>
-                <name>jdbc/WSO2CarbonDB</name>
-            </jndiConfig>
-            <definition type="RDBMS">
-                <configuration>
-                    <url>jdbc:postgresql://10.49.40.229:5432/eii_m_a_registry_local</url>
-                    <username>eii_a</username>
-                    <password>Init123$</password>
-                    <driverClassName>org.postgresql.Driver</driverClassName>
-                    <maxActive>50</maxActive>
-                    <maxWait>60000</maxWait>
-                    <testOnBorrow>true</testOnBorrow>
-                    <validationQuery>SELECT 1</validationQuery>
-                    <validationInterval>30000</validationInterval>
                 </configuration>
             </definition>
         </datasource>

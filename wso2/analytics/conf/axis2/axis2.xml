@@ -73,10 +73,10 @@
     <parameter name="ModulesDirectory">axis2modules</parameter>
 
     <parameter name="userAgent" locked="true">
-        WSO2 Enterprise Integrator-6.0.0
+        WSO2 Enterprise Integrator-6.1.0
     </parameter>
     <parameter name="server" locked="true">
-        WSO2 Enterprise Integrator-6.0.0
+        WSO2 Enterprise Integrator-6.1.0
     </parameter>
 
     <!-- ========================================================================-->
@@ -652,7 +652,7 @@
         -->
         <!-- The host name or IP address of this member -->
 
-        <parameter name="localMemberHost">10.49.40.202</parameter>
+        <parameter name="localMemberHost">127.0.0.1</parameter>
 
         <!--
             The bind adress of this member. The difference between localMemberHost & localMemberBindAddress
@@ -704,7 +704,7 @@
         -->
         <members>
             <member>
-                <hostName>10.49.40.202</hostName>
+                <hostName>127.0.0.1</hostName>
                 <port>4000</port>
             </member>
         </members>

@@ -1,0 +1,18 @@
+instructions.configure = \
+org.eclipse.equinox.p2.touchpoint.natives.mkdir(path:${installFolder}/../../deployment/);\
+org.eclipse.equinox.p2.touchpoint.natives.mkdir(path:${installFolder}/../../deployment/server/);\
+org.eclipse.equinox.p2.touchpoint.natives.mkdir(path:${installFolder}/../../deployment/server/carbonapps/);\
+org.eclipse.equinox.p2.touchpoint.natives.mkdir(path:${installFolder}/../../../capps/);\
+org.eclipse.equinox.p2.touchpoint.natives.copy(source:${installFolder}/../features/org.wso2.ei.analytics_6.1.0/org.wso2.ei.analytics.realtime-1.0.0.car,target:${installFolder}/../../../capps/org.wso2.ei.analytics.realtime-1.0.0.car,overwrite:true);\
+org.eclipse.equinox.p2.touchpoint.natives.copy(source:${installFolder}/../features/org.wso2.ei.analytics_6.1.0/org.wso2.ei.analytics.offline-1.0.0.car,target:${installFolder}/../../../capps/org.wso2.ei.analytics.offline-1.0.0.car,overwrite:true);\
+org.eclipse.equinox.p2.touchpoint.natives.copy(source:${installFolder}/../features/org.wso2.ei.analytics_6.1.0/org.wso2.ei.analytics.realtime-1.0.0.car,target:${installFolder}/../../deployment/server/carbonapps/org.wso2.ei.analytics.realtime-1.0.0.car,overwrite:true);\
+org.eclipse.equinox.p2.touchpoint.natives.copy(source:${installFolder}/../features/org.wso2.ei.analytics_6.1.0/eianalytics.jag,target:${installFolder}/../../deployment/server/jaggeryapps/portal/controllers/apis/eianalytics.jag,overwrite:true);\
+org.eclipse.equinox.p2.touchpoint.natives.copy(source:${installFolder}/../features/org.wso2.ei.analytics_6.1.0/eianalytics-utils.jag,target:${installFolder}/../../deployment/server/jaggeryapps/portal/controllers/apis/eianalytics-utils.jag,overwrite:true);\
+
+instructions.uninstall = \
+org.eclipse.equinox.p2.touchpoint.natives.remove(path:${installFolder}/../../deployment/server/carbonapps/org.wso2.ei.analytics.realtime-1.0.0.car,overwrite:true);\
+
+properties.0.name=org.wso2.carbon.p2.category.type
+properties.0.value=server
+properties.1.name=org.eclipse.equinox.p2.type.group
+properties.1.value=true

@@ -1,6 +1,6 @@
 @echo off
 
-rem  Copyright (c) 2015, WSO2 Inc. (http://www.wso2.org) All Rights Reserved.
+rem  Copyright (c) 2017, WSO2 Inc. (http://www.wso2.org) All Rights Reserved.
 rem
 rem  WSO2 Inc. licenses this file to you under the Apache License,
 rem  Version 2.0 (the "License"); you may not use this file except
@@ -69,8 +69,8 @@ FOR %%C in ("%CARBON_HOME%\bin\*.jar") DO set CARBON_CLASSPATH=!CARBON_CLASSPATH
 
 set CARBON_CLASSPATH="%JAVA_HOME%\lib\tools.jar";%CARBON_CLASSPATH%;
 
-set CARBON_CLASSPATH="%CARBON_HOME%\repository\components\plugins\*";%CARBON_CLASSPATH%;
-set CARBON_CLASSPATH="%CARBON_HOME%\lib\endorsed\*";%CARBON_CLASSPATH%;
+set CARBON_CLASSPATH="%CARBON_HOME%\..\components\plugins\*";%CARBON_CLASSPATH%;
+set CARBON_CLASSPATH="%CARBON_HOME%\..\lib\endorsed\*";%CARBON_CLASSPATH%;
 
 FOR %%D in ("%CARBON_HOME%\lib\commons-lang*.jar") DO set CARBON_CLASSPATH=!CARBON_CLASSPATH!;".\lib\%%~nD%%~xD"
 rem ----- Process the input command -------------------------------------------
@@ -108,9 +108,9 @@ cd %CARBON_HOME%
 
 rem ---------- Add jars to classpath ----------------
 
-set JAVA_ENDORSED=".\lib\endorsed";"%JAVA_HOME%\jre\lib\endorsed";"%JAVA_HOME%\lib\endorsed"
+set JAVA_ENDORSED=".\..\lib\endorsed";"%JAVA_HOME%\jre\lib\endorsed";"%JAVA_HOME%\lib\endorsed"
 
-set CMD_LINE_ARGS=-Xbootclasspath/a:%CARBON_XBOOTCLASSPATH% -Xms256m -Xmx1024m -XX:MaxPermSize=256m -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath="%CARBON_HOME%\repository\logs\heap-dump.hprof" %JAVA_OPTS% -classpath %CARBON_CLASSPATH% -Dcarbon.home="%CARBON_HOME%"  -Djava.io.tmpdir="%CARBON_HOME%\tmp" -Dfile.encoding=UTF8 -Dwso2_custom_conf_dir="%CARBON_HOME%\repository\conf"
+set CMD_LINE_ARGS=-Xbootclasspath/a:%CARBON_XBOOTCLASSPATH% -Xms256m -Xmx1024m -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath="%CARBON_HOME%\repository\logs\heap-dump.hprof" %JAVA_OPTS% -classpath %CARBON_CLASSPATH% -Dcarbon.home="%CARBON_HOME%"  -Djava.io.tmpdir="%CARBON_HOME%\tmp" -Dfile.encoding=UTF8 -Dwso2_custom_conf_dir="%CARBON_HOME%\conf"
 
 
 :runJava

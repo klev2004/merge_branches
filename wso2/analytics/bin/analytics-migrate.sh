@@ -1,6 +1,6 @@
 #!/bin/sh
 # ----------------------------------------------------------------------------
-#  Copyright 2005-2015 WSO2, Inc. http://www.wso2.org
+#  Copyright 2005-2017 WSO2, Inc. http://www.wso2.org
 #
 #  Licensed under the Apache License, Version 2.0 (the "License");
 #  you may not use this file except in compliance with the License.
@@ -220,12 +220,12 @@ fi
 CARBON_XBOOTCLASSPATH=""
 for f in "$CARBON_HOME"/lib/xboot/*.jar
 do
-    if [ "$f" != "$CARBON_HOME/lib/xboot/*.jar" ];then
+    if [ "$f" != "$CARBON_HOME/../lib/xboot/*.jar" ];then
         CARBON_XBOOTCLASSPATH="$CARBON_XBOOTCLASSPATH":$f
     fi
 done
 
-JAVA_ENDORSED_DIRS="$CARBON_HOME/lib/endorsed":"$JAVA_HOME/jre/lib/endorsed":"$JAVA_HOME/lib/endorsed"
+JAVA_ENDORSED_DIRS="$CARBON_HOME/../lib/endorsed":"$JAVA_HOME/jre/lib/endorsed":"$JAVA_HOME/lib/endorsed"
 
 CARBON_CLASSPATH=""
 if [ -e "$JAVA_HOME/lib/tools.jar" ]; then
@@ -237,128 +237,128 @@ do
         CARBON_CLASSPATH="$CARBON_CLASSPATH":$f
     fi
 done
-for t in "$CARBON_HOME"/lib/commons-lang*.jar
+for t in "$CARBON_HOME"/../lib/commons-lang*.jar
 do
     CARBON_CLASSPATH="$CARBON_CLASSPATH":$t
 done
 
-for t in "$CARBON_HOME"/repository/components/plugins/*analytics*.jar
+for t in "$CARBON_HOME"/../components/plugins/*analytics*.jar
 do
     CARBON_CLASSPATH="$CARBON_CLASSPATH":$t
 done
-for t in "$CARBON_HOME"/repository/components/plugins/*commons*.jar
+for t in "$CARBON_HOME"/../components/plugins/*commons*.jar
 do
     CARBON_CLASSPATH="$CARBON_CLASSPATH":$t
 done
-for t in "$CARBON_HOME"/repository/components/plugins/*datasource*.jar
+for t in "$CARBON_HOME"/../components/plugins/*datasource*.jar
 do
     CARBON_CLASSPATH="$CARBON_CLASSPATH":$t
 done
-for t in "$CARBON_HOME"/repository/components/plugins/*hazelcast*.jar
+for t in "$CARBON_HOME"/../components/plugins/*hazelcast*.jar
 do
     CARBON_CLASSPATH="$CARBON_CLASSPATH":$t
 done
-for t in "$CARBON_HOME"/repository/components/plugins/*logging*.jar
+for t in "$CARBON_HOME"/../components/plugins/*logging*.jar
 do
     CARBON_CLASSPATH="$CARBON_CLASSPATH":$t
 done
-for t in "$CARBON_HOME"/repository/components/plugins/*registry*.jar
+for t in "$CARBON_HOME"/../components/plugins/*registry*.jar
 do
     CARBON_CLASSPATH="$CARBON_CLASSPATH":$t
 done
-for t in "$CARBON_HOME"/repository/components/plugins/*axis2*.jar
+for t in "$CARBON_HOME"/../components/plugins/*axis2*.jar
 do
     CARBON_CLASSPATH="$CARBON_CLASSPATH":$t
 done
-for t in "$CARBON_HOME"/repository/components/plugins/*carbon.core*.jar
+for t in "$CARBON_HOME"/../components/plugins/*carbon.core*.jar
 do
     CARBON_CLASSPATH="$CARBON_CLASSPATH":$t
 done
-for t in "$CARBON_HOME"/repository/components/plugins/*util*.jar
+for t in "$CARBON_HOME"/../components/plugins/*util*.jar
 do
     CARBON_CLASSPATH="$CARBON_CLASSPATH":$t
 done
-for t in "$CARBON_HOME"/repository/components/plugins/*base*.jar
+for t in "$CARBON_HOME"/../components/plugins/*base*.jar
 do
     CARBON_CLASSPATH="$CARBON_CLASSPATH":$t
 done
-for t in "$CARBON_HOME"/repository/components/plugins/*pool*.jar
+for t in "$CARBON_HOME"/../components/plugins/*pool*.jar
 do
     CARBON_CLASSPATH="$CARBON_CLASSPATH":$t
 done
-for t in "$CARBON_HOME"/repository/components/plugins/lucene_5.2.1.wso2v1.jar
+for t in "$CARBON_HOME"/../components/plugins/lucene_5.2.1.wso2v1.jar
 do
     CARBON_CLASSPATH="$CARBON_CLASSPATH":$t
 done
-for t in "$CARBON_HOME"/repository/components/plugins/*analyzer*.jar
+for t in "$CARBON_HOME"/../components/plugins/*analyzer*.jar
 do
     CARBON_CLASSPATH="$CARBON_CLASSPATH":$t
 done
-for t in "$CARBON_HOME"/repository/components/plugins/*axiom*.jar
+for t in "$CARBON_HOME"/../components/plugins/*axiom*.jar
 do
     CARBON_CLASSPATH="$CARBON_CLASSPATH":$t
 done
-for t in "$CARBON_HOME"/repository/components/plugins/com.datastax.driver.core*.jar
+for t in "$CARBON_HOME"/../components/plugins/com.datastax.driver.core*.jar
 do
     CARBON_CLASSPATH="$CARBON_CLASSPATH":$t
 done
-for t in "$CARBON_HOME"/repository/components/plugins/slf4j_1.5.10.wso2v1.jar
+for t in "$CARBON_HOME"/../components/plugins/slf4j_1.5.10.wso2v1.jar
 do
     CARBON_CLASSPATH="$CARBON_CLASSPATH":$t
 done
-for t in "$CARBON_HOME"/repository/components/plugins/com.google.guava_15.*.jar
+for t in "$CARBON_HOME"/../components/plugins/com.google.guava_15.*.jar
 do
     CARBON_CLASSPATH="$CARBON_CLASSPATH":$t
 done
-for t in "$CARBON_HOME"/repository/components/plugins/io.dropwizard.metrics.core_3.1.2.jar
+for t in "$CARBON_HOME"/../components/plugins/io.dropwizard.metrics.core_3.1.2.jar
 do
     CARBON_CLASSPATH="$CARBON_CLASSPATH":$t
 done
-for t in "$CARBON_HOME"/repository/components/plugins/org.jboss.netty_3.9.0.Final.jar
+for t in "$CARBON_HOME"/../components/plugins/org.jboss.netty_3.9.0.Final.jar
 do
     CARBON_CLASSPATH="$CARBON_CLASSPATH":$t
 done
-for t in "$CARBON_HOME"/repository/components/lib/*.jar
+for t in "$CARBON_HOME"/../components/lib/*.jar
 do
     CARBON_CLASSPATH="$CARBON_CLASSPATH":$t
 done
-for t in "$CARBON_HOME"/repository/components/plugins/*ntask*.jar
+for t in "$CARBON_HOME"/../components/plugins/*ntask*.jar
 do
     CARBON_CLASSPATH="$CARBON_CLASSPATH":$t
 done
-for t in "$CARBON_HOME"/repository/components/plugins/*kryo*.jar
+for t in "$CARBON_HOME"/../components/plugins/*kryo*.jar
 do
     CARBON_CLASSPATH="$CARBON_CLASSPATH":$t
 done
-for t in "$CARBON_HOME"/repository/components/plugins/*objenesis*.jar
+for t in "$CARBON_HOME"/../components/plugins/*objenesis*.jar
 do
     CARBON_CLASSPATH="$CARBON_CLASSPATH":$t
 done
-for t in "$CARBON_HOME"/repository/components/plugins/*hector*.jar
+for t in "$CARBON_HOME"/../components/plugins/*hector*.jar
 do
     CARBON_CLASSPATH="$CARBON_CLASSPATH":$t
 done
-for t in "$CARBON_HOME"/repository/components/plugins/*thrift*.jar
+for t in "$CARBON_HOME"/../components/plugins/*thrift*.jar
 do
     CARBON_CLASSPATH="$CARBON_CLASSPATH":$t
 done
-for t in "$CARBON_HOME"/repository/components/plugins/*google*.jar
+for t in "$CARBON_HOME"/../components/plugins/*google*.jar
 do
     CARBON_CLASSPATH="$CARBON_CLASSPATH":$t
 done
-for t in "$CARBON_HOME"/lib/endorsed/*xerces*.jar
+for t in "$CARBON_HOME"/../lib/endorsed/*xerces*.jar
 do
     CARBON_CLASSPATH="$CARBON_CLASSPATH":$t
 done
-for t in "$CARBON_HOME"/repository/components/plugins/*disruptor*.jar
+for t in "$CARBON_HOME"/../components/plugins/*disruptor*.jar
 do
     CARBON_CLASSPATH="$CARBON_CLASSPATH":$t
 done
-for t in "$CARBON_HOME"/repository/components/plugins/*bigqueue*.jar
+for t in "$CARBON_HOME"/../components/plugins/*bigqueue*.jar
 do
     CARBON_CLASSPATH="$CARBON_CLASSPATH":$t
 done
-for t in "$CARBON_HOME"/repository/components/plugins/*h2*.jar
+for t in "$CARBON_HOME"/../components/plugins/*h2*.jar
 do
     CARBON_CLASSPATH="$CARBON_CLASSPATH":$t
 done
@@ -391,7 +391,7 @@ while [ "$status" = "$START_EXIT_STATUS" ]
 do
     $JAVACMD \
     -Xbootclasspath/a:"$CARBON_XBOOTCLASSPATH" \
-    -Xms256m -Xmx1024m -XX:MaxPermSize=256m \
+    -Xms256m -Xmx1024m \
     -XX:+HeapDumpOnOutOfMemoryError \
     -XX:HeapDumpPath="$CARBON_HOME/repository/logs/heap-dump.hprof" \
     $JAVA_OPTS \
@@ -399,7 +399,7 @@ do
     -Djava.io.tmpdir="$CARBON_HOME/tmp" \
     -Djava.security.egd=file:/dev/./urandom \
     -Dfile.encoding=UTF8 \
-    -Dwso2_custom_conf_dir="$CARBON_HOME/repository/conf" \
+    -Dwso2_custom_conf_dir="$CARBON_HOME/conf" \
     org.wso2.carbon.analytics.tools.migration.AnalyticsDataMigrationTool $*
     status=$?
 done

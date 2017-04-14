@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<feature id="org.wso2.carbon.application.mgt.bpel.server" label="WSO2 Carbon - BPEL Application Management Server Feature" provider-name="%providerName" version="4.4.15">
+  <description>This feature contains the core bundles required for Back-end BPEL Application
+        Management functionality</description>
+  <copyright>%copyright</copyright>
+  <license url="%licenseURL">%license</license>
+  <plugin id="org.wso2.carbon.bpel.skeleton" unpack="false" version="4.4.15"/>
+  <plugin id="org.wso2.carbon.application.mgt.bpel" unpack="false" version="4.4.15"/>
+  <require>
+    <import feature="org.wso2.carbon.bpel.server" match="compatible" version="4.4.15"/>
+    <import feature="org.wso2.carbon.core.server" match="compatible" version="4.4.12"/>
+    <import feature="org.wso2.carbon.application.deployer.bpel" match="compatible" version="4.4.15"/>
+  </require>
+</feature>

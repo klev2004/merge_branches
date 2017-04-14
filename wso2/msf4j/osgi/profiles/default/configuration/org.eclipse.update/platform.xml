@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config date="1491601550315" transient="false">
+	<site updateable="true" url="platform:/base/" enabled="true" policy="USER-EXCLUDE">
+		<feature id="org.wso2.msf4j" version="2.2.2" url="features/org.wso2.msf4j_2.2.2/">
+		</feature>
+		<feature id="org.wso2.carbon.deployment.engine" version="5.0.0" url="features/org.wso2.carbon.deployment.engine_5.0.0/">
+		</feature>
+		<feature id="org.wso2.carbon.caching" version="1.0.0" url="features/org.wso2.carbon.caching_1.0.0/">
+		</feature>
+		<feature id="org.wso2.carbon.jndi" version="1.0.0" url="features/org.wso2.carbon.jndi_1.0.0/">
+		</feature>
+		<feature id="org.wso2.carbon.metrics.core" version="2.0.0" url="features/org.wso2.carbon.metrics.core_2.0.0/">
+		</feature>
+		<feature id="org.wso2.carbon.metrics.jdbc.core" version="2.0.0" url="features/org.wso2.carbon.metrics.jdbc.core_2.0.0/">
+		</feature>
+		<feature id="org.wso2.carbon.kernel" version="5.1.2" url="features/org.wso2.carbon.kernel_5.1.2/">
+		</feature>
+		<feature id="org.wso2.carbon.datasource.core" version="1.0.0" url="features/org.wso2.carbon.datasource.core_1.0.0/">
+		</feature>
+		<feature id="org.wso2.carbon.messaging" version="1.0.11" url="features/org.wso2.carbon.messaging_1.0.11/">
+		</feature>
+		<feature id="org.wso2.carbon.metrics.das.core" version="2.0.0" url="features/org.wso2.carbon.metrics.das.core_2.0.0/">
+		</feature>
+		<feature id="org.wso2.carbon.runtime" version="5.1.2" url="features/org.wso2.carbon.runtime_5.1.2/">
+		</feature>
+		<feature id="org.wso2.carbon.transport.http.netty" version="3.0.5" url="features/org.wso2.carbon.transport.http.netty_3.0.5/">
+		</feature>
+	</site>
+</config>

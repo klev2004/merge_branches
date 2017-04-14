@@ -30,11 +30,11 @@
       To be used in CLUSTERED mode to notify how many servers are there in 
       the task server cluster, the servers wait till this amount of servers
       are activated before the tasks are scheduled -->
-    <taskServerCount>2</taskServerCount>
+    <taskServerCount>1</taskServerCount>
 
     <!-- The default location resolver configuration -->
     <defaultLocationResolver>
-        <locationResolverClass>org.wso2.carbon.ntask.core.impl.RandomTaskLocationResolver</locationResolverClass>
+        <locationResolverClass>org.wso2.carbon.ntask.core.impl.RoundRobinTaskLocationResolver</locationResolverClass>
     </defaultLocationResolver>
 
     <!-- 
@@ -43,7 +43,7 @@
       <property name="rule-[order]">[task-type-pattern],[task-name-pattern],[address-pattern]</property>
     -->
     <!--defaultLocationResolver>
-        <locationResolverClass>org.wso2.carbon.ntask.core.impl.RandomTaskLocationResolver</locationResolverClass>
+        <locationResolverClass>org.wso2.carbon.ntask.core.impl.RuleBasedLocationResolver</locationResolverClass>
         <properties>
             <property name="rule-1">HIVE_TASK,.*,192.168.2.*</property>
             <property name="rule-5">.*,.*,.*</property>

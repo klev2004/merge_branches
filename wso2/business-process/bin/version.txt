@@ -1,1 +1,1 @@
-${product.name} v${product.version}
+WSO2 Enterprise Integrator v6.1.0

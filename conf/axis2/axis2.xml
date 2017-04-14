@@ -62,8 +62,8 @@
     <parameter name="ModulesDirectory">axis2modules</parameter>
 
     <!-- User agent and the server details to be used in the http communication -->
-    <parameter name="userAgent" locked="true">WSO2 EI 6.0.0</parameter>
-    <parameter name="server" locked="true">WSO2 EI 6.0.0</parameter>
+    <parameter name="userAgent" locked="true">WSO2 EI 6.1.0</parameter>
+    <parameter name="server" locked="true">WSO2 EI 6.1.0</parameter>
 
     <!-- During a fault, stacktrace can be sent with the fault message. The following flag -->
     <!-- will control that behaviour -->
@@ -80,7 +80,7 @@
     <parameter name="manageTransportSession">true</parameter>
 
     <!-- This will give out the timout of the configuration contexts, in milliseconds -->
-    <parameter name="ConfigContextTimeoutInterval" locked="false">180000</parameter>
+    <parameter name="ConfigContextTimeoutInterval" locked="false">30000</parameter>
 
     <!-- Synapse Configuration file location relative to CARBON_HOME -->
     <parameter name="SynapseConfig.ConfigurationFile" locked="false">repository/deployment/server/synapse-configs</parameter>
@@ -241,24 +241,20 @@
     <!-- ================================================= -->
 
      <transportReceiver name="http" class="org.apache.synapse.transport.passthru.PassThroughHttpListener">
-        <parameter name="SO_TIMEOUT" locked="false">180000</parameter>
-        <parameter name="CONNECTION_TIMEOUT" locked="false">180000</parameter>
         <parameter name="port" locked="false">8280</parameter>
         <parameter name="non-blocking" locked="false">true</parameter>
-        <parameter name="bind-address" locked="false">10.49.40.202</parameter>
-        <parameter name="WSDLEPRPrefix" locked="false">http://10.49.40.202:8280</parameter>
+        <!--parameter name="bind-address" locked="false">hostname or IP address</parameter-->
+        <!--parameter name="WSDLEPRPrefix" locked="false">https://apachehost:port/somepath</parameter-->
         <parameter name="httpGetProcessor" locked="false">org.wso2.carbon.mediation.transport.handlers.PassThroughNHttpGetProcessor</parameter>
         <!--<parameter name="priorityConfigFile" locked="false">location of priority configuration file</parameter>-->
     </transportReceiver>
 
      <transportReceiver name="https" class="org.apache.synapse.transport.passthru.PassThroughHttpSSLListener">
-        <parameter name="SO_TIMEOUT" locked="false">180000</parameter>
-        <parameter name="CONNECTION_TIMEOUT" locked="false">180000</parameter>
         <parameter name="port" locked="false">8243</parameter>
         <parameter name="non-blocking" locked="false">true</parameter>
         <parameter name="HttpsProtocols">TLSv1,TLSv1.1,TLSv1.2</parameter>
         <!--parameter name="bind-address" locked="false">hostname or IP address</parameter-->
-        <parameter name="WSDLEPRPrefix" locked="false">https://10.49.40.202:8243</parameter>
+        <!--parameter name="WSDLEPRPrefix" locked="false">https://apachehost:port/somepath</parameter-->
         <parameter name="httpGetProcessor" locked="false">org.wso2.carbon.mediation.transport.handlers.PassThroughNHttpGetProcessor</parameter>
         <parameter name="keystore" locked="false">
             <KeyStore>
@@ -275,13 +271,13 @@
                 <Password>wso2carbon</Password>
             </TrustStore>
         </parameter>
-        <parameter name="SSLVerifyClient">optional</parameter>
-            <!-- supports optional|require or defaults to none -->
+        <!--<parameter name="SSLVerifyClient">require</parameter>
+            supports optional|require or defaults to none -->
     </transportReceiver>
-	
+
     <transportReceiver name="local" class="org.wso2.carbon.core.transports.local.CarbonLocalTransportReceiver"/>
 
-    <transportReceiver name="vfs" class="org.apache.synapse.transport.vfs.VFSTransportListener"/>
+    <!--<transportReceiver name="vfs" class="org.apache.synapse.transport.vfs.VFSTransportListener"/>-->
 
     <!--<transportReceiver name="mailto" class="org.apache.axis2.transport.mail.MailTransportListener">-->
         <!-- configure any optional POP3/IMAP properties
@@ -337,7 +333,7 @@
     </transportReceiver-->
 
     <!--Uncomment this and configure as appropriate for JMS transport support with WSO2 MB 2.x.x -->
-    <transportReceiver name="jms" class="org.apache.axis2.transport.jms.JMSListener">
+    <!--transportReceiver name="jms" class="org.apache.axis2.transport.jms.JMSListener">
         <parameter name="myTopicConnectionFactory" locked="false">
            <parameter name="java.naming.factory.initial" locked="false">org.wso2.andes.jndi.PropertiesFileInitialContextFactory</parameter>
             <parameter name="java.naming.provider.url" locked="false">conf/jndi.properties</parameter>
@@ -358,7 +354,7 @@
             <parameter name="transport.jms.ConnectionFactoryJNDIName" locked="false">QueueConnectionFactory</parameter>
             <parameter name="transport.jms.ConnectionFactoryType" locked="false">queue</parameter>
         </parameter>
-    </transportReceiver>
+    </transportReceiver-->
 
     <!--Uncomment this for FIX transport support
     <transportReceiver name="fix" class="org.apache.synapse.transport.fix.FIXTransportListener"/>
@@ -397,8 +393,6 @@
     <!-- ================================================= -->
 
     <transportSender name="http" class="org.apache.synapse.transport.passthru.PassThroughHttpSender">
-        <parameter name="SO_TIMEOUT" locked="false">180000</parameter>
-        <parameter name="CONNECTION_TIMEOUT" locked="false">180000</parameter>
         <parameter name="non-blocking" locked="false">true</parameter>
         <!--<parameter name="warnOnHTTP500" locked="false">*</parameter>-->
         <!--parameter name="http.proxyHost" locked="false">localhost</parameter-->
@@ -407,8 +401,6 @@
     </transportSender>
 
     <transportSender name="https" class="org.apache.synapse.transport.passthru.PassThroughHttpSSLSender">
-        <parameter name="SO_TIMEOUT" locked="false">180000</parameter>
-        <parameter name="CONNECTION_TIMEOUT" locked="false">180000</parameter>
         <parameter name="non-blocking" locked="false">true</parameter>
         <parameter name="keystore" locked="false">
             <KeyStore>
@@ -425,19 +417,19 @@
                 <Password>wso2carbon</Password>
             </TrustStore>
         </parameter>
-        <parameter name="HostnameVerifier">AllowAll</parameter>
+        <!--<parameter name="HostnameVerifier">DefaultAndLocalhost</parameter>-->
             <!--supports Strict|AllowAll|DefaultAndLocalhost or the default if none specified -->
     </transportSender>
-	
+
     <transportSender name="local" class="org.wso2.carbon.core.transports.local.CarbonLocalTransportSender"/>
 
     <!--Uncomment this local transport to use local transport in mediation flow-->
     <!--<transportSender name="local" class="org.apache.axis2.transport.local.NonBlockingLocalTransportSender"/>-->
 
-    <!--uncomment this and configure to use connection pools for sending messages-->
-    <transportSender name="jms" class="org.apache.axis2.transport.jms.JMSSender"/>
+   <!-- uncomment this and configure to use connection pools for sending messages>
+     <transportSender name="jms" class="org.apache.axis2.transport.jms.JMSSender"/-->
 
-    <transportSender name="vfs" class="org.apache.synapse.transport.vfs.VFSTransportSender"/>
+    <!--transportSender name="vfs" class="org.apache.synapse.transport.vfs.VFSTransportSender"/-->
 
     <!-- Uncomment and configure the SMTP server information
     check com.sun.mail.smtp package documentation for descriptions of properties
@@ -498,11 +490,11 @@
      getting this node to join the cluster.
      -->
     <clustering class="org.wso2.carbon.core.clustering.hazelcast.HazelcastClusteringAgent"
-                enable="true">
+                enable="false">
 
-        <!-- Parameter to differentiate clustering mode, Default value will be "WorkerManager" in which
-         case the manager nodes of the cluster won't run schedule tasks-->
-        <parameter name="clusteringPattern">WorkerManager</parameter>
+        <!-- Parameter to differentiate clustering mode, Default value will be "nonWorkerManager" in which
+         case the all nodes of the cluster run schedule tasks-->
+        <parameter name="clusteringPattern">nonWorkerManager</parameter>
 
         <!--
            This parameter indicates whether the cluster has to be automatically initalized
@@ -532,7 +524,7 @@
          The clustering domain/group. Nodes in the same group will belong to the same multicast
          domain. There will not be interference between nodes in different groups.
         -->
-        <parameter name="domain">wso2.eii-a.ukrposhta.loc</parameter>
+        <parameter name="domain">wso2.carbon.domain</parameter>
 
         <!-- The multicast address to be used -->
         <!--<parameter name="mcastAddress">228.0.0.4</parameter>-->
@@ -542,7 +534,7 @@
 
         <parameter name="mcastTTL">100</parameter>
 
-        <parameter name="mcastTimeout">90</parameter>
+        <parameter name="mcastTimeout">60</parameter>
 
         <!--
            The IP address of the network interface to which the multicasting has to be bound to.
@@ -553,7 +545,7 @@
         -->
         <!-- The host name or IP address of this member -->
 
-        <parameter name="localMemberHost">10.49.40.202</parameter>
+        <parameter name="localMemberHost">127.0.0.1</parameter>
 
         <!--
             The bind adress of this member. The difference between localMemberHost & localMemberBindAddress
@@ -561,7 +553,7 @@
             is the address to which this member is bound to.
         -->
         <!--
-        <parameter name="localMemberBindAddress">10.49.40.202</parameter>
+        <parameter name="localMemberBindAddress">127.0.0.1</parameter>
         -->
 
         <!--
@@ -575,9 +567,9 @@
             is that localMemberPort is the one that is advertised by this member, while localMemberBindPort
             is the port to which this member is bound to.
         -->
-
-        <!--parameter name="localMemberBindPort">4001</parameter-->
-
+        <!--
+        <parameter name="localMemberBindPort">4001</parameter>
+        -->
 
         <!--
         Properties specific to this member
@@ -587,8 +579,8 @@
             <property name="mgtConsoleURL" value="https://${hostName}:${httpsPort}/"/>
  	    <!-- Manger Setup with Port Mapping-->
 	    <!--property name="port.mapping.8280" value="9764"/>
-            <property name="port.mapping.8243" value="9444"/>-->
-            <property name="subDomain" value="mgt"/>
+            <property name="port.mapping.8243" value="9444"/>
+            <property name="subDomain" value="mgt"/-->
 
 	    <!-- Worker Setup-->
 	    <!--property name="subDomain" value="worker"/-->
@@ -600,12 +592,8 @@
         -->
         <members>
             <member>
-                <hostName>10.49.40.203</hostName>
-                <port>4100</port>
-            </member>
-			<member>
-                <hostName>10.49.40.204</hostName>
-                <port>4100</port>
+                <hostName>127.0.0.1</hostName>
+                <port>4000</port>
             </member>
         </members>
 
@@ -614,8 +602,8 @@
         Multiple application domains with different GroupManagementAgent implementations
         can be defined in this section.
         -->
-        <groupManagement enable="true">
-            <applicationDomain name="wso2.eii-a.ukrposhta.loc"
+        <groupManagement enable="false">
+            <applicationDomain name="wso2.esb.domain"
                                description="EI group"
                                agent="org.wso2.carbon.core.clustering.hazelcast.HazelcastGroupManagementAgent"
                                subDomain="worker"
@@ -688,6 +676,7 @@
         </phase>
         <phase name="Dispatch" class="org.apache.axis2.engine.DispatchPhase">
             <handler name="IntegratorStatefulHandler" class="org.wso2.carbon.integrator.core.handler.IntegratorStatefulHandler"/>
+            <handler name="JSONMessageHandler" class="org.apache.axis2.json.gson.JSONMessageHandler" />
             <handler name="SOAPActionBasedDispatcher"
                      class="org.apache.axis2.dispatchers.SOAPActionBasedDispatcher"/>
             <handler name="RequestURIOperationDispatcher"

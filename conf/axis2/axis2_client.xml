@@ -71,7 +71,7 @@
     <deployer extension=".class" directory="pojo" class="org.apache.axis2.deployment.POJODeployer"/>
 
     <!-- Following parameter will set the host name for the epr-->
-    <parameter name="hostname" locked="true">10.49.40.202</parameter>
+    <!--<parameter name="hostname" locked="true">myhost.com</parameter>-->
 
     <!-- ================================================= -->
     <!-- Message Receivers -->
@@ -184,19 +184,15 @@
                      class="org.apache.axis2.transport.http.CommonsHTTPTransportSender">
         <parameter name="PROTOCOL">HTTP/1.1</parameter>
         <parameter name="Transfer-Encoding">chunked</parameter>
-        <parameter name="SO_TIMEOUT">180000</parameter>
-        <parameter name="CONNECTION_TIMEOUT">180000</parameter>
-        <parameter name="cacheHttpClient">true</parameter>
-        <parameter name="defaultMaxConnectionsPerHost">100</parameter>
+        <parameter name="SO_TIMEOUT">60000</parameter>
+        <parameter name="CONNECTION_TIMEOUT">60000</parameter>
     </transportSender>
     <transportSender name="https"
                      class="org.apache.axis2.transport.http.CommonsHTTPTransportSender">
         <parameter name="PROTOCOL">HTTP/1.1</parameter>
         <parameter name="Transfer-Encoding">chunked</parameter>
-        <parameter name="SO_TIMEOUT">180000</parameter>
-        <parameter name="CONNECTION_TIMEOUT">180000</parameter>
-        <parameter name="cacheHttpClient">true</parameter>
-        <parameter name="defaultMaxConnectionsPerHost">100</parameter>
+        <parameter name="SO_TIMEOUT">60000</parameter>
+        <parameter name="CONNECTION_TIMEOUT">60000</parameter>
     </transportSender>
     <!--<transportSender name="java"-->
     <!--class="org.apache.axis2.transport.java.JavaTransportSender"/>-->

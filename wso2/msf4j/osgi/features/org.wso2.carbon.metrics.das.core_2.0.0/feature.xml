@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<feature id="org.wso2.carbon.metrics.das.core" label="WSO2 Carbon Metrics DAS Core Feature" provider-name="%providerName" version="2.0.0">
+  <description>This feature contains the core bundles required by the Metrics DAS Reporter</description>
+  <copyright>%copyright</copyright>
+  <license url="%licenseURL">%license</license>
+  <plugin id="org.wso2.carbon.metrics.das.reporter" unpack="false" version="2.0.0"/>
+  <plugin id="libthrift" unpack="false" version="0.8.0.wso2v1"/>
+  <plugin id="org.wso2.carbon.databridge.commons" unpack="false" version="5.0.11"/>
+  <plugin id="commons-pool" unpack="false" version="1.5.6.wso2v1"/>
+  <plugin id="disruptor" unpack="false" version="3.3.2.wso2v2"/>
+  <plugin id="org.wso2.carbon.databridge.commons.thrift" unpack="false" version="5.0.11"/>
+  <plugin id="commons-io" unpack="false" version="2.4.0.wso2v1"/>
+  <plugin id="org.wso2.carbon.metrics.das.core" unpack="false" version="2.0.0"/>
+  <plugin id="org.wso2.carbon.databridge.agent" unpack="false" version="5.0.11"/>
+  <require>
+    <import feature="org.wso2.carbon.metrics.core" match="compatible" version="2.0.0"/>
+  </require>
+</feature>

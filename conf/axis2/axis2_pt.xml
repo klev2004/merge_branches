@@ -61,8 +61,8 @@
     <parameter name="ModulesDirectory">axis2modules</parameter>
 
     <!-- User agent and the server details to be used in the http communication -->
-    <parameter name="userAgent" locked="true">WSO2 EI 6.0.0</parameter>
-    <parameter name="server" locked="true">WSO2 EI 6.0.0</parameter>
+    <parameter name="userAgent" locked="true">WSO2 EI 6.1.0</parameter>
+    <parameter name="server" locked="true">WSO2 EI 6.1.0</parameter>
 
     <!-- During a fault, stacktrace can be sent with the fault message. The following flag -->
     <!-- will control that behaviour -->
@@ -79,7 +79,7 @@
     <parameter name="manageTransportSession" locked="false">true</parameter>
 
     <!-- This will give out the timout of the configuration contexts, in milliseconds -->
-    <parameter name="ConfigContextTimeoutInterval" locked="false">180000</parameter>
+    <parameter name="ConfigContextTimeoutInterval" locked="false">30000</parameter>
 
     <!-- Synapse Configuration file location relative to CARBON_HOME -->
     <parameter name="SynapseConfig.ConfigurationFile" locked="false">repository/deployment/server/synapse-configs</parameter>
@@ -270,8 +270,8 @@
                 <Password>wso2carbon</Password>
             </TrustStore>
         </parameter>
-        <parameter name="SSLVerifyClient">optional</parameter>
-            <!-- supports optional|require or defaults to none -->
+        <!--<parameter name="SSLVerifyClient">require</parameter>
+            supports optional|require or defaults to none -->
     </transportReceiver>
 
     <transportReceiver name="local" class="org.wso2.carbon.core.transports.local.CarbonLocalTransportReceiver"/>
@@ -416,7 +416,7 @@
                 <Password>wso2carbon</Password>
             </TrustStore>
         </parameter>
-        <parameter name="HostnameVerifier">AllowAll</parameter>
+        <!--<parameter name="HostnameVerifier">DefaultAndLocalhost</parameter>-->
         <!--supports Strict|AllowAll|DefaultAndLocalhost or the default if none specified -->
     </transportSender>
 
@@ -533,7 +533,7 @@
 
         <parameter name="mcastTTL">100</parameter>
 
-        <parameter name="mcastTimeout">90</parameter>
+        <parameter name="mcastTimeout">60</parameter>
 
         <!--
            The IP address of the network interface to which the multicasting has to be bound to.

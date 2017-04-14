@@ -1,0 +1,20 @@
+#Sat Apr 08 03:15:50 IST 2017
+repositories/file\:_home_wso2-builder_Desktop_ei_builds_product-ei_p2-profile_msf4j-profile_target_wso2msf4j-2.2.2_osgi_p2_org.eclipse.equinox.p2.core_cache/enabled=true
+repositories/file\:_home_wso2-builder_Desktop_ei_builds_product-ei_p2-profile_msf4j-profile_target_wso2msf4j-2.2.2_osgi/version=1.0.0
+repositories/file\:_home_wso2-builder_Desktop_ei_builds_product-ei_p2-profile_msf4j-profile_target_wso2msf4j-2.2.2_osgi/provider=
+repositories/file\:_home_wso2-builder_Desktop_ei_builds_product-ei_p2-profile_msf4j-profile_target_wso2msf4j-2.2.2_osgi/name=Bundle pool
+repositories/file\:_home_wso2-builder_Desktop_ei_builds_product-ei_p2-profile_msf4j-profile_target_wso2msf4j-2.2.2_osgi_p2_org.eclipse.equinox.p2.core_cache/description=
+repositories/file\:_home_wso2-builder_Desktop_ei_builds_product-ei_p2-profile_msf4j-profile_target_wso2msf4j-2.2.2_osgi/enabled=true
+repositories/file\:_home_wso2-builder_Desktop_ei_builds_product-ei_p2-profile_msf4j-profile_target_wso2msf4j-2.2.2_osgi/uri=file\:/home/wso2-builder/Desktop/ei_builds/product-ei/p2-profile/msf4j-profile/target/wso2msf4j-2.2.2/osgi/
+eclipse.preferences.version=1
+repositories/file\:_home_wso2-builder_Desktop_ei_builds_product-ei_p2-profile_msf4j-profile_target_wso2msf4j-2.2.2_osgi/type=org.eclipse.equinox.p2.artifact.repository.simpleRepository
+repositories/file\:_home_wso2-builder_Desktop_ei_builds_product-ei_p2-profile_msf4j-profile_target_wso2msf4j-2.2.2_osgi_p2_org.eclipse.equinox.p2.core_cache/isSystem=true
+repositories/file\:_home_wso2-builder_Desktop_ei_builds_product-ei_p2-profile_msf4j-profile_target_wso2msf4j-2.2.2_osgi_p2_org.eclipse.equinox.p2.core_cache/name=download cache
+repositories/file\:_home_wso2-builder_Desktop_ei_builds_product-ei_p2-profile_msf4j-profile_target_wso2msf4j-2.2.2_osgi_p2_org.eclipse.equinox.p2.core_cache/provider=
+repositories/file\:_home_wso2-builder_Desktop_ei_builds_product-ei_p2-profile_msf4j-profile_target_wso2msf4j-2.2.2_osgi_p2_org.eclipse.equinox.p2.core_cache/suffix=artifacts.xml
+repositories/file\:_home_wso2-builder_Desktop_ei_builds_product-ei_p2-profile_msf4j-profile_target_wso2msf4j-2.2.2_osgi/description=
+repositories/file\:_home_wso2-builder_Desktop_ei_builds_product-ei_p2-profile_msf4j-profile_target_wso2msf4j-2.2.2_osgi/suffix=artifacts.xml
+repositories/file\:_home_wso2-builder_Desktop_ei_builds_product-ei_p2-profile_msf4j-profile_target_wso2msf4j-2.2.2_osgi_p2_org.eclipse.equinox.p2.core_cache/type=org.eclipse.equinox.p2.artifact.repository.simpleRepository
+repositories/file\:_home_wso2-builder_Desktop_ei_builds_product-ei_p2-profile_msf4j-profile_target_wso2msf4j-2.2.2_osgi/isSystem=true
+repositories/file\:_home_wso2-builder_Desktop_ei_builds_product-ei_p2-profile_msf4j-profile_target_wso2msf4j-2.2.2_osgi_p2_org.eclipse.equinox.p2.core_cache/version=1.0.0
+repositories/file\:_home_wso2-builder_Desktop_ei_builds_product-ei_p2-profile_msf4j-profile_target_wso2msf4j-2.2.2_osgi_p2_org.eclipse.equinox.p2.core_cache/uri=file\:/home/wso2-builder/Desktop/ei_builds/product-ei/p2-profile/msf4j-profile/target/wso2msf4j-2.2.2/osgi/p2/org.eclipse.equinox.p2.core/cache/

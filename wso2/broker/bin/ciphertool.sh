@@ -104,13 +104,9 @@ fi
 
 # update classpath
 CARBON_CLASSPATH=""
-for f in "$CARBON_HOME"/lib/org.wso2.ciphertool*.jar
+for f in "$CARBON_HOME"/../lib/org.wso2.ciphertool*.jar
 do
   CARBON_CLASSPATH=$CARBON_CLASSPATH:$f
-done
-for h in "$CARBON_HOME"/repository/components/plugins/*.jar
-do
-  CARBON_CLASSPATH=$CARBON_CLASSPATH:$h
 done
 CARBON_CLASSPATH=$CARBON_CLASSPATH:$CLASSPATH
 
@@ -123,5 +119,4 @@ if $cygwin; then
 fi
 
 # ----- Execute The Requested Command -----------------------------------------
-
 $JAVA_HOME/bin/java -Dcarbon.home="$CARBON_HOME" -classpath "$CARBON_CLASSPATH" org.wso2.ciphertool.CipherTool $*

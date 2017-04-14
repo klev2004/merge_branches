@@ -31,7 +31,7 @@
     <parameter name="sizeThreshold">4000</parameter-->
 
     <!--This will give out the timout of the configuration contexts, in milliseconds-->
-    <parameter name="ConfigContextTimeoutInterval">180000</parameter>
+    <parameter name="ConfigContextTimeoutInterval">30000</parameter>
 
     <!--During a fault, stacktrace can be sent with the fault message. The following flag will control -->
     <!--that behavior.-->
@@ -211,12 +211,12 @@
         -->
         <!-- <parameter name="hostname">http://www.myApp.com/ws</parameter> -->
         <!-- <parameter name="originServer">My-Server/1.1</parameter>           -->
-        <parameter name="requestTimeout">180000</parameter>
+        <!-- <parameter name="requestTimeout">10000</parameter>                   -->
         <!-- <parameter name="requestTcpNoDelay">false</parameter>                   -->
         <!-- <parameter name="requestCoreThreadPoolSize">50</parameter>                      -->
         <!-- <parameter name="RequestMaxThreadPoolSize">100</parameter>                     -->
-        <parameter name="threadKeepAliveTime">240000</parameter>
-        <parameter name="threadKeepAliveTimeUnit">MILLISECONDS</parameter>
+        <!-- <parameter name="threadKeepAliveTime">240000</parameter>                  -->
+        <!-- <parameter name="threadKeepAliveTimeUnit">MILLISECONDS</parameter>            -->
     </transportReceiver>
 
     <!--Uncomment this and configure as appropriate for JMS transport support, after setting up your JMS environment (e.g. ActiveMQ)
